@@ -23,7 +23,6 @@ def toSpans(tags):
                 if tags[end][0] != 'I':
                     break
             spans.add(str(beg) + '-' + str(end) + ':' + tags[beg][2:])
-            print(end-beg)
     return spans
 
 def getInstanceScores(predPath, goldPath):
