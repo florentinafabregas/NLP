@@ -1,0 +1,21 @@
+Noise Type,Noise Rate,F1 Score
+capitalization_swap,0.1,0.6013518126578821
+capitalization_swap,0.15,0.573163327261688
+capitalization_swap,0.2,0.5392130620985011
+capitalization_swap,0.25,0.5091733938221362
+capitalization_swap,0.3,0.48792462845010615
+character_swap,0.1,0.6218184247444719
+character_swap,0.15,0.4643698103854257
+character_swap,0.2,0.35037362116000476
+character_swap,0.25,0.30640019617459535
+character_swap,0.3,0.29742647058823524
+character_removal,0.1,0.616336304376746
+character_removal,0.15,0.44156482220721
+character_removal,0.2,0.312645322840279
+character_removal,0.25,0.2715612560813799
+character_removal,0.3,0.2707820488543836
+character_replacement,0.1,0.6176823576476863
+character_replacement,0.15,0.4391472630091541
+character_replacement,0.2,0.3126228629296479
+character_replacement,0.25,0.2739097169089518
+character_replacement,0.3,0.27370566133859775
