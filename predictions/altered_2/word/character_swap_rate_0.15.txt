@@ -62,27 +62,27 @@ of	O
 the	O
 group	O
 ,	O
-<oov>	O
+crashing	O
 to	O
 a	O
-surprise	O
+<oov>	O
 2-0	O
 defeat	O
 to	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 .	O
 
 China	B-LOC
-<oov>	O
+controlled	O
 most	O
 of	O
 the	O
 match	O
 and	O
 saw	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+chances	O
 missed	O
 until	O
 the	O
@@ -90,7 +90,7 @@ the	O
 minute	O
 when	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	B-PER
 <oov>	B-PER
 <oov>	I-PER
 took	O
@@ -98,7 +98,7 @@ took	O
 of	O
 a	O
 <oov>	O
-<oov>	O
+defensive	O
 header	O
 to	O
 lob	O
@@ -106,7 +106,7 @@ the	O
 ball	O
 over	O
 the	O
-<oov>	O
+advancing	O
 Chinese	B-MISC
 keeper	O
 and	O
@@ -187,7 +187,7 @@ the	O
 last	O
 six	O
 <oov>	O
-allowed	O
+<oov>	O
 Japan	B-LOC
 to	O
 come	O
@@ -228,10 +228,10 @@ the	O
 Syrian	B-MISC
 goal	O
 which	O
-goalkeeper	O
-<oov>	B-PER
-<oov>	I-PER
-appeared	O
+<oov>	O
+<oov>	O
+<oov>	O
+<oov>	O
 to	O
 have	O
 <oov>	O
@@ -303,7 +303,7 @@ a	O
 header	O
 in	O
 the	O
-seventh	O
+<oov>	O
 minute	O
 .	O
 
@@ -416,13 +416,13 @@ South	B-LOC
 Korea	I-LOC
 take	O
 on	O
-<oov>	O
+Indonesia	B-LOC
 on	O
 <oov>	O
 in	O
 Group	O
 A	O
-matches	O
+<oov>	O
 .	O
 
 All	O
@@ -465,7 +465,7 @@ on	O
 Friday	O
 for	O
 their	O
-<oov>	O
+friendly	O
 <oov>	O
 <oov>	O
 at	O
@@ -491,7 +491,7 @@ over	O
 <oov>	O
 ,	O
 who	O
-<oov>	O
+trainer	O
 George	B-PER
 <oov>	I-PER
 said	O
@@ -500,7 +500,7 @@ was	O
 to	O
 play	O
 on	O
-Saturday	O
+<oov>	O
 week	O
 ,	O
 was	O
@@ -536,7 +536,7 @@ and	O
 said	O
 he	O
 had	O
-<oov>	O
+dropped	O
 back	O
 row	O
 <oov>	B-PER
@@ -661,7 +661,7 @@ Javier	B-PER
 <oov>	I-PER
 ,	O
 <oov>	B-PER
-<oov>	I-PER
+Vaccari	I-PER
 ,	O
 <oov>	B-PER
 <oov>	I-PER
@@ -713,9 +713,9 @@ Carlo	B-PER
 <oov>	I-PER
 ,	O
 Nicola	B-PER
-<oov>	I-PER
+<oov>	O
 ,	O
-<oov>	B-PER
+Alessandro	B-PER
 <oov>	I-PER
 ,	O
 Andrea	B-PER
@@ -781,13 +781,13 @@ game	O
 after	O
 <oov>	O
 <oov>	O
+<oov>	B-PER
 <oov>	O
-spoiled	O
 a	O
 <oov>	O
 <oov>	O
 by	O
-allowing	O
+<oov>	O
 the	O
 ball	O
 to	O
@@ -802,8 +802,8 @@ was	O
 the	O
 second	O
 Syrian	B-MISC
-defensive	O
 <oov>	O
+blunder	O
 in	O
 four	O
 <oov>	O
@@ -1092,7 +1092,7 @@ Abbas	I-PER
 ,	O
 10	O
 -	O
-Mohammed	B-PER
+<oov>	B-PER
 <oov>	I-PER
 ,	O
 12	O
@@ -1144,7 +1144,7 @@ the	O
 World	B-MISC
 Cup	I-MISC
 
-<oov>	O
+freestyle	O
 <oov>	O
 <oov>	O
 <oov>	O
@@ -1241,7 +1241,7 @@ Women	O
 <oov>	B-PER
 <oov>	I-PER
 (	O
-Germany	B-LOC
+<oov>	O
 )	O
 <oov>	O
 
@@ -1257,7 +1257,7 @@ France	B-LOC
 <oov>	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Finland	B-LOC
 )	O
 <oov>	O
 
@@ -1341,7 +1341,7 @@ Asian	B-MISC
 Cup	I-MISC
 group	O
 C	O
-<oov>	O
+matches	O
 played	O
 on	O
 Friday	O
@@ -1378,7 +1378,7 @@ Syria	B-LOC
 <oov>	I-PER
 7	O
 
-<oov>	O
+Attendance	O
 :	O
 10,000	O
 .	O
@@ -1388,7 +1388,7 @@ China	B-LOC
 <oov>	O
 2	O
 (	O
-<oov>	O
+halftime	O
 0-0	O
 )	O
 
@@ -1465,11 +1465,11 @@ China	B-LOC
 2	O
 0	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 -	O
-PAKISTAN	B-LOC
+<oov>	O
 V	O
 NEW	B-LOC
 <oov>	O
@@ -1493,14 +1493,14 @@ in	O
 the	O
 second	O
 
-one-day	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 <oov>	O
 <oov>	I-PER
 <oov>	I-PER
 and	O
 New	B-LOC
-Zealand	I-LOC
+<oov>	I-PER
 
 on	O
 Friday	O
@@ -1525,7 +1525,7 @@ b	O
 Cairns	B-PER
 86	O
 (	O
-corrects	O
+<oov>	O
 from	O
 87	O
 )	O
@@ -1669,9 +1669,9 @@ w-1	O
 <oov>	O
 )	O
 
-New	B-LOC
-<oov>	I-PER
-<oov>	I-PER
+New	O
+<oov>	O
+innings	O
 
 B.	B-PER
 Young	I-PER
@@ -1697,7 +1697,7 @@ c	O
 Ijaz	B-PER
 Ahmad	I-PER
 b	O
-<oov>	B-PER
+Saqlain	B-PER
 37	O
 
 S.	B-PER
@@ -1739,7 +1739,7 @@ b	O
 2	O
 
 J.	B-PER
-Vaughan	I-PER
+<oov>	I-PER
 c	O
 Moin	B-PER
 Khan	I-PER
@@ -1821,7 +1821,7 @@ Younis	I-PER
 1nb	O
 )	O
 ,	O
-Saqlain	B-PER
+<oov>	B-PER
 <oov>	I-PER
 <oov>	I-PER
 ,	O
@@ -1860,14 +1860,14 @@ Third	O
 one-day	O
 match	O
 :	O
-<oov>	O
+December	O
 8	O
 ,	O
 in	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -1886,8 +1886,8 @@ Result	O
 of	O
 an	O
 <oov>	O
-F.A.	B-PER
-<oov>	I-PER
+F.A.	O
+Challenge	I-MISC
 
 Cup	B-MISC
 second	O
@@ -1934,10 +1934,10 @@ to	O
 make	O
 his	O
 <oov>	O
+Wednesday	O
 <oov>	O
-<oov>	O
-against	O
-<oov>	O
+<oov>	B-PER
+Liverpool	B-ORG
 on	O
 <oov>	O
 .	O
@@ -1952,7 +1952,7 @@ two	O
 games	O
 after	O
 FIFA	B-PER
-slapped	O
+<oov>	I-PER
 a	O
 <oov>	O
 ban	O
@@ -2006,14 +2006,14 @@ be	O
 .	O
 
 The	O
-<oov>	O
+committee	O
 said	O
 the	O
-Italian	B-MISC
+<oov>	O
 club	O
 had	O
 <oov>	O
-<oov>	O
+regulations	O
 by	O
 <oov>	O
 to	O
@@ -2040,7 +2040,7 @@ $	O
 <oov>	O
 )	O
 for	O
-failing	O
+<oov>	O
 to	O
 inform	O
 the	O
@@ -2118,9 +2118,9 @@ the	O
 act	O
 by	O
 <oov>	B-PER
-<oov>	O
-,	O
 <oov>	B-PER
+,	O
+pleaded	O
 guilty	O
 to	O
 a	O
@@ -2138,7 +2138,7 @@ He	O
 was	O
 fined	O
 and	O
-<oov>	O
+ordered	O
 to	O
 pay	O
 a	O
@@ -2200,7 +2200,7 @@ who	O
 moved	O
 to	O
 the	O
-Yorkshire	B-ORG
+<oov>	O
 club	O
 in	O
 August	O
@@ -2219,14 +2219,14 @@ was	O
 to	O
 play	O
 <oov>	B-PER
-Middlesbrough	B-ORG
+<oov>	O
 on	O
-Saturday	O
+<oov>	O
 .	O
 
 <oov>	B-PER
 
-BASKETBALL	O
+<oov>	O
 -	O
 <oov>	B-PER
 <oov>	I-PER
@@ -2348,7 +2348,7 @@ Greece	B-LOC
 <oov>	B-PER
 Zagreb	I-PER
 (	O
-<oov>	B-ORG
+Croatia	B-LOC
 )	O
 9	O
 5	O
@@ -2432,10 +2432,10 @@ Split	B-ORG
 5	O
 13	O
 
-Bayer	B-ORG
+Bayer	B-PER
 <oov>	I-PER
 (	O
-<oov>	B-ORG
+Germany	B-LOC
 )	O
 9	O
 0	O
@@ -2529,14 +2529,14 @@ miss	O
 <oov>	B-PER
 's	O
 <oov>	O
-fixture	O
+<oov>	O
 <oov>	O
 the	O
 <oov>	O
 at	O
 <oov>	O
 on	O
-<oov>	O
+Saturday	O
 .	O
 
 Little	B-PER
@@ -2609,7 +2609,7 @@ on	O
 a	O
 13th	O
 <oov>	O
-<oov>	O
+victory	O
 to	O
 end	O
 their	O
@@ -2618,7 +2618,7 @@ tour	O
 with	O
 a	O
 100	O
-<oov>	O
+percent	O
 record	O
 but	O
 also	O
@@ -2629,20 +2629,20 @@ on	O
 the	O
 style	O
 and	O
-provide	O
+<oov>	O
 David	B-PER
 <oov>	I-PER
 with	O
 a	O
-fitting	O
+<oov>	O
 <oov>	O
 in	O
 his	O
 final	O
 match	O
 in	O
-<oov>	B-PER
-<oov>	I-PER
+Australian	B-MISC
+<oov>	O
 .	O
 
 The	O
@@ -2654,7 +2654,7 @@ plans	O
 to	O
 make	O
 any	O
-special	O
+<oov>	O
 <oov>	O
 to	O
 the	O
@@ -2695,7 +2695,7 @@ the	O
 shape	O
 of	O
 <oov>	O
-captain	O
+<oov>	O
 Rob	B-PER
 Andrew	I-PER
 ,	O
@@ -2714,7 +2714,7 @@ in	O
 the	O
 World	B-MISC
 Cup	I-MISC
-quarter-final	O
+<oov>	O
 in	O
 Cape	B-LOC
 Town	I-LOC
@@ -2769,12 +2769,12 @@ won	O
 all	O
 four	O
 tests	O
-against	O
+<oov>	O
 Italy	B-LOC
 ,	O
 <oov>	O
 ,	O
-<oov>	B-PER
+Ireland	B-LOC
 and	O
 Wales	B-LOC
 ,	O
@@ -2871,7 +2871,7 @@ Wales	B-LOC
 Tony	B-PER
 <oov>	I-PER
 (	O
-England	B-LOC
+<oov>	O
 )	O
 ;	O
 10	O
@@ -2903,7 +2903,7 @@ Wales	B-LOC
 Neil	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+England	B-LOC
 )	O
 ,	O
 6	O
@@ -2920,7 +2920,7 @@ Ian	B-PER
 Jones	I-PER
 (	O
 New	B-LOC
-Zealand	I-LOC
+<oov>	O
 )	O
 ,	O
 4	O
@@ -2961,7 +2961,7 @@ Nick	B-PER
 -	O
 15	O
 -	O
-<oov>	B-PER
+Matthew	B-PER
 <oov>	I-PER
 ;	O
 14	O
@@ -2999,7 +2999,7 @@ Payne	I-PER
 ;	O
 8	O
 -	O
-Michael	B-PER
+<oov>	B-PER
 <oov>	I-PER
 ,	O
 7	O
@@ -3052,7 +3052,7 @@ SCORES	O
 HARARE	B-LOC
 <oov>	I-PER
 
-Leading	O
+<oov>	O
 second	O
 round	O
 scores	O
@@ -3098,7 +3098,7 @@ van	I-PER
 Nick	B-PER
 Price	I-PER
 (	O
-Zimbabwe	B-LOC
+<oov>	O
 )	O
 68	O
 68	O
@@ -3224,7 +3224,7 @@ Ian	B-PER
 73	O
 69	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -3255,7 +3255,7 @@ his	O
 squad	O
 to	O
 face	O
-Macedonia	B-LOC
+<oov>	O
 next	O
 week	O
 in	O
@@ -3269,8 +3269,8 @@ Cup	I-MISC
 <oov>	I-PER
 Stefan	I-PER
 and	O
-striker	O
-<oov>	B-PER
+<oov>	O
+<oov>	I-PER
 Ion	I-PER
 of	O
 Otelul	B-LOC
@@ -3312,7 +3312,7 @@ good	O
 in	O
 the	O
 <oov>	O
-<oov>	O
+championship	O
 in	O
 which	O
 <oov>	O
@@ -3345,17 +3345,17 @@ told	O
 
 League	O
 <oov>	O
-Steaua	I-PER
-<oov>	O
+Steaua	B-PER
+<oov>	I-PER
 ,	O
 who	O
-<oov>	O
+finished	O
 bottom	O
 of	O
 their	O
-Champions	B-MISC
-'	I-MISC
-League	I-MISC
+<oov>	O
+'	O
+League	O
 group	O
 in	O
 the	O
@@ -3472,7 +3472,7 @@ Ion	I-PER
 
 REUTER	B-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -3491,8 +3491,8 @@ of	O
 <oov>	B-PER
 
 soccer	O
-championship	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 first	O
 leg	O
@@ -3533,7 +3533,7 @@ Robert	B-PER
 gave	O
 Brian	B-PER
 Lara	I-PER
-another	O
+<oov>	O
 reason	O
 to	O
 be	O
@@ -3545,7 +3545,7 @@ West	B-LOC
 Indies	I-LOC
 by	O
 five	O
-<oov>	O
+wickets	O
 in	O
 the	O
 <oov>	B-MISC
@@ -3562,12 +3562,12 @@ Lara	B-PER
 ,	O
 <oov>	O
 for	O
-misconduct	O
+<oov>	O
 on	O
-Wednedsay	O
+<oov>	O
 ,	O
 was	O
-dismissed	O
+<oov>	O
 for	O
 five	O
 to	O
@@ -3622,13 +3622,13 @@ six	O
 <oov>	O
 Greg	B-PER
 <oov>	I-PER
-<oov>	O
+steered	O
 his	O
 side	O
 to	O
 a	O
 <oov>	O
-victory	O
+<oov>	O
 with	O
 an	O
 <oov>	O
@@ -3793,7 +3793,7 @@ to	O
 hold	O
 the	O
 <oov>	O
-<oov>	O
+together	O
 with	O
 a	O
 <oov>	O
@@ -3819,10 +3819,10 @@ for	O
 most	O
 of	O
 his	O
-innings	O
-after	O
-<oov>	B-PER
 <oov>	O
+after	O
+<oov>	O
+himself	O
 as	O
 he	O
 <oov>	O
@@ -3842,7 +3842,7 @@ out	O
 who	O
 arrive	O
 in	O
-Australia	B-LOC
+<oov>	O
 later	O
 this	O
 month	O
@@ -3851,7 +3851,7 @@ are	O
 the	O
 other	O
 team	O
-<oov>	O
+competing	O
 in	O
 the	O
 World	B-MISC
@@ -3861,7 +3861,7 @@ Series	I-MISC
 
 <oov>	B-PER
 
-CRICKET	O
+<oov>	O
 -	O
 <oov>	O
 V	O
@@ -3881,10 +3881,10 @@ the	O
 World	B-MISC
 Series	I-MISC
 
-<oov>	O
+limited	O
 overs	O
 match	O
-<oov>	B-PER
+between	O
 <oov>	O
 and	O
 West	B-LOC
@@ -3960,7 +3960,7 @@ Waugh	I-PER
 7	O
 
 K.	B-PER
-Benjamin	I-PER
+<oov>	I-PER
 b	O
 <oov>	B-PER
 8	O
@@ -3994,12 +3994,12 @@ overs	O
 
 Fall	O
 of	O
-wickets	O
+<oov>	O
 :	O
-<oov>	O
-<oov>	O
-<oov>	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
+<oov>	I-PER
+<oov>	I-PER
 <oov>	I-PER
 <oov>	I-PER
 <oov>	I-PER
@@ -4176,20 +4176,20 @@ Result	O
 won	O
 by	O
 five	O
-wickets	O
+<oov>	O
 .	O
 
 <oov>	B-PER
 
 <oov>	O
 -	O
-AUSTRALIA	B-LOC
+<oov>	O
 BEAT	O
 WEST	O
 <oov>	O
 BY	O
 <oov>	O
-<oov>	O
+WICKETS	O
 .	O
 
 <oov>	B-PER
@@ -4281,11 +4281,11 @@ in	O
 the	O
 World	B-MISC
 Series	I-MISC
-<oov>	I-MISC
+<oov>	O
 overs	O
 match	O
 <oov>	O
-<oov>	O
+Australia	B-LOC
 on	O
 Friday	O
 .	O
@@ -4294,7 +4294,7 @@ Friday	O
 
 CRICKET	O
 -	O
-<oov>	B-PER
+SHEFFIELD	B-PER
 <oov>	I-PER
 <oov>	O
 .	O
@@ -4315,12 +4315,12 @@ the	O
 <oov>	O
 <oov>	O
 match	O
-between	O
+<oov>	O
 <oov>	O
 and	O
 <oov>	O
 at	O
-<oov>	B-LOC
+<oov>	O
 Oval	I-LOC
 on	O
 Friday	O
@@ -4343,12 +4343,12 @@ Young	I-PER
 not	O
 out	O
 ,	O
-<oov>	O
+<oov>	B-PER
 <oov>	I-PER
 119	O
 )	O
 v	O
-Victoria	B-LOC
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -4389,15 +4389,15 @@ for	O
 when	O
 he	O
 was	O
-dismissed	O
 <oov>	O
+cheaply	O
 in	O
 the	O
 first	O
-<oov>	O
+limited	O
 overs	O
 match	O
-<oov>	B-PER
+against	O
 <oov>	O
 on	O
 Friday	O
@@ -4414,14 +4414,14 @@ from	O
 his	O
 own	O
 tour	O
-<oov>	O
+management	O
 after	O
 an	O
 angry	O
 <oov>	O
-against	O
 <oov>	O
-wicketkeeper	O
+<oov>	O
+<oov>	O
 Ian	B-PER
 Healy	I-PER
 ,	O
@@ -4442,7 +4442,7 @@ bat	O
 The	O
 West	B-LOC
 Indies	I-LOC
-<oov>	O
+vice-captain	O
 <oov>	O
 for	O
 timing	O
@@ -4462,9 +4462,9 @@ medium	O
 <oov>	O
 Tom	B-PER
 Moody	I-PER
-<oov>	O
+straight	O
 to	O
-Shane	B-PER
+Shane	B-MISC
 <oov>	O
 at	O
 <oov>	O
@@ -4486,8 +4486,8 @@ play	O
 at	O
 the	O
 <oov>	O
-<oov>	B-PER
-<oov>	O
+Cricket	B-PER
+<oov>	I-PER
 after	O
 <oov>	O
 <oov>	B-PER
@@ -4540,22 +4540,22 @@ crowd	O
 
 On	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 during	O
 his	O
-innings	O
+<oov>	O
 ,	O
 the	O
 crowd	O
 joined	O
-<oov>	O
+together	O
 in	O
 a	O
 series	O
 of	O
 <oov>	O
 <oov>	O
-against	O
+<oov>	O
 him	O
 .	O
 
@@ -4565,7 +4565,7 @@ manager	O
 Lloyd	I-PER
 on	O
 <oov>	O
-apologised	O
+<oov>	O
 for	O
 Lara	B-PER
 's	O
@@ -4585,7 +4585,7 @@ to	O
 <oov>	O
 <oov>	O
 his	O
-<oov>	O
+dismissal	O
 in	O
 the	O
 second	O
@@ -4632,12 +4632,12 @@ in	O
 the	O
 <oov>	O
 and	O
-questioned	O
-whether	O
+<oov>	B-PER
+<oov>	I-PER
 the	O
 ball	O
 had	O
-<oov>	O
+carried	O
 to	O
 the	O
 <oov>	O
@@ -4654,7 +4654,7 @@ match	O
 at	O
 the	O
 Sydney	B-LOC
-Cricket	O
+<oov>	O
 <oov>	O
 by	O
 124	O
@@ -4682,7 +4682,7 @@ yet	O
 to	O
 score	O
 a	O
-century	O
+<oov>	O
 since	O
 West	B-LOC
 Indies	I-LOC
@@ -4707,18 +4707,18 @@ down	O
 the	O
 <oov>	O
 ,	O
-stressing	O
-that	O
 <oov>	O
-between	O
+that	O
+<oov>	B-PER
+<oov>	I-PER
 the	O
 two	O
 sides	O
 have	O
 not	O
 been	O
+<oov>	B-PER
 <oov>	O
-affected	O
 .	O
 
 <oov>	B-PER
@@ -4754,19 +4754,19 @@ THE	O
 TOSS	O
 .	O
 
-MELBOURNE	B-PER
+<oov>	B-PER
 <oov>	I-PER
 
 West	B-LOC
 Indies	I-LOC
 <oov>	O
-<oov>	O
+<oov>	B-PER
 Walsh	I-PER
-<oov>	O
+elected	O
 to	O
 bat	O
 after	O
-winning	O
+<oov>	O
 the	O
 toss	O
 in	O
@@ -4777,16 +4777,16 @@ in	O
 the	O
 World	B-MISC
 Series	I-MISC
-limited	O
+<oov>	I-MISC
 overs	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 at	O
 the	O
+Melbourne	B-LOC
+Cricket	I-MISC
 <oov>	O
-<oov>	O
-<oov>	I-PER
 on	O
 Friday	O
 .	O
@@ -4824,7 +4824,7 @@ Ian	B-PER
 Healy	I-PER
 ,	O
 Paul	B-PER
-Reiffel	I-PER
+<oov>	I-PER
 ,	O
 Shane	B-PER
 <oov>	I-PER
@@ -4833,7 +4833,7 @@ Jason	B-PER
 <oov>	I-PER
 ,	O
 Glenn	B-PER
-<oov>	I-PER
+McGrath	I-PER
 12th	O
 man	O
 .	O
@@ -4842,7 +4842,7 @@ West	B-LOC
 Indies	I-LOC
 -	O
 <oov>	B-PER
-Campbell	I-PER
+<oov>	I-PER
 ,	O
 Robert	B-PER
 <oov>	I-PER
@@ -4865,7 +4865,7 @@ Murray	I-PER
 Nixon	B-PER
 <oov>	I-PER
 ,	O
-Kenneth	B-PER
+<oov>	B-PER
 <oov>	I-PER
 ,	O
 <oov>	B-PER
@@ -4874,7 +4874,7 @@ Kenneth	B-PER
 <oov>	B-PER
 Walsh	I-PER
 (	O
-<oov>	O
+captain	O
 )	O
 ,	O
 <oov>	B-PER
@@ -4945,7 +4945,7 @@ beat	O
 Thomas	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Denmark	B-LOC
 )	O
 15-10	O
 15-6	O
@@ -4978,13 +4978,13 @@ beat	O
 Rashid	B-PER
 <oov>	I-PER
 (	O
-Malaysia	B-LOC
+<oov>	O
 )	O
 15-12	O
 17-14	O
 
-<oov>	B-PER
-Susanto	I-PER
+Hermawan	B-PER
+<oov>	I-PER
 (	O
 <oov>	O
 )	O
@@ -5005,7 +5005,7 @@ Allan	B-PER
 <oov>	I-PER
 <oov>	I-PER
 (	O
-Indonesia	B-LOC
+<oov>	O
 )	O
 beat	O
 <oov>	B-PER
@@ -5046,7 +5046,7 @@ Indra	B-PER
 
 Wijaya	B-PER
 (	O
-Indonesia	B-LOC
+<oov>	O
 )	O
 ;	O
 Sun	B-PER
@@ -5071,7 +5071,7 @@ Group	O
 A	O
 
 Gong	B-PER
-Zhichao	I-PER
+<oov>	I-PER
 (	O
 China	B-LOC
 )	O
@@ -5123,7 +5123,7 @@ D	O
 <oov>	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Indonesia	B-LOC
 )	O
 beat	O
 <oov>	B-PER
@@ -5150,7 +5150,7 @@ v	O
 <oov>	B-PER
 Martin	B-PER
 (	O
-<oov>	O
+Denmark	B-LOC
 )	O
 ;	O
 <oov>	B-PER
@@ -5175,7 +5175,7 @@ SOCCER	O
 WIN	O
 <oov>	B-MISC
 CUP	I-MISC
-WINNERS	I-MISC
+<oov>	I-MISC
 '	I-MISC
 CUP	I-MISC
 .	O
@@ -5190,9 +5190,9 @@ second	O
 leg	O
 of	O
 the	O
-African	B-MISC
+<oov>	B-MISC
 Cup	I-MISC
-Winners	I-MISC
+<oov>	I-MISC
 '	I-MISC
 Cup	I-MISC
 final	O
@@ -5250,7 +5250,7 @@ HOCKEY	O
 -	O
 <oov>	O
 AFTER	O
-<oov>	O
+THURSDAY	O
 'S	O
 GAMES	O
 .	O
@@ -5352,7 +5352,7 @@ OTTAWA	B-ORG
 72	O
 20	O
 
-ATLANTIC	B-MISC
+<oov>	O
 DIVISION	I-MISC
 
 W	O
@@ -5370,7 +5370,7 @@ T	O
 53	O
 40	O
 
-<oov>	B-ORG
+PHILADELPHIA	B-ORG
 14	O
 12	O
 2	O
@@ -5387,7 +5387,7 @@ NEW	B-ORG
 61	O
 29	O
 
-<oov>	B-ORG
+WASHINGTON	B-ORG
 13	O
 12	O
 1	O
@@ -5422,8 +5422,8 @@ NEW	B-ORG
 81	O
 18	O
 
-<oov>	B-PER
-<oov>	I-PER
+WESTERN	B-MISC
+<oov>	I-MISC
 
 <oov>	B-PER
 <oov>	I-PER
@@ -5451,7 +5451,7 @@ DALLAS	B-ORG
 60	O
 33	O
 
-CHICAGO	B-ORG
+<oov>	B-ORG
 12	O
 12	O
 3	O
@@ -5476,7 +5476,7 @@ LOUIS	I-ORG
 <oov>	O
 22	O
 
-<oov>	O
+PHOENIX	B-ORG
 9	O
 13	O
 4	O
@@ -5519,7 +5519,7 @@ T	O
 27	O
 
 LOS	B-ORG
-ANGELES	I-ORG
+<oov>	I-ORG
 11	O
 13	O
 3	O
@@ -5536,7 +5536,7 @@ JOSE	I-ORG
 87	O
 24	O
 
-<oov>	B-ORG
+CALGARY	B-ORG
 10	O
 16	O
 2	O
@@ -5561,9 +5561,9 @@ FRIDAY	O
 AT	O
 <oov>	B-PER
 
-<oov>	O
+TORONTO	B-ORG
 AT	O
-<oov>	B-PER
+<oov>	B-LOC
 <oov>	I-PER
 
 <oov>	O
@@ -5616,7 +5616,7 @@ NBA	B-ORG
 to	O
 <oov>	O
 and	O
-<oov>	O
+corrects	O
 team	O
 name	O
 in	O
@@ -5682,7 +5682,7 @@ LOS	B-ORG
 <oov>	B-PER
 
 <oov>	O
-AMERICAN	B-MISC
+<oov>	O
 <oov>	O
 <oov>	O
 <oov>	O
@@ -5709,10 +5709,10 @@ but	O
 last	O
 year	O
 's	O
-<oov>	B-PER
-<oov>	I-PER
-rallied	O
 <oov>	O
+<oov>	O
+<oov>	I-PER
+<oov>	I-PER
 to	O
 shoot	O
 down	O
@@ -5724,11 +5724,11 @@ in	O
 a	O
 <oov>	O
 of	O
-<oov>	O
-contenders	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
-Marshall	B-PER
+<oov>	B-PER
 <oov>	I-PER
 rushed	O
 for	O
@@ -5905,7 +5905,7 @@ Ray	I-PER
 <oov>	O
 and	O
 <oov>	B-PER
-Quentin	I-PER
+<oov>	I-PER
 <oov>	I-PER
 .	O
 
@@ -5990,10 +5990,10 @@ for	O
 75	O
 yards	O
 ,	O
-including	O
+<oov>	O
 a	O
 <oov>	O
-<oov>	O
+scoring	O
 strike	O
 to	O
 <oov>	B-PER
@@ -6012,7 +6012,7 @@ A	O
 <oov>	O
 's	O
 Troy	B-PER
-<oov>	O
+Vincent	I-PER
 set	O
 up	O
 <oov>	O
@@ -6081,7 +6081,7 @@ seven	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 NBA	B-ORG
 <oov>	O
@@ -6099,25 +6099,25 @@ YORK	I-LOC
 
 <oov>	B-PER
 of	O
-<oov>	B-PER
+National	B-LOC
 
-<oov>	O
-<oov>	O
+<oov>	B-ORG
+Association	I-ORG
 teams	O
 after	O
 games	O
 played	O
 on	O
-Thursday	O
+<oov>	B-PER
 
 (	O
-<oov>	O
+tabulate	O
 under	O
 won	O
 ,	O
 lost	O
 ,	O
-<oov>	B-PER
+percentage	O
 ,	O
 games	O
 behind	O
@@ -6181,8 +6181,8 @@ NEW	B-ORG
 8	O
 1/2	O
 
-CENTRAL	B-MISC
-<oov>	I-MISC
+<oov>	B-PER
+<oov>	I-PER
 
 W	O
 L	O
@@ -6232,7 +6232,7 @@ GB	O
 8	O
 1/2	O
 
-<oov>	O
+TORONTO	B-ORG
 6	O
 11	O
 .353	O
@@ -6242,8 +6242,8 @@ GB	O
 <oov>	B-PER
 <oov>	I-PER
 
-<oov>	O
-DIVISION	I-MISC
+<oov>	B-PER
+<oov>	I-PER
 
 W	O
 L	O
@@ -6304,7 +6304,7 @@ L	O
 PCT	O
 GB	O
 
-SEATTLE	B-ORG
+<oov>	O
 15	O
 5	O
 <oov>	O
@@ -6378,9 +6378,9 @@ AT	O
 SAN	B-LOC
 <oov>	I-LOC
 
-MINNESOTA	B-ORG
+<oov>	O
 AT	O
-<oov>	B-LOC
+<oov>	B-PER
 
 <oov>	O
 AT	O
@@ -6411,13 +6411,13 @@ NEW	B-LOC
 YORK	I-LOC
 <oov>	I-LOC
 
-National	B-MISC
-<oov>	I-ORG
-League	I-MISC
+<oov>	B-PER
+<oov>	I-PER
+League	I-PER
 
 <oov>	O
 after	O
-<oov>	B-PER
+Thursday	O
 's	O
 game	O
 (	O
@@ -6488,8 +6488,8 @@ MIAMI	B-ORG
 221	O
 <oov>	O
 
-CENTRAL	B-MISC
-<oov>	I-MISC
+<oov>	B-PER
+<oov>	I-PER
 
 W	O
 L	O
@@ -6525,15 +6525,15 @@ PA	I-PER
 <oov>	O
 318	O
 
-<oov>	O
+BALTIMORE	B-ORG
 4	O
 9	O
 0	O
 320	O
 <oov>	O
 
-<oov>	B-PER
-<oov>	I-PER
+WESTERN	B-MISC
+<oov>	I-MISC
 
 W	O
 L	O
@@ -6571,7 +6571,7 @@ DIEGO	I-ORG
 274	O
 <oov>	O
 
-SEATTLE	B-ORG
+<oov>	B-ORG
 5	O
 8	O
 0	O
@@ -6723,7 +6723,7 @@ NEW	B-ORG
 X	O
 --	O
 <oov>	B-PER
-<oov>	I-PER
+DIVISION	O
 TITLE	O
 
 Y	O
@@ -6744,7 +6744,7 @@ AT	O
 
 <oov>	O
 AT	O
-CINCINNATI	B-LOC
+<oov>	B-PER
 
 DENVER	B-ORG
 AT	O
@@ -6792,7 +6792,7 @@ AT	O
 <oov>	O
 AT	O
 SAN	B-LOC
-<oov>	I-LOC
+FRANCISCO	I-LOC
 
 <oov>	O
 AT	O
@@ -6800,7 +6800,7 @@ AT	O
 
 MONDAY	O
 ,	O
-DECEMBER	O
+<oov>	B-PER
 9	O
 
 KANSAS	B-ORG
@@ -6811,7 +6811,7 @@ AT	O
 <oov>	B-PER
 
 <oov>	O
-<oov>	O
+AMERICAN	O
 <oov>	O
 'S	O
 RESULT	O
@@ -6829,7 +6829,7 @@ of	O
 League	O
 game	O
 on	O
-Thursday	O
+<oov>	O
 (	O
 home	O
 team	O
@@ -6843,7 +6843,7 @@ CAPS	O
 <oov>	O
 10	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -6875,8 +6875,8 @@ winner	O
 of	O
 the	O
 <oov>	O
-<oov>	B-PER
 <oov>	O
+Thursday	O
 night	O
 when	O
 the	O
@@ -6888,8 +6888,8 @@ again	O
 <oov>	O
 him	O
 as	O
-<oov>	O
-football	O
+<oov>	B-PER
+<oov>	I-PER
 's	O
 <oov>	O
 of	O
@@ -6926,7 +6926,7 @@ was	O
 the	O
 most	O
 <oov>	O
-offensive	O
+<oov>	O
 <oov>	O
 in	O
 the	O
@@ -6968,7 +6968,7 @@ senior	O
 --	O
 <oov>	O
 <oov>	O
-<oov>	O
+defensive	O
 end	O
 <oov>	B-PER
 Brown	B-PER
@@ -6980,12 +6980,12 @@ tackle	O
 Juan	B-PER
 <oov>	I-PER
 and	O
-defensive	O
+<oov>	O
 end	O
 Jared	B-PER
 <oov>	O
 of	O
-<oov>	O
+<oov>	B-PER
 .	O
 
 The	O
@@ -7000,7 +7000,7 @@ the	O
 who	O
 ,	O
 in	O
-addition	O
+<oov>	O
 to	O
 <oov>	O
 effort	O
@@ -7016,9 +7016,9 @@ and	O
 <oov>	O
 of	O
 Vince	B-PER
-<oov>	I-PER
+Lombardi	I-PER
 ,	O
-<oov>	B-PER
+legendary	O
 coach	O
 of	O
 the	O
@@ -7056,14 +7056,14 @@ Friday	O
 :	O
 
 RKC	B-ORG
-Waalwijk	I-ORG
+<oov>	I-ORG
 1	O
 Willem	B-ORG
 II	I-ORG
 <oov>	I-ORG
 2	O
 
-<oov>	O
+Standings	O
 (	O
 <oov>	O
 under	O
@@ -7096,7 +7096,7 @@ PSV	B-ORG
 14	O
 42	O
 
-<oov>	O
+Feyenoord	B-ORG
 17	O
 11	O
 3	O
@@ -7116,7 +7116,7 @@ Twente	B-ORG
 34	O
 
 <oov>	B-ORG
-<oov>	I-PER
+Doetinchem	I-ORG
 18	O
 9	O
 3	O
@@ -7165,7 +7165,7 @@ JC	I-ORG
 21	O
 27	O
 
-Utrecht	B-ORG
+<oov>	B-ORG
 18	O
 4	O
 10	O
@@ -7205,7 +7205,7 @@ Breda	I-ORG
 
 Willem	B-ORG
 II	I-ORG
-<oov>	I-ORG
+Tilburg	I-ORG
 18	O
 5	O
 4	O
@@ -7254,7 +7254,7 @@ NEC	B-ORG
 16	O
 
 RKC	B-ORG
-<oov>	I-ORG
+Waalwijk	I-ORG
 19	O
 3	O
 5	O
@@ -7278,7 +7278,7 @@ FIRST	O
 BONN	B-LOC
 <oov>	I-PER
 
-<oov>	O
+Results	O
 of	O
 German	B-MISC
 first	O
@@ -7317,7 +7317,7 @@ Hansa	B-ORG
 
 <oov>	O
 (	O
-tabulated	O
+<oov>	O
 under	O
 played	O
 ,	O
@@ -7331,7 +7331,7 @@ goals	O
 
 for	O
 goals	O
-against	O
+<oov>	O
 points	O
 )	O
 :	O
@@ -7357,7 +7357,7 @@ Munich	I-ORG
 33	O
 
 VfB	B-ORG
-<oov>	I-ORG
+Stuttgart	I-ORG
 16	O
 9	O
 4	O
@@ -7458,8 +7458,8 @@ Pauli	I-ORG
 28	O
 18	O
 
-<oov>	B-ORG
-<oov>	I-PER
+Fortuna	B-ORG
+<oov>	I-ORG
 16	O
 5	O
 3	O
@@ -7510,7 +7510,7 @@ Rostock	I-ORG
 15	O
 
 SC	B-ORG
-Freiburg	I-ORG
+<oov>	I-ORG
 17	O
 4	O
 1	O
@@ -7531,13 +7531,13 @@ LEAGUE	O
 PARIS	B-LOC
 <oov>	I-PER
 
-<oov>	O
+Summaries	O
 of	O
 French	B-MISC
 first	O
-<oov>	B-PER
+division	O
 
-<oov>	O
+matches	O
 on	O
 Friday	O
 :	O
@@ -7570,7 +7570,7 @@ Claude	B-PER
 0-2	O
 .	O
 
-Attendance	O
+<oov>	O
 :	O
 
 15,000	O
@@ -7612,7 +7612,7 @@ SOCCER	O
 DUTCH	B-MISC
 FIRST	O
 <oov>	O
-<oov>	O
+SUMMARIES	O
 .	O
 
 <oov>	B-PER
@@ -7632,10 +7632,10 @@ Friday	O
 :	O
 
 RKC	B-ORG
-Waalwijk	I-ORG
+<oov>	I-ORG
 1	O
 (	O
-<oov>	B-PER
+<oov>	O
 76	O
 )	O
 Willem	B-ORG
@@ -7674,7 +7674,7 @@ LEAGUE	O
 PARIS	B-LOC
 <oov>	I-PER
 
-<oov>	O
+Standings	O
 in	O
 the	O
 French	B-MISC
@@ -7734,7 +7734,7 @@ Monaco	B-ORG
 21	O
 34	O
 
-<oov>	B-ORG
+Strasbourg	B-ORG
 20	O
 11	O
 1	O
@@ -7779,7 +7779,7 @@ Nantes	B-ORG
 25	O
 30	O
 
-Guingamp	B-ORG
+<oov>	B-PER
 20	O
 7	O
 7	O
@@ -7797,7 +7797,7 @@ Lille	B-ORG
 28	O
 28	O
 
-<oov>	B-ORG
+Marseille	B-ORG
 20	O
 6	O
 8	O
@@ -7918,7 +7918,7 @@ Nantes	B-ORG
 
 Paris	B-ORG
 St	I-ORG
-<oov>	I-ORG
+Germain	I-ORG
 1	O
 Nancy	B-ORG
 2	O
@@ -7929,7 +7929,7 @@ SOCCER	O
 -	O
 GERMAN	B-MISC
 FIRST	O
-DIVISION	O
+<oov>	O
 <oov>	O
 .	O
 
@@ -7938,7 +7938,7 @@ BONN	B-LOC
 
 <oov>	O
 of	O
-matches	O
+<oov>	O
 played	O
 in	O
 the	O
@@ -8022,7 +8022,7 @@ Dundee	B-PER
 2-0	O
 .	O
 
-Attendance	O
+<oov>	O
 33,000	O
 
 <oov>	O
@@ -8042,8 +8042,8 @@ Hansa	B-ORG
 2-0	O
 .	O
 
+Attendance	O
 <oov>	B-PER
-<oov>	I-PER
 
 <oov>	B-PER
 
@@ -8052,8 +8052,8 @@ TENNIS	O
 GRAND	B-MISC
 SLAM	O
 CUP	B-MISC
-<oov>	O
-RESULTS	O
+<oov>	I-PER
+<oov>	I-PER
 .	O
 
 <oov>	B-PER
@@ -8067,7 +8067,7 @@ at	O
 the	O
 $	O
 6	O
-<oov>	O
+million	O
 Grand	B-MISC
 Slam	I-MISC
 Cup	I-MISC
@@ -8077,21 +8077,21 @@ on	O
 Friday	O
 :	O
 Goran	B-PER
-<oov>	I-PER
+<oov>	I-MISC
 (	O
-Croatia	B-LOC
+<oov>	O
 )	O
 beat	O
 Mark	B-PER
 Woodforde	I-PER
 (	O
-Australia	B-LOC
+<oov>	O
 )	O
 6-4	O
 6-4	O
 
-<oov>	B-PER
-<oov>	I-PER
+Yvegeny	B-PER
+Kafelnikov	I-PER
 (	O
 Russia	B-LOC
 )	O
@@ -8120,12 +8120,12 @@ COSTA	B-LOC
 LISBON	B-LOC
 <oov>	I-PER
 
-<oov>	O
+<oov>	B-PER
 called	O
 up	O
 Porto	B-ORG
 <oov>	O
-<oov>	O
+defender	O
 Joao	B-PER
 Manuel	I-PER
 Pinto	I-PER
@@ -8151,7 +8151,7 @@ Costa	I-PER
 who	O
 is	O
 still	O
-<oov>	O
+nursing	O
 a	O
 broken	O
 nose	O
@@ -8181,7 +8181,7 @@ after	O
 a	O
 <oov>	O
 <oov>	O
-<oov>	O
+Champions	I-MISC
 '	O
 League	O
 game	O
@@ -8223,7 +8223,7 @@ twice	O
 The	O
 <oov>	O
 host	O
-<oov>	O
+Germany	B-LOC
 on	O
 <oov>	O
 14	O
@@ -8292,7 +8292,7 @@ Spain	B-LOC
 )	O
 ,	O
 Dimas	B-PER
-Teixeira	I-PER
+<oov>	I-PER
 (	O
 <oov>	O
 ,	O
@@ -8393,13 +8393,13 @@ ON	O
 <oov>	O
 MADRID	B-ORG
 V	O
-BARCELONA	B-ORG
+<oov>	O
 .	O
 
 MADRID	B-LOC
 <oov>	I-PER
 
-William	B-PER
+<oov>	B-PER
 Hill	I-PER
 <oov>	I-PER
 on	O
@@ -8588,10 +8588,10 @@ Pizzi	I-PER
 <oov>	I-PER
 <oov>	I-PER
 
-<oov>	B-PER
+<oov>	O
 Victor	I-PER
-<oov>	I-PER
-12-1	O
+Sanchez	I-PER
+12-1	I-PER
 <oov>	O
 
 <oov>	B-PER
@@ -8636,7 +8636,7 @@ Luis	I-PER
 <oov>	B-PER
 
 <oov>	B-PER
-Fernando	I-PER
+<oov>	I-PER
 <oov>	I-PER
 <oov>	I-PER
 
@@ -8645,9 +8645,9 @@ Fernando	I-PER
 40-1	O
 Carlos	B-PER
 <oov>	I-PER
-<oov>	I-PER
+<oov>	B-PER
 Sergi	I-PER
-Barjuan	I-PER
+<oov>	I-PER
 
 40-1	O
 Rafael	B-PER
@@ -8694,9 +8694,9 @@ the	O
 <oov>	O
 of	O
 the	O
-Santiago	B-LOC
-Bernabeu	I-LOC
-<oov>	I-LOC
+<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 and	O
 ban	O
 drunk	O
@@ -8732,7 +8732,7 @@ the	O
 the	O
 action	O
 is	O
-<oov>	O
+envisaged	O
 in	O
 <oov>	O
 <oov>	O
@@ -8763,14 +8763,14 @@ of	O
 "	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
-<oov>	O
+<oov>	B-PER
 FIRST	O
 <oov>	O
-STANDINGS	O
+<oov>	O
 .	O
 
 MADRID	B-LOC
@@ -8823,7 +8823,7 @@ Madrid	I-ORG
 12	O
 35	O
 
-Barcelona	B-ORG
+<oov>	O
 15	O
 10	O
 4	O
@@ -8892,7 +8892,7 @@ Real	B-ORG
 24	O
 
 Racing	B-ORG
-Santander	I-ORG
+<oov>	I-ORG
 15	O
 5	O
 7	O
@@ -8957,8 +8957,8 @@ Santander	I-ORG
 21	O
 16	O
 
-<oov>	O
-<oov>	O
+Sporting	B-ORG
+<oov>	I-ORG
 15	O
 4	O
 4	O
@@ -9045,7 +9045,7 @@ Javier	B-PER
 has	O
 added	O
 <oov>	O
-<oov>	O
+Deportivo	B-PER
 <oov>	O
 <oov>	O
 <oov>	O
@@ -9057,8 +9057,8 @@ for	O
 the	O
 World	B-MISC
 Cup	I-MISC
-qualifier	O
-<oov>	O
+<oov>	I-MISC
+against	O
 <oov>	O
 on	O
 <oov>	O
@@ -9082,12 +9082,12 @@ joke	O
 ,	O
 "	O
 said	O
-<oov>	B-PER
+<oov>	O
 who	O
 <oov>	O
 <oov>	O
-Atletico	B-ORG
-Madrid	I-ORG
+<oov>	I-PER
+Madrid	I-PER
 <oov>	O
 Jose	B-PER
 Luis	I-PER
@@ -9131,9 +9131,9 @@ soccer	O
 fair	O
 play	O
 award	O
-<oov>	O
+despite	O
 the	O
-striker	O
+<oov>	O
 's	O
 attack	O
 on	O
@@ -9218,7 +9218,7 @@ of	O
 and	O
 in	O
 every	O
-<oov>	O
+competition	O
 .	O
 
 "	O
@@ -9233,14 +9233,14 @@ the	O
 award	O
 <oov>	O
 on	O
-January	O
+<oov>	O
 20	O
 in	O
 Lisbon	B-LOC
 and	O
 I	O
 'm	O
-<oov>	O
+confident	O
 that	O
 Costa	B-MISC
 <oov>	O
@@ -9271,7 +9271,7 @@ UEFA	B-ORG
 <oov>	O
 soccer	O
 's	O
-governing	O
+<oov>	O
 body	O
 ,	O
 <oov>	O
@@ -9286,18 +9286,18 @@ took	O
 place	O
 in	O
 the	O
-<oov>	O
+players	O
 '	O
 tunnel	O
 after	O
 a	O
-European	B-MISC
-Champions	I-MISC
-'	I-MISC
-League	I-MISC
+<oov>	O
+<oov>	O
+'	O
+League	O
 match	O
 on	O
-<oov>	O
+November	O
 20	O
 .	O
 
@@ -9344,7 +9344,7 @@ the	O
 offer	O
 and	O
 was	O
-reported	O
+<oov>	O
 to	O
 be	O
 <oov>	O
@@ -9406,7 +9406,7 @@ fans	O
 were	O
 <oov>	O
 by	O
-unidentified	O
+<oov>	O
 gunmen	O
 on	O
 Friday	O
@@ -9416,8 +9416,8 @@ to	O
 <oov>	O
 in	O
 the	O
-Austrian	B-MISC
-<oov>	I-MISC
+<oov>	O
+<oov>	I-PER
 ,	O
 police	O
 said	O
@@ -9443,7 +9443,7 @@ a.m.	O
 a	O
 <oov>	O
 told	O
-<oov>	O
+Reuters	B-ORG
 .	O
 
 The	O
@@ -9513,7 +9513,7 @@ FIRST	O
 <oov>	O
 <oov>	O
 THIS	O
-<oov>	O
+WEEKEND	O
 .	O
 
 ROME	B-LOC
@@ -9530,7 +9530,7 @@ on	O
 Sunday	O
 (	O
 league	O
-positions	O
+<oov>	O
 in	O
 <oov>	O
 ,	O
@@ -9559,14 +9559,14 @@ with	O
 <oov>	O
 ,	O
 <oov>	O
-<oov>	I-PER
 <oov>	O
+represent	O
 the	O
 <oov>	O
 <oov>	O
 of	O
 this	O
-Italian	B-MISC
+<oov>	O
 autumn	O
 .	O
 
@@ -9576,15 +9576,15 @@ usual	O
 by	O
 Swede	B-MISC
 <oov>	B-PER
-<oov>	I-PER
+Andersson	I-PER
 and	O
+Russian	B-MISC
 <oov>	O
-<oov>	I-PER
 <oov>	O
 in	O
 attack	O
 ,	O
-<oov>	O
+Bologna	O
 can	O
 expect	O
 a	O
@@ -9614,15 +9614,15 @@ Sunday	O
 16	O
 )	O
 v	O
-<oov>	O
+Reggiana	B-PER
 (	O
 18	O
 )	O
 <oov>	O
 
-Cagliari	B-ORG
+<oov>	O
 start	O
-favourite	O
+<oov>	O
 in	O
 this	O
 <oov>	O
@@ -9641,9 +9641,9 @@ but	O
 will	O
 be	O
 <oov>	O
-<oov>	O
+suspended	O
 Swiss	B-MISC
-<oov>	O
+defender	O
 Ramon	B-PER
 Vega	I-PER
 .	O
@@ -9668,11 +9668,11 @@ German	B-MISC
 10	O
 )	O
 v	O
-<oov>	O
+Perugia	B-ORG
 (	O
 8	O
 )	O
-<oov>	O
+<oov>	B-PER
 
 <oov>	O
 will	O
@@ -9699,14 +9699,14 @@ a	O
 home	O
 match	O
 <oov>	B-PER
-<oov>	O
+<oov>	B-PER
 ,	O
 <oov>	B-PER
 <oov>	I-PER
 led	O
 by	O
-<oov>	B-PER
-Croat	I-PER
+in-form	O
+Croat	B-MISC
 <oov>	O
 Milan	I-PER
 <oov>	I-PER
@@ -9790,8 +9790,8 @@ Abel	I-PER
 Marco	B-PER
 <oov>	I-PER
 and	O
-<oov>	B-PER
-<oov>	O
+Francesco	B-PER
+<oov>	I-PER
 in	O
 attack	O
 .	O
@@ -9818,14 +9818,14 @@ any	O
 <oov>	O
 their	O
 midweek	O
-Champions	B-MISC
+<oov>	O
 '	O
 League	B-MISC
 <oov>	O
 by	O
 <oov>	O
 side	O
-Rosenborg	B-ORG
+<oov>	O
 ,	O
 a	O
 <oov>	O
@@ -9835,7 +9835,7 @@ badly	O
 needed	O
 .	O
 
-Liberian	B-MISC
+<oov>	O
 <oov>	O
 George	B-PER
 Weah	I-PER
@@ -9871,7 +9871,7 @@ Oliver	B-PER
 <oov>	I-PER
 is	O
 out	O
-<oov>	O
+through	O
 injury	O
 .	O
 
@@ -9886,8 +9886,8 @@ Verona	B-PER
 )	O
 <oov>	B-PER
 
-In-form	O
-Napoli	B-ORG
+<oov>	B-PER
+Napoli	I-PER
 should	O
 prove	O
 too	O
@@ -9897,7 +9897,7 @@ second	O
 from	O
 bottom	O
 Verona	B-PER
-<oov>	O
+despite	O
 the	O
 <oov>	O
 of	O
@@ -9915,7 +9915,7 @@ slim	O
 <oov>	O
 have	O
 been	O
-<oov>	O
+further	O
 <oov>	O
 by	O
 a	O
@@ -9924,7 +9924,7 @@ injury	O
 to	O
 their	O
 <oov>	O
-<oov>	O
+midfielder	O
 <oov>	B-PER
 Corini	I-PER
 .	O
@@ -9944,7 +9944,7 @@ Parma	B-ORG
 may	O
 field	O
 new	O
-<oov>	O
+signing	O
 ,	O
 Croat	B-MISC
 <oov>	O
@@ -9970,7 +9970,7 @@ win	O
 since	O
 a	O
 1-0	O
-triumph	O
+<oov>	O
 over	O
 <oov>	O
 eight	O
@@ -9981,7 +9981,7 @@ ago	O
 Parma	B-ORG
 's	O
 French	B-MISC
-<oov>	O
+midfielder	O
 Daniel	B-PER
 <oov>	I-PER
 and	O
@@ -9991,16 +9991,16 @@ Fabio	I-PER
 are	O
 <oov>	O
 while	O
-<oov>	O
+Argentine	B-MISC
 Nestor	B-PER
 <oov>	I-PER
 is	O
 out	O
-<oov>	O
+through	O
 injury	O
 .	O
 
-<oov>	O
+Atalanta	B-ORG
 look	O
 to	O
 <oov>	B-PER
@@ -10017,14 +10017,14 @@ goals	O
 6	O
 )	O
 v	O
-<oov>	O
+Juventus	B-ORG
 (	O
 3	O
 )	O
-<oov>	O
+<oov>	B-PER
 
 <oov>	B-PER
-Juventus	B-ORG
+<oov>	I-PER
 field	O
 their	O
 most	O
@@ -10036,7 +10036,7 @@ recent	O
 Dimas	I-PER
 ,	O
 while	O
-Alessandro	B-PER
+<oov>	O
 Del	I-PER
 <oov>	O
 and	O
@@ -10087,7 +10087,7 @@ v	O
 <oov>	B-PER
 
 Not	O
-exactly	O
+<oov>	O
 a	O
 clash	O
 of	O
@@ -10147,27 +10147,27 @@ French	B-MISC
 and	O
 <oov>	O
 <oov>	O
-striker	O
-Ivan	B-PER
+<oov>	O
+Ivan	I-PER
 <oov>	I-PER
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
-BASKETBALL	O
+<oov>	O
 -	O
 <oov>	B-PER
 RESULT	O
 .	O
 
-BRUSSELS	B-LOC
+<oov>	B-PER
 <oov>	I-PER
 
 Result	O
 of	O
 a	O
 <oov>	O
-<oov>	O
+basketball	O
 match	O
 on	O
 <oov>	O
@@ -10199,7 +10199,7 @@ Spain	B-LOC
 <oov>	O
 :	O
 
-Charleroi	B-LOC
+<oov>	O
 -	O
 Eric	B-PER
 <oov>	I-PER
@@ -10209,14 +10209,14 @@ Ron	B-PER
 Ellis	I-PER
 18	O
 ,	O
-Jacques	B-PER
+<oov>	B-PER
 <oov>	I-PER
 14	O
 
 <oov>	O
 -	O
 Harper	B-PER
-<oov>	I-PER
+Williams	I-PER
 20	O
 ,	O
 <oov>	B-PER
@@ -10251,11 +10251,11 @@ Italy	B-LOC
 <oov>	O
 )	O
 
-Leading	O
 <oov>	O
+scorers	O
 :	O
 
-<oov>	O
+Partizan	B-ORG
 -	O
 Dejan	B-PER
 <oov>	I-PER
@@ -10309,7 +10309,7 @@ he	O
 in	O
 only	O
 40	O
-<oov>	O
+minutes	O
 to	O
 the	O
 final	O
@@ -10327,14 +10327,14 @@ the	O
 $	O
 <oov>	O
 <oov>	O
-International	B-ORG
+<oov>	O
 .	O
 
 The	O
-Australian	B-MISC
 <oov>	O
 <oov>	O
-unseeded	O
+<oov>	O
+<oov>	O
 <oov>	O
 Mark	B-PER
 Cairns	I-PER
@@ -10357,7 +10357,7 @@ who	O
 Simon	B-PER
 Parke	I-PER
 of	O
-<oov>	O
+England	B-LOC
 15-7	O
 15-12	O
 15-12	O
@@ -10461,10 +10461,10 @@ v	O
 Eyles	B-ORG
 ,	O
 on	O
-Saturday	O
+<oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -10520,15 +10520,15 @@ to	O
 be	O
 <oov>	O
 of	O
-President	O
+<oov>	O
 Nelson	B-PER
 <oov>	I-PER
 's	O
 <oov>	O
 <oov>	B-PER
-<oov>	I-PER
+Congress	B-ORG
 (	O
-ANC	B-PER
+ANC	B-ORG
 )	O
 had	O
 been	O
@@ -10541,12 +10541,12 @@ fire	O
 at	O
 the	O
 rural	O
-settlement	O
-of	O
 <oov>	O
-on	O
+of	O
 <oov>	B-LOC
-province	O
+on	O
+<oov>	O
+<oov>	I-LOC
 's	O
 south	O
 coast	O
@@ -10574,7 +10574,7 @@ been	O
 <oov>	O
 in	O
 the	O
-<oov>	O
+shooting	O
 .	O
 
 In	O
@@ -10610,21 +10610,21 @@ these	O
 are	O
 linked	O
 to	O
-politics	O
+<oov>	O
 ,	O
 "	O
 <oov>	O
 <oov>	B-PER
 <oov>	I-PER
 told	O
-Reuters	B-ORG
+<oov>	O
 .	O
 
 There	O
 had	O
 been	O
 no	O
-arrests	O
+<oov>	O
 .	O
 
 The	O
@@ -10633,8 +10633,8 @@ came	O
 just	O
 hours	O
 after	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+monitors	O
 said	O
 they	O
 were	O
@@ -10705,7 +10705,7 @@ back	O
 to	O
 their	O
 home	O
-<oov>	O
+villages	O
 .	O
 
 More	O
@@ -10813,7 +10813,7 @@ friend	O
 ,	O
 a	O
 tested	O
-diplomat	O
+<oov>	O
 ,	O
 and	O
 a	O
@@ -10828,7 +10828,7 @@ fine	O
 "	O
 I	O
 look	O
-forward	O
+<oov>	O
 to	O
 <oov>	O
 our	O
@@ -10851,7 +10851,7 @@ hold	O
 the	O
 <oov>	O
 of	O
-<oov>	O
+Secretary	O
 of	O
 State	O
 .	O
@@ -10868,7 +10868,7 @@ in	O
 a	O
 <oov>	O
 to	O
-Reuters	B-ORG
+<oov>	O
 .	O
 
 Havel	B-PER
@@ -10968,10 +10968,10 @@ in	O
 
 As	O
 an	O
-<oov>	O
+academic	O
 ,	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+studied	O
 and	O
 <oov>	O
 on	O
@@ -10979,15 +10979,15 @@ Europe	B-LOC
 's	O
 20th	O
 <oov>	O
-<oov>	O
+problems	O
 before	O
 <oov>	O
 U.S.	B-LOC
 <oov>	O
 to	O
 the	O
-United	B-LOC
-<oov>	I-LOC
+United	B-ORG
+Nations	I-ORG
 .	O
 
 Czech	B-MISC
@@ -11017,7 +11017,7 @@ to	O
 be	O
 a	O
 strong	O
-<oov>	O
+supporter	O
 of	O
 <oov>	O
 's	O
@@ -11044,7 +11044,7 @@ of	O
 the	O
 lines	O
 of	O
-foreign	O
+<oov>	O
 policy	O
 will	O
 be	O
@@ -11058,17 +11058,17 @@ the	O
 a	O
 <oov>	O
 of	O
+strategic	O
 <oov>	O
-<oov>	O
-<oov>	B-PER
-Europe	I-PER
+between	O
+Europe	B-LOC
 and	O
 the	O
 US	B-LOC
 ,	O
 "	O
+Foreign	O
 <oov>	O
-<oov>	B-PER
 Josef	B-PER
 <oov>	I-PER
 told	O
@@ -11088,10 +11088,10 @@ NATO	B-ORG
 <oov>	O
 and	O
 of	O
-<oov>	O
+stabilisation	O
 of	O
+<oov>	B-PER
 <oov>	O
-structures	O
 .	O
 "	O
 
@@ -11126,13 +11126,13 @@ our	O
 "	O
 but	O
 warned	O
-<oov>	O
-expecting	O
+<oov>	B-PER
+<oov>	I-PER
 her	O
 to	O
 <oov>	O
 any	O
-<oov>	O
+influence	O
 in	O
 favour	O
 of	O
@@ -11140,7 +11140,7 @@ the	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	I-PER
@@ -11154,8 +11154,8 @@ PM	O
 <oov>	B-PER
 <oov>	I-PER
 
-Radio	B-MISC
-<oov>	O
+Radio	B-ORG
+Romania	B-LOC
 news	O
 <oov>	O
 :	O
@@ -11166,12 +11166,12 @@ The	O
 <oov>	O
 signed	O
 an	O
-agreement	O
+<oov>	O
 on	O
 <oov>	O
 and	O
-parliamentary	O
 <oov>	O
+support	O
 with	O
 its	O
 <oov>	O
@@ -11210,7 +11210,7 @@ the	O
 <oov>	O
 have	O
 <oov>	O
-<oov>	O
+themselves	O
 to	O
 a	O
 real	O
@@ -11240,7 +11240,7 @@ and	O
 <oov>	O
 <oov>	O
 in	O
-<oov>	O
+Romania	B-LOC
 ,	O
 union	O
 leader	O
@@ -11293,22 +11293,22 @@ PARTY	O
 PRAGUE	B-LOC
 <oov>	I-PER
 
-Saturday	O
+<oov>	B-PER
 's	O
+<oov>	B-PER
 <oov>	O
-congress	O
 of	O
 the	O
 ruling	O
 Czech	B-ORG
 <oov>	I-ORG
-<oov>	I-ORG
+<oov>	B-ORG
 Party	I-ORG
 (	O
 <oov>	O
 )	O
 will	O
-discuss	O
+<oov>	O
 making	O
 the	O
 party	O
@@ -11367,7 +11367,7 @@ the	O
 <oov>	O
 ,	O
 told	O
-Reuters	B-ORG
+<oov>	O
 .	O
 
 He	O
@@ -11375,26 +11375,26 @@ said	O
 after	O
 June	O
 <oov>	O
-<oov>	O
+elections	O
 in	O
 which	O
 the	O
 ruling	O
-<oov>	O
+three-party	O
 <oov>	O
 lost	O
 its	O
 <oov>	O
-<oov>	O
+majority	O
 ,	O
 the	O
 <oov>	B-PER
-<oov>	O
+<oov>	B-PER
 ,	O
 led	O
 by	O
 Prime	O
-Minister	O
+<oov>	O
 Vaclav	B-PER
 Klaus	I-PER
 ,	O
@@ -11405,7 +11405,7 @@ on	O
 these	O
 <oov>	O
 to	O
-<oov>	O
+present	O
 at	O
 the	O
 <oov>	O
@@ -11453,23 +11453,23 @@ the	O
 style	O
 of	O
 former	O
-British	B-MISC
-Prime	O
 <oov>	O
-<oov>	B-PER
+Prime	O
+Minister	O
+Margaret	B-PER
 <oov>	I-PER
 ,	O
 has	O
 been	O
 in	O
-control	O
+<oov>	O
 of	O
 Czech	B-MISC
 <oov>	O
 since	O
-<oov>	O
+winning	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 in	O
 1992	O
 .	O
@@ -11505,8 +11505,8 @@ the	O
 <oov>	O
 's	O
 <oov>	O
-<oov>	O
-reforms	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 The	O
@@ -11564,12 +11564,12 @@ seats	O
 Klaus	B-PER
 and	O
 his	O
-coalition	O
+<oov>	O
 lost	O
 its	O
-<oov>	O
+majority	O
 in	O
-parliament	O
+<oov>	O
 in	O
 June	O
 lower	O
@@ -11577,15 +11577,15 @@ house	O
 <oov>	O
 after	O
 the	O
-<oov>	O
+left-wing	O
 <oov>	B-PER
-<oov>	O
+<oov>	B-PER
 ,	O
-<oov>	O
+putting	O
 the	O
 <oov>	O
 Social	B-MISC
-<oov>	I-PER
+<oov>	O
 in	O
 a	O
 strong	O
@@ -11598,7 +11598,7 @@ Prague	B-ORG
 Newsroom	I-ORG
 <oov>	I-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 POLAND	B-LOC
 <oov>	O
@@ -11622,13 +11622,13 @@ Friday	O
 that	O
 Swiss	B-MISC
 bank	O
-accounts	O
+<oov>	O
 ,	O
 which	O
 in	O
 many	O
 cases	O
-<oov>	O
+belonged	O
 to	O
 Polish	B-MISC
 Jews	I-MISC
@@ -11654,7 +11654,7 @@ War	I-MISC
 Two	I-MISC
 .	O
 
-Foreign	O
+<oov>	O
 <oov>	O
 <oov>	B-PER
 Rosati	I-PER
@@ -11665,8 +11665,8 @@ first	O
 of	O
 a	O
 <oov>	O
-<oov>	O
-commission	O
+<oov>	B-PER
+<oov>	B-PER
 ,	O
 said	O
 that	O
@@ -11676,13 +11676,13 @@ the	O
 then	O
 <oov>	O
 Poland	B-LOC
-<oov>	O
+received	O
 <oov>	O
 Swiss	B-MISC
 francs	O
 from	O
 the	O
-<oov>	O
+accounts	O
 .	O
 
 "	O
@@ -11692,8 +11692,8 @@ In	O
 Poland	B-LOC
 <oov>	O
 from	O
+<oov>	B-PER
 <oov>	O
-accounts	O
 in	O
 <oov>	O
 a	O
@@ -11727,20 +11727,20 @@ news	O
 
 <oov>	O
 stands	O
-<oov>	O
+accused	O
 by	O
-<oov>	O
 <oov>	B-PER
+<oov>	I-PER
 <oov>	I-PER
 ,	O
 <oov>	O
 of	O
 the	O
-<oov>	O
-U.S.	B-ORG
+powerful	O
+U.S.	B-LOC
 Senate	B-ORG
-<oov>	O
-Committee	I-PER
+<oov>	I-MISC
+Committee	I-MISC
 ,	O
 of	O
 agreeing	O
@@ -11772,7 +11772,7 @@ had	O
 been	O
 seized	O
 in	O
-communist	O
+<oov>	B-PER
 Poland	B-LOC
 .	O
 
@@ -11797,7 +11797,7 @@ of	O
 Poland	B-LOC
 's	O
 3.5	O
-million	O
+<oov>	O
 Jews	B-MISC
 .	O
 
@@ -11805,9 +11805,9 @@ Rosati	B-PER
 did	O
 not	O
 say	O
-whether	O
+<oov>	O
 the	O
-payment	O
+<oov>	O
 in	O
 1970s	O
 was	O
@@ -11815,9 +11815,9 @@ part	O
 of	O
 the	O
 1949	O
+agreement	O
 <oov>	O
-<oov>	O
-Warsaw	I-LOC
+Warsaw	B-LOC
 and	O
 <oov>	O
 on	O
@@ -11858,10 +11858,10 @@ weeks	O
 and	O
 then	O
 more	O
-details	O
+<oov>	O
 will	O
 be	O
-provided	O
+<oov>	O
 ,	O
 "	O
 Rosati	B-PER
@@ -11877,11 +11877,11 @@ the	O
 had	O
 <oov>	O
 for	O
-granting	O
+<oov>	B-PER
 <oov>	O
 about	O
 53	O
-<oov>	O
+million	O
 francs	O
 and	O
 most	O
@@ -11898,10 +11898,10 @@ coal	O
 He	O
 said	O
 ,	O
-<oov>	B-PER
+however	O
 ,	O
 that	O
-Switzerland	B-LOC
+<oov>	O
 did	O
 get	O
 about	O
@@ -11912,7 +11912,7 @@ the	O
 <oov>	O
 "	O
 dead	O
-accounts	O
+<oov>	O
 "	O
 as	O
 part	O
@@ -11967,11 +11967,11 @@ said	O
 .	O
 
 Under	O
-<oov>	O
+pressure	O
 from	O
 <oov>	O
 Jewish	B-MISC
-<oov>	I-PER
+<oov>	O
 ,	O
 Swiss	B-MISC
 <oov>	I-PER
@@ -11982,9 +11982,9 @@ plan	O
 to	O
 pay	O
 out	O
-<oov>	O
+millions	O
 of	O
-dollars	O
+<oov>	O
 in	O
 <oov>	O
 bank	O
@@ -11995,7 +11995,7 @@ a	O
 <oov>	O
 toward	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 .	O
 
 The	O
@@ -12021,7 +12021,7 @@ to	O
 put	O
 some	O
 40	O
-<oov>	O
+million	O
 Swiss	B-MISC
 francs	O
 (	O
@@ -12049,10 +12049,10 @@ Swiss	B-MISC
 banks	O
 and	O
 the	O
-<oov>	O
+country	O
 's	O
 Jewish	B-MISC
-<oov>	I-MISC
+community	O
 voiced	O
 doubts	O
 <oov>	O
@@ -12080,7 +12080,7 @@ WARSAW	B-PER
 <oov>	I-PER
 
 Polish	B-MISC
-<oov>	B-PER
+<oov>	O
 <oov>	O
 's	O
 1996	O
@@ -12096,7 +12096,7 @@ in	O
 part	O
 to	O
 hefty	O
-<oov>	B-PER
+depreciation	O
 <oov>	O
 ,	O
 but	O
@@ -12121,8 +12121,8 @@ chief	O
 said	O
 .	O
 
+Company	O
 <oov>	O
-President	O
 Jean	B-PER
 van	I-PER
 <oov>	I-PER
@@ -12130,7 +12130,7 @@ told	O
 <oov>	O
 in	O
 an	O
-<oov>	O
+interview	O
 on	O
 Friday	O
 that	O
@@ -12142,7 +12142,7 @@ net	O
 profit	O
 fell	O
 77	O
-<oov>	O
+percent	O
 in	O
 the	O
 first	O
@@ -12196,7 +12196,7 @@ SA	I-PER
 has	O
 <oov>	O
 six	O
-<oov>	O
+million	O
 zlotys	O
 on	O
 sales	O
@@ -12266,8 +12266,8 @@ we	O
 can	O
 think	O
 that	O
+<oov>	B-PER
 <oov>	O
-between	O
 65	O
 and	O
 80	O
@@ -12323,7 +12323,7 @@ third	O
 beer	O
 market	O
 after	O
-Germany	B-LOC
+<oov>	O
 and	O
 <oov>	O
 .	O
@@ -12341,7 +12341,7 @@ which	O
 <oov>	O
 about	O
 55	O
-percent	O
+<oov>	O
 of	O
 the	O
 <oov>	O
@@ -12362,14 +12362,14 @@ small	O
 <oov>	O
 fall	O
 to	O
-<oov>	O
+competition	O
 from	O
 the	O
 large	O
 <oov>	O
 with	O
-foreign	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 <oov>	O
@@ -12388,12 +12388,12 @@ in	O
 <oov>	O
 .	O
 
-Earlier	O
+<oov>	O
 this	O
 year	O
 South	B-ORG
+African	I-ORG
 <oov>	I-ORG
-<oov>	B-ORG
 Ltd	I-ORG
 (	O
 <oov>	O
@@ -12410,7 +12410,7 @@ Tychy	B-PER
 <oov>	I-PER
 ,	O
 which	O
-<oov>	O
+together	O
 hold	O
 more	O
 than	O
@@ -12427,7 +12427,7 @@ and	O
 <oov>	I-PER
 has	O
 a	O
-controlling	O
+<oov>	O
 stake	O
 in	O
 Poland	B-LOC
@@ -12437,8 +12437,8 @@ Poland	B-LOC
 <oov>	I-PER
 ,	O
 <oov>	B-PER
-<oov>	I-PER
-<oov>	I-PER
+Company	I-PER
+<oov>	O
 (	O
 <oov>	O
 )	O
@@ -12454,29 +12454,29 @@ had	O
 <oov>	O
 <oov>	O
 from	O
-raising	O
+<oov>	O
 prices	O
 in	O
 line	O
 with	O
-<oov>	O
+<oov>	B-PER
 ,	O
 which	O
 had	O
 added	O
 to	O
 the	O
-pressure	O
+<oov>	O
 on	O
 the	O
 firm	O
 's	O
-<oov>	O
+margins	O
 .	O
 
 He	O
 said	O
-advertising	O
+<oov>	O
 costs	O
 would	O
 also	O
@@ -12518,23 +12518,23 @@ to	O
 <oov>	O
 with	O
 such	O
-competitors	O
+<oov>	O
 as	O
 <oov>	O
 from	O
 the	O
 <oov>	O
 Czech	B-MISC
-<oov>	I-MISC
+<oov>	I-PER
 .	O
 
 Some	O
-<oov>	O
+analysts	O
 say	O
 <oov>	O
 but	O
-<oov>	B-PER
-Czech	I-PER
+<oov>	O
+Czech	B-MISC
 <oov>	I-PER
 could	O
 invade	O
@@ -12565,7 +12565,7 @@ Czech	B-MISC
 beer	O
 market	O
 's	O
-<oov>	O
+overcapacity	O
 .	O
 
 "	O
@@ -12742,7 +12742,7 @@ be	O
 by	O
 its	O
 recent	O
-shedding	O
+<oov>	O
 of	O
 soft	O
 drinks	O
@@ -12752,7 +12752,7 @@ only	O
 for	O
 about	O
 three	O
-percent	O
+<oov>	O
 of	O
 the	O
 firm	O
@@ -12766,7 +12766,7 @@ which	O
 <oov>	O
 zlotys	O
 in	O
-<oov>	O
+provisions	O
 had	O
 <oov>	O
 been	O
@@ -12781,7 +12781,7 @@ Warsaw	B-ORG
 653	O
 9700	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 HAS	I-PER
@@ -12805,14 +12805,14 @@ Czech	B-MISC
 <oov>	O
 Vaclav	B-PER
 Havel	I-PER
-<oov>	O
+<oov>	I-PER
 after	O
 cancer	O
-<oov>	O
+surgery	O
 on	O
 his	O
 <oov>	O
-earlier	O
+<oov>	O
 this	O
 week	O
 ,	O
@@ -12850,11 +12850,11 @@ helped	O
 ,	O
 and	O
 the	O
-<oov>	O
+<oov>	B-PER
 's	O
-condition	O
+<oov>	O
 <oov>	B-PER
-<oov>	B-PER
+<oov>	I-PER
 .	O
 
 "	O
@@ -12862,17 +12862,17 @@ A	O
 <oov>	O
 in	O
 the	O
-president	O
+<oov>	O
 's	O
 lung	O
 <oov>	O
 took	O
 place	O
-<oov>	B-PER
+yesterday	O
 ,	O
 "	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 <oov>	B-PER
 <oov>	I-PER
 said	O
@@ -12885,13 +12885,13 @@ a	O
 A	O
 <oov>	O
 was	O
-<oov>	O
+performed	O
 and	O
 <oov>	B-PER
 <oov>	O
 was	O
 <oov>	O
-through	O
+<oov>	O
 the	O
 help	O
 of	O
@@ -12910,9 +12910,9 @@ these	O
 steps	O
 ,	O
 the	O
-<oov>	O
+president	O
 's	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 improved	O
 .	O
@@ -13013,10 +13013,10 @@ LONDON	B-LOC
 <oov>	I-PER
 
 The	O
-UK	B-LOC
-<oov>	O
-of	O
-<oov>	O
+UK	B-ORG
+Department	I-ORG
+of	I-ORG
+<oov>	I-ORG
 on	O
 Friday	O
 said	O
@@ -13072,7 +13072,7 @@ talks	O
 a	O
 new	O
 air	O
-service	O
+<oov>	O
 <oov>	O
 which	O
 would	O
@@ -13160,7 +13160,7 @@ at	O
 $	O
 <oov>	O
 on	O
-Thursday	O
+<oov>	O
 .	O
 
 One	O
@@ -13241,19 +13241,19 @@ One	O
 <oov>	O
 <oov>	O
 20	O
-<oov>	O
+ordinary	O
 shares	O
 --	O
 <oov>	O
-<oov>	O
+newsroom	O
 +6221	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
-<oov>	O
+charged	O
 over	O
 N.	B-PER
 <oov>	I-PER
@@ -13313,7 +13313,7 @@ wall	O
 .	O
 
 The	O
-<oov>	O
+53-year-old	O
 woman	O
 was	O
 <oov>	O
@@ -13371,7 +13371,7 @@ use	O
 in	O
 a	O
 <oov>	O
-bombing	O
+<oov>	O
 campaign	O
 by	O
 the	O
@@ -13388,14 +13388,14 @@ from	O
 <oov>	I-PER
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 sets	O
 <oov>	O
 to	O
 clear	O
-<oov>	O
+American	B-MISC
 alliance	O
 .	O
 
@@ -13406,7 +13406,7 @@ LONDON	B-LOC
 <oov>	I-PER
 
 The	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 warned	O
 Friday	O
@@ -13417,13 +13417,13 @@ refer	O
 the	O
 <oov>	O
 <oov>	O
+alliance	O
+between	O
 <oov>	O
-<oov>	O
-<oov>	O
-<oov>	I-PER
-Plc	O
+Airways	B-ORG
+Plc	I-ORG
 and	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 to	O
 Britain	B-LOC
@@ -13434,19 +13434,19 @@ and	O
 Commission	B-ORG
 unless	O
 the	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 with	O
 a	O
 number	O
 of	O
-<oov>	O
+conditions	O
 .	O
 
 Trade	O
 and	O
 <oov>	O
-Secretary	O
+<oov>	O
 Ian	B-PER
 <oov>	I-PER
 added	O
@@ -13480,7 +13480,7 @@ to	O
 <oov>	O
 <oov>	O
 air	O
-<oov>	O
+traffic	O
 ,	O
 which	O
 would	O
@@ -13497,20 +13497,20 @@ said	O
 he	O
 <oov>	O
 <oov>	O
-<oov>	O
+proposed	O
 by	O
 <oov>	B-PER
 's	O
 Office	B-ORG
 of	O
-Fair	B-PER
-<oov>	I-PER
+Fair	I-MISC
+Trading	I-PER
 ,	O
 which	O
 was	O
 asked	O
 to	O
-<oov>	O
+examine	O
 the	O
 case	O
 last	O
@@ -13523,10 +13523,10 @@ agree	O
 ...	O
 that	O
 <oov>	O
-<oov>	O
+suitable	O
 <oov>	O
 the	O
-alliance	O
+<oov>	O
 would	O
 be	O
 likely	O
@@ -13609,11 +13609,11 @@ blamed	O
 the	O
 <oov>	O
 on	O
-uncertainty	O
-over	O
 <oov>	O
+over	O
+whether	O
 the	O
-British	B-MISC
+<oov>	O
 <oov>	O
 deal	O
 would	O
@@ -13670,7 +13670,7 @@ deal	O
 .	O
 "	O
 
-However	O
+<oov>	O
 ,	O
 it	O
 called	O
@@ -13682,11 +13682,11 @@ severe	O
 "	O
 than	O
 those	O
-imposed	O
+<oov>	O
 by	O
 other	O
+regulatory	O
 <oov>	O
-authorities	O
 on	O
 <oov>	O
 <oov>	B-PER
@@ -13740,8 +13740,8 @@ to	O
 the	O
 <oov>	O
 of	O
-<oov>	B-PER
 <oov>	O
+competition	O
 .	O
 "	O
 
@@ -13772,8 +13772,8 @@ routes	O
 and	O
 said	O
 both	O
-British	B-MISC
-<oov>	O
+<oov>	B-PER
+Airways	I-PER
 and	O
 <oov>	B-PER
 should	O
@@ -13820,7 +13820,7 @@ Fair	I-ORG
 Trade	O
 called	O
 for	O
-British	B-MISC
+<oov>	O
 <oov>	O
 /	O
 <oov>	O
@@ -13844,7 +13844,7 @@ access	O
 to	O
 an	O
 <oov>	O
-<oov>	O
+programme	O
 .	O
 
 <oov>	B-PER
@@ -13884,7 +13884,7 @@ LONDON	B-LOC
 
 <oov>	O
 oil	O
-<oov>	O
+prodcuts	O
 were	O
 steady	O
 to	O
@@ -13894,7 +13894,7 @@ on	O
 Friday	O
 after	O
 Elf	B-ORG
-refinery	O
+<oov>	O
 <oov>	O
 voted	O
 to	O
@@ -13906,8 +13906,8 @@ strike	O
 
 Gas	O
 oil	O
-<oov>	B-PER
 <oov>	O
+Thursday	O
 's	O
 gains	O
 ,	O
@@ -13966,7 +13966,7 @@ said	O
 
 <oov>	O
 were	O
-<oov>	O
+discussed	O
 in	O
 0.2	O
 ,	O
@@ -13974,7 +13974,7 @@ in	O
 and	O
 one	O
 <oov>	O
-heating	O
+<oov>	O
 oil	O
 into	O
 Syria	B-LOC
@@ -14013,14 +14013,14 @@ speed	O
 diesel	O
 for	O
 <oov>	O
-<oov>	O
+delivery	O
 .	O
 
 Fuel	O
 oil	O
 lost	O
 ground	O
-<oov>	O
+sharply	O
 with	O
 weaker	O
 crude	O
@@ -14031,7 +14031,7 @@ suffered	O
 from	O
 some	O
 <oov>	B-PER
-<oov>	B-PER
+<oov>	O
 .	O
 
 High	O
@@ -14049,8 +14049,8 @@ fob	O
 <oov>	O
 with	O
 <oov>	O
-<oov>	B-PER
 <oov>	O
+threatening	O
 to	O
 <oov>	O
 the	O
@@ -14060,8 +14060,8 @@ market	O
 The	O
 chance	O
 of	O
-material	O
 <oov>	O
+heading	O
 north	O
 ,	O
 talked	O
@@ -14075,7 +14075,7 @@ in	O
 <oov>	O
 now	O
 since	O
-American	B-MISC
+<oov>	O
 fuel	O
 oil	O
 is	O
@@ -14084,7 +14084,7 @@ to	O
 head	O
 <oov>	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 at	O
 two	O
 <oov>	O
@@ -14121,7 +14121,7 @@ open	O
 is	O
 a	O
 prime	O
-candidate	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -14192,13 +14192,13 @@ next	O
 week	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 New	O
-<oov>	O
+<oov>	I-PER
 scare	O
 hits	O
-<oov>	O
+Britain	B-LOC
 .	O
 
 LONDON	B-LOC
@@ -14251,7 +14251,7 @@ School	O
 in	O
 the	O
 <oov>	O
-England	B-LOC
+<oov>	O
 city	O
 of	O
 <oov>	O
@@ -14261,12 +14261,12 @@ than	O
 a	O
 day	O
 after	O
-becoming	O
+<oov>	O
 ill	O
 .	O
 
 The	O
-15-year-old	O
+<oov>	O
 girl	O
 is	O
 also	O
@@ -14291,7 +14291,7 @@ moment	O
 there	O
 is	O
 no	O
-evidence	O
+<oov>	O
 the	O
 two	O
 cases	O
@@ -14299,7 +14299,7 @@ are	O
 linked	O
 .	O
 
-However	O
+<oov>	B-PER
 ,	O
 we	O
 are	O
@@ -14316,7 +14316,7 @@ being	O
 ,	O
 "	O
 a	O
-spokeswoman	O
+<oov>	O
 said	O
 .	O
 
@@ -14369,7 +14369,7 @@ in	O
 an	O
 effort	O
 to	O
-<oov>	O
+contain	O
 the	O
 virus	O
 .	O
@@ -14403,11 +14403,11 @@ people	O
 of	O
 having	O
 the	O
-disease	O
+<oov>	O
 ,	O
-<oov>	B-PER
+<oov>	O
 64	O
-confirmed	O
+<oov>	O
 cases	O
 ,	O
 were	O
@@ -14441,7 +14441,7 @@ area	O
 ,	O
 since	O
 the	O
-<oov>	O
+outbreak	O
 first	O
 came	O
 to	O
@@ -14472,9 +14472,9 @@ have	O
 LONDON	B-LOC
 <oov>	I-PER
 
-<oov>	O
+British	B-MISC
 Prime	O
-<oov>	O
+Minister	O
 John	B-PER
 Major	I-PER
 's	O
@@ -14499,7 +14499,7 @@ the	O
 (	O
 quit	O
 the	O
-<oov>	O
+parliamentary	O
 party	O
 )	O
 and	O
@@ -14566,13 +14566,13 @@ the	O
 would	O
 not	O
 feel	O
-himself	O
 <oov>	O
+obliged	O
 to	O
 vote	O
 with	O
 the	O
-<oov>	O
+government	O
 .	O
 
 He	O
@@ -14583,7 +14583,7 @@ point	O
 during	O
 a	O
 press	O
-conference	O
+<oov>	O
 :	O
 "	O
 I	O
@@ -14627,9 +14627,9 @@ a	O
 in	O
 the	O
 <oov>	O
-House	B-ORG
+House	I-LOC
 of	O
-Commons	I-ORG
+<oov>	O
 lower	O
 house	O
 of	O
@@ -14650,7 +14650,7 @@ am	O
 today	O
 <oov>	O
 my	O
-cooperation	O
+<oov>	O
 from	O
 the	O
 <oov>	O
@@ -14671,10 +14671,10 @@ attend	O
 the	O
 House	B-LOC
 of	I-LOC
-<oov>	I-LOC
+<oov>	O
 or	O
 as	O
-<oov>	O
+placing	O
 me	O
 under	O
 any	O
@@ -14714,8 +14714,8 @@ LONDON	B-LOC
 <oov>	O
 firm	O
 <oov>	O
-Data	I-ORG
-Systems	I-PER
+Data	B-PER
+<oov>	I-PER
 said	O
 on	O
 Friday	O
@@ -14736,7 +14736,7 @@ funded	O
 under	O
 the	O
 <oov>	O
-Finance	O
+<oov>	B-PER
 <oov>	O
 .	O
 
@@ -14771,8 +14771,8 @@ system	O
 at	O
 the	O
 <oov>	O
-<oov>	O
-Centre	O
+Control	B-LOC
+Centre	I-LOC
 in	O
 <oov>	O
 in	O
@@ -14840,7 +14840,7 @@ Newsroom	I-ORG
 <oov>	I-ORG
 7717	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 RTRS	B-ORG
 -	O
@@ -14854,7 +14854,7 @@ Indies	I-PER
 match	O
 .	O
 
-<oov>	B-PER
+MELBOURNE	B-PER
 <oov>	I-PER
 
 Play	O
@@ -14864,10 +14864,10 @@ the	O
 first	O
 World	B-MISC
 Series	I-MISC
-<oov>	O
+limited	O
 overs	O
 match	O
-<oov>	O
+between	O
 West	B-LOC
 Indies	I-LOC
 and	O
@@ -14878,7 +14878,7 @@ rain	O
 delay	O
 of	O
 50	O
-<oov>	O
+minutes	O
 on	O
 Friday	O
 .	O
@@ -14887,7 +14887,7 @@ West	B-LOC
 Indies	I-LOC
 <oov>	O
 their	O
-innings	O
+<oov>	O
 on	O
 53	O
 for	O
@@ -14895,7 +14895,7 @@ two	O
 with	O
 opener	O
 <oov>	B-PER
-<oov>	I-PER
+Campbell	I-PER
 on	O
 25	O
 and	O
@@ -14913,23 +14913,23 @@ of	O
 play	O
 by	O
 30	O
-<oov>	O
+minutes	O
 .	O
 
 --	O
 Sydney	B-ORG
-<oov>	I-ORG
+Newsroom	I-ORG
 61-2	O
 <oov>	O
 
 <oov>	B-PER
 
-Cricket	O
--	O
-Pakistan	B-LOC
-beat	O
-New	B-LOC
 <oov>	O
+-	O
+<oov>	B-PER
+beat	O
+New	B-PER
+<oov>	I-PER
 by	O
 46	O
 runs	O
@@ -14937,7 +14937,7 @@ runs	O
 
 <oov>	B-PER
 ,	O
-Pakistan	B-LOC
+<oov>	B-PER
 <oov>	I-PER
 
 <oov>	O
@@ -14984,20 +14984,20 @@ Dec	O
 6	O
 .	O
 
-WINNIPEG	B-LOC
+<oov>	B-PER
 <oov>	I-PER
 
 <oov>	O
-Pork	B-MISC
+Pork	B-PER
 <oov>	I-PER
 <oov>	O
-contract	O
+<oov>	O
 prices	O
 in	O
 <oov>	O
 <oov>	O
 per	O
-hundred	O
+<oov>	O
 lbs	O
 (	O
 <oov>	O
@@ -15006,7 +15006,7 @@ for	O
 Dec	O
 6	O
 <oov>	O
-<oov>	O
+minimum	O
 <oov>	O
 price	O
 --	O
@@ -15102,7 +15102,7 @@ Nov	O
 Note	O
 :	O
 <oov>	O
-<oov>	O
+Government	O
 Price	O
 Index	I-MISC
 (	O
@@ -15137,8 +15137,8 @@ U.S.	B-LOC
 
 Source	O
 :	O
-<oov>	B-PER
-Pork	I-PER
+Manitoba	B-ORG
+Pork	I-ORG
 .	O
 
 (	O
@@ -15149,9 +15149,9 @@ bureau	O
 )	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
-Canadian	B-MISC
+<oov>	O
 West	B-LOC
 Coast	I-LOC
 <oov>	O
@@ -15383,11 +15383,11 @@ Desk	I-ORG
 ,	O
 <oov>	B-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 tanker	O
-<oov>	O
+fixtures	O
 and	O
 <oov>	O
 -	O
@@ -15489,7 +15489,7 @@ Friday	O
 said	O
 that	O
 it	O
-planned	O
+<oov>	O
 a	O
 $	O
 775	O
@@ -15510,7 +15510,7 @@ of	O
 debt	O
 for	O
 <oov>	O
-investors	O
+<oov>	O
 .	O
 
 A	O
@@ -15544,7 +15544,7 @@ the	O
 ,	O
 <oov>	O
 the	O
-floating	O
+<oov>	O
 rate	O
 issue	O
 and	O
@@ -15562,7 +15562,7 @@ this	O
 .	O
 
 By	O
-selling	O
+<oov>	O
 the	O
 <oov>	O
 rate	O
@@ -15578,7 +15578,7 @@ a	O
 ,	O
 the	O
 city	O
-<oov>	B-PER
+official	O
 said	O
 ,	O
 adding	O
@@ -15628,7 +15628,7 @@ to	O
 build	O
 on	O
 this	O
-<oov>	O
+strategy	O
 of	O
 <oov>	O
 the	O
@@ -15662,33 +15662,33 @@ in	O
 <oov>	O
 <oov>	O
 by	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 as	O
 it	O
 listed	O
-taxable	O
+<oov>	O
 bonds	O
 on	O
 the	O
 London	B-ORG
 Stock	I-ORG
-<oov>	O
+<oov>	I-ORG
 .	O
 
 The	O
-<oov>	O
+refunding	O
 <oov>	O
 for	O
-January	O
+<oov>	O
 also	O
 <oov>	O
 a	O
 $	O
 <oov>	O
 <oov>	O
-<oov>	O
-<oov>	O
+tax-exempt	O
+offering	O
 .	O
 
 No	O
@@ -15715,7 +15715,7 @@ added	O
 ,	O
 <oov>	B-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 USDA	B-ORG
 gross	O
@@ -15756,7 +15756,7 @@ dn	O
 when	O
 <oov>	O
 to	O
-<oov>	O
+Thursday	O
 's	O
 value	O
 .	O
@@ -15800,13 +15800,13 @@ buyer	O
 for	O
 Santa	B-ORG
 <oov>	O
-<oov>	B-ORG
-Gold	I-ORG
+<oov>	O
+Gold	I-PER
 Corp	I-ORG
 if	O
 Santa	B-LOC
+<oov>	I-PER
 <oov>	O
-rejects	O
 <oov>	O
 <oov>	I-PER
 <oov>	I-PER
@@ -15826,11 +15826,11 @@ more	O
 than	O
 $	O
 2	O
-billion	O
+<oov>	O
 stock	O
 swap	O
 <oov>	O
-<oov>	O
+proposal	O
 from	O
 <oov>	O
 ,	O
@@ -15850,10 +15850,10 @@ has	O
 that	O
 any	O
 deal	O
-<oov>	O
+between	O
 <oov>	O
 and	O
-Santa	B-PER
+Santa	B-LOC
 <oov>	I-PER
 would	O
 be	O
@@ -15882,11 +15882,11 @@ a	O
 <oov>	B-PER
 said	O
 the	O
-companies	O
+<oov>	O
 have	O
 had	O
-<oov>	B-PER
 <oov>	O
+contact	O
 ,	O
 though	O
 <oov>	O
@@ -15962,7 +15962,7 @@ from	O
 the	O
 Santa	B-LOC
 <oov>	O
-acquisition	O
+<oov>	O
 on	O
 an	O
 <oov>	O
@@ -15977,7 +15977,7 @@ which	O
 also	O
 limits	O
 its	O
-capacity	O
+<oov>	O
 to	O
 raise	O
 its	O
@@ -16045,7 +16045,7 @@ their	O
 <oov>	O
 vast	O
 gold	O
-deposit	O
+<oov>	O
 .	O
 
 <oov>	B-ORG
@@ -16055,7 +16055,7 @@ too	O
 was	O
 <oov>	O
 <oov>	O
-because	O
+<oov>	O
 it	O
 is	O
 <oov>	O
@@ -16088,10 +16088,10 @@ A	O
 <oov>	O
 was	O
 not	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 to	O
-comment	O
+<oov>	O
 on	O
 <oov>	O
 that	O
@@ -16123,7 +16123,7 @@ and	O
 Canada	B-LOC
 .	O
 
-<oov>	O
+Earnings	O
 in	O
 1995	O
 were	O
@@ -16142,20 +16142,20 @@ on	O
 of	O
 $	O
 <oov>	O
-<oov>	O
+million	O
 .	O
 
 Santa	B-LOC
 <oov>	O
 is	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 ,	O
 N.M.	O
 and	O
 <oov>	O
 1995	O
-<oov>	O
+earnings	O
 of	O
 $	O
 0.30	O
@@ -16168,11 +16168,11 @@ $	O
 <oov>	O
 ,	O
 on	O
-revenues	O
+<oov>	O
 of	O
 $	O
 350	O
-<oov>	O
+million	O
 .	O
 
 Santa	B-PER
@@ -16181,13 +16181,13 @@ has	O
 mining	O
 and	O
 <oov>	B-PER
-operations	O
+<oov>	I-PER
 in	O
-<oov>	B-LOC
+<oov>	B-PER
 ,	O
-California	B-LOC
+<oov>	B-PER
 ,	O
-<oov>	B-LOC
+<oov>	B-PER
 ,	O
 Canada	B-LOC
 ,	O
@@ -16216,7 +16216,7 @@ rating	O
 on	O
 <oov>	O
 to	O
-<oov>	O
+neutral	O
 from	O
 <oov>	O
 today	O
@@ -16261,7 +16261,7 @@ but	O
 how	O
 much	O
 is	O
-<oov>	O
+someone	O
 willing	O
 to	O
 come	O
@@ -16320,7 +16320,7 @@ a	O
 deal	O
 )	O
 is	O
-<oov>	O
+positive	O
 ,	O
 it	O
 does	O
@@ -16348,8 +16348,8 @@ the	O
 added	O
 .	O
 
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+proposed	O
 to	O
 Santa	B-LOC
 <oov>	O
@@ -16432,7 +16432,7 @@ an	O
 <oov>	O
 to	O
 a	O
-<oov>	O
+possible	O
 <oov>	O
 bid	O
 from	O
@@ -16453,7 +16453,7 @@ a	O
 cent	O
 bid	O
 "	O
-because	O
+<oov>	O
 there	O
 is	O
 no	O
@@ -16463,7 +16463,7 @@ offer	O
 ,	O
 only	O
 the	O
-proposal	O
+<oov>	O
 letter	O
 "	O
 <oov>	O
@@ -16517,9 +16517,9 @@ as	O
 <oov>	O
 and	O
 chief	O
-<oov>	O
-officer	O
-effective	O
+<oov>	B-PER
+<oov>	I-PER
+<oov>	I-PER
 July	O
 1	O
 ,	O
@@ -16533,7 +16533,7 @@ will	O
 <oov>	O
 to	O
 the	O
-<oov>	O
+company	O
 <oov>	O
 July	O
 1	O
@@ -16547,7 +16547,7 @@ to	O
 serve	O
 as	O
 a	O
-director	O
+<oov>	O
 ,	O
 the	O
 <oov>	O
@@ -16571,7 +16571,7 @@ HARARE	B-LOC
 <oov>	O
 hanged	O
 a	O
-<oov>	O
+convicted	O
 <oov>	O
 on	O
 Friday	O
@@ -16607,7 +16607,7 @@ dawn	O
 Robert	B-PER
 Mugabe	I-PER
 's	O
-<oov>	B-PER
+government	O
 has	O
 <oov>	O
 <oov>	O
@@ -16652,7 +16652,7 @@ a	O
 <oov>	O
 force	O
 for	O
-eastern	O
+<oov>	O
 Zaire	B-LOC
 said	O
 on	O
@@ -16688,7 +16688,7 @@ a	O
 news	O
 <oov>	O
 in	O
-Nairobi	B-LOC
+<oov>	O
 his	O
 main	O
 <oov>	O
@@ -16699,7 +16699,7 @@ large	O
 group	O
 of	O
 about	O
-<oov>	O
+150,000	O
 <oov>	O
 living	O
 off	O
@@ -16747,10 +16747,10 @@ of	O
 food	O
 for	O
 the	O
-refugees	O
+<oov>	O
 ,	O
 even	O
-against	O
+<oov>	O
 the	O
 <oov>	O
 of	O
@@ -16760,7 +16760,7 @@ in	O
 <oov>	O
 and	O
 the	O
-Zairean	B-MISC
+<oov>	O
 rebels	O
 who	O
 <oov>	O
@@ -16788,7 +16788,7 @@ to	O
 go	O
 across	O
 into	O
-eastern	O
+<oov>	O
 Zaire	B-LOC
 and	O
 try	O
@@ -16801,7 +16801,7 @@ second	O
 time	O
 what	O
 the	O
-situation	O
+<oov>	O
 is	O
 on	O
 the	O
@@ -16812,8 +16812,8 @@ he	O
 said	O
 .	O
 
-General	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 saw	O
 rebel	O
 leader	O
@@ -16832,11 +16832,11 @@ the	O
 crisis	O
 was	O
 over	O
-because	O
+<oov>	O
 most	O
 of	O
 the	O
-<oov>	O
+Rwandan	B-MISC
 <oov>	O
 have	O
 <oov>	O
@@ -16908,7 +16908,7 @@ the	O
 <oov>	O
 force	O
 would	O
-probably	O
+<oov>	O
 not	O
 have	O
 to	O
@@ -16949,7 +16949,7 @@ the	O
 <oov>	O
 (	O
 <oov>	O
-<oov>	O
+organisations	O
 )	O
 are	O
 in	O
@@ -16976,7 +16976,7 @@ said	O
 it	O
 would	O
 be	O
-<oov>	O
+premature	O
 to	O
 rule	O
 out	O
@@ -17028,7 +17028,7 @@ they	O
 ca	O
 n't	O
 move	O
-<oov>	O
+because	O
 they	O
 are	O
 too	O
@@ -17037,7 +17037,7 @@ weak	O
 then	O
 we	O
 will	O
-<oov>	O
+probably	O
 <oov>	O
 very	O
 <oov>	O
@@ -17050,11 +17050,11 @@ means	O
 )	O
 <oov>	O
 's	O
-<oov>	O
+complex	O
 ,	O
 it	O
 's	O
-<oov>	O
+dangerous	O
 for	O
 the	O
 air	O
@@ -17070,13 +17070,13 @@ have	O
 to	O
 be	O
 <oov>	O
-necessary	O
+<oov>	O
 .	O
 
 If	O
 it	O
 is	O
-<oov>	O
+necessary	O
 ,	O
 I	O
 wo	O
@@ -17097,10 +17097,10 @@ he	O
 would	O
 <oov>	O
 the	O
-objections	O
+<oov>	O
 of	O
 the	O
-<oov>	O
+<oov>	B-PER
 <oov>	I-PER
 ,	O
 he	O
@@ -17143,7 +17143,7 @@ would	O
 have	O
 a	O
 <oov>	O
-<oov>	O
+problem	O
 doing	O
 it	O
 or	O
@@ -17162,7 +17162,7 @@ under	O
 <oov>	O
 Seven	O
 to	O
-<oov>	O
+operate	O
 in	O
 <oov>	O
 Zaire	B-LOC
@@ -17170,16 +17170,16 @@ Zaire	B-LOC
 "	O
 
 Under	O
-Chapter	B-MISC
+<oov>	B-PER
 Seven	O
 of	O
 the	O
 U.N.	B-ORG
-charter	O
+<oov>	O
 ,	O
 the	O
-<oov>	B-PER
-<oov>	O
+Security	B-ORG
+Council	I-ORG
 has	O
 wide	O
 powers	O
@@ -17232,11 +17232,11 @@ his	O
 ,	O
 <oov>	O
 by	O
-<oov>	B-PER
+Kinshasa	B-PER
 ,	O
 with	O
 the	O
-Zairean	B-MISC
+<oov>	O
 rebels	O
 <oov>	O
 to	O
@@ -17256,7 +17256,7 @@ said	O
 "	O
 
 I	O
-<oov>	O
+coordinate	O
 with	O
 those	O
 who	O
@@ -17302,7 +17302,7 @@ from	O
 the	O
 group	O
 of	O
-<oov>	O
+150,000	O
 ,	O
 U.S.	B-LOC
 and	O
@@ -17362,7 +17362,7 @@ that	O
 more	O
 than	O
 <oov>	O
-refugees	O
+<oov>	O
 were	O
 <oov>	O
 <oov>	O
@@ -17389,7 +17389,7 @@ did	O
 not	O
 <oov>	O
 these	O
-<oov>	O
+refugees	O
 ,	O
 who	O
 are	O
@@ -17404,7 +17404,7 @@ the	O
 planes	O
 have	O
 been	O
-checking	O
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -17480,7 +17480,7 @@ four	O
 )	O
 .	O
 
-<oov>	O
+Although	O
 not	O
 <oov>	O
 <oov>	B-PER
@@ -17496,7 +17496,7 @@ island	O
 and	O
 could	O
 change	O
-<oov>	B-PER
+direction	O
 ,	O
 it	O
 added	O
@@ -17530,7 +17530,7 @@ said	O
 .	O
 
 The	O
-<oov>	O
+weather	O
 in	O
 the	O
 <oov>	O
@@ -17586,13 +17586,13 @@ staff	O
 in	O
 the	O
 <oov>	O
-<oov>	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 on	O
 Friday	O
-<oov>	O
+because	O
 of	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 in	O
 a	O
@@ -17605,7 +17605,7 @@ the	O
 ,	O
 a	O
 U.N.	B-ORG
-<oov>	I-PER
+official	O
 said	O
 .	O
 
@@ -17614,7 +17614,7 @@ The	O
 from	O
 the	O
 U.N.	B-ORG
-refugee	O
+<oov>	O
 agency	O
 <oov>	B-PER
 said	O
@@ -17632,7 +17632,7 @@ and	O
 was	O
 <oov>	O
 for	O
-<oov>	O
+Abidjan	B-LOC
 ,	O
 Ivory	B-LOC
 Coast	I-LOC
@@ -17641,9 +17641,9 @@ Coast	I-LOC
 <oov>	B-PER
 
 <oov>	O
-<oov>	I-PER
 <oov>	O
-minister	O
+<oov>	O
+<oov>	O
 for	O
 U.N.	B-ORG
 post	O
@@ -17654,7 +17654,7 @@ DAKAR	B-LOC
 
 <oov>	B-PER
 's	O
-President	O
+<oov>	O
 <oov>	B-PER
 <oov>	I-PER
 said	O
@@ -17677,21 +17677,21 @@ United	B-LOC
 <oov>	I-PER
 .	O
 
-<oov>	O
-announced	O
+<oov>	B-PER
+<oov>	I-PER
 his	O
 <oov>	O
 to	O
-<oov>	O
+reporters	O
 when	O
 he	O
-<oov>	O
+returned	O
 from	O
 the	O
 <oov>	O
 summit	O
 in	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 where	O
 an	O
@@ -17700,9 +17700,9 @@ an	O
 to	O
 <oov>	O
 <oov>	B-PER
-Boutros-Ghali	I-PER
+<oov>	I-PER
 was	O
-<oov>	O
+discussed	O
 .	O
 
 The	O
@@ -17722,9 +17722,9 @@ the	O
 door	O
 open	O
 for	O
-another	O
-African	B-MISC
-<oov>	I-MISC
+<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 "	O
@@ -17772,7 +17772,7 @@ see	O
 in	O
 him	O
 the	O
-profile	O
+<oov>	O
 of	O
 a	O
 <oov>	O
@@ -17809,12 +17809,12 @@ unrest	O
 
 A	O
 former	O
-<oov>	O
+cabinet	O
 <oov>	O
 in	O
+Central	B-MISC
+African	I-MISC
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
 and	O
 his	O
 son	O
@@ -17851,11 +17851,11 @@ of	O
 ,	O
 France	B-LOC
 voiced	O
-backing	O
+<oov>	O
 for	O
 the	O
 <oov>	O
-Bangui	B-PER
+Bangui	I-PER
 <oov>	I-PER
 but	O
 said	O
@@ -17924,9 +17924,9 @@ avoid	O
 major	O
 abuses	O
 and	O
-protect	O
-<oov>	B-PER
-<oov>	B-PER
+<oov>	O
+foreign	O
+<oov>	O
 ,	O
 "	O
 he	O
@@ -17982,18 +17982,18 @@ by	O
 troops	O
 loyal	O
 to	O
-<oov>	O
+President	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 at	O
 dawn	O
 on	O
-Thursday	O
+<oov>	O
 when	O
 they	O
 <oov>	O
 with	O
-<oov>	B-PER
+soldiers	O
 <oov>	O
 a	O
 <oov>	O
@@ -18036,7 +18036,7 @@ topple	O
 ,	O
 <oov>	O
 ethnic	O
-violence	O
+<oov>	O
 and	O
 <oov>	O
 the	O
@@ -18108,7 +18108,7 @@ men	O
 were	O
 seized	O
 as	O
-loyalist	O
+<oov>	O
 forces	O
 and	O
 French	B-MISC
@@ -18139,7 +18139,7 @@ are	O
 <oov>	O
 in	O
 <oov>	O
-districts	O
+<oov>	O
 of	O
 <oov>	O
 's	O
@@ -18162,10 +18162,10 @@ been	O
 <oov>	O
 in	O
 city	O
-districts	O
+<oov>	O
 while	O
-<oov>	B-PER
-Bangui	I-PER
+central	O
+Bangui	B-LOC
 ,	O
 which	O
 is	O
@@ -18197,7 +18197,7 @@ summit	O
 to	O
 send	O
 a	O
-mission	O
+<oov>	O
 Bangui	B-LOC
 to	O
 seek	O
@@ -18245,9 +18245,9 @@ to	O
 try	O
 and	O
 <oov>	O
-dialogue	O
-<oov>	O
-authorities	O
+<oov>	I-PER
+<oov>	I-PER
+<oov>	I-PER
 and	O
 rebels	O
 .	O
@@ -18263,7 +18263,7 @@ summit	O
 .	O
 
 His	O
-<oov>	O
+spokesman	O
 had	O
 <oov>	O
 the	O
@@ -18279,8 +18279,8 @@ an	O
 ,	O
 who	O
 won	O
-Central	B-LOC
-Africa	I-LOC
+<oov>	O
+Africa	B-LOC
 's	O
 first	O
 <oov>	O
@@ -18292,8 +18292,8 @@ resign	O
 .	O
 
 <oov>	O
-<oov>	I-PER
-<oov>	I-PER
+<oov>	O
+attempts	O
 hit	O
 <oov>	O
 over	O
@@ -18315,7 +18315,7 @@ May	O
 with	O
 French	B-MISC
 troops	O
-<oov>	O
+stepping	O
 in	O
 with	O
 tanks	O
@@ -18325,14 +18325,14 @@ to	O
 quell	O
 the	O
 more	O
-serious	O
+<oov>	O
 second	O
-uprising	O
+<oov>	O
 .	O
 
 <oov>	O
-<oov>	I-PER
-<oov>	I-PER
+offered	O
+<oov>	O
 and	O
 <oov>	O
 to	O
@@ -18340,7 +18340,7 @@ rebels	O
 before	O
 the	O
 May	O
-<oov>	O
+rebellion	O
 ended	O
 after	O
 rebels	O
@@ -18376,7 +18376,7 @@ vowed	O
 to	O
 disarm	O
 all	O
-<oov>	O
+civilians	O
 and	O
 to	O
 chase	O
@@ -18389,8 +18389,8 @@ as	O
 <oov>	O
 .	O
 
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+sources	O
 and	O
 <oov>	B-PER
 said	O
@@ -18419,7 +18419,7 @@ killed	O
 in	O
 <oov>	O
 's	O
-clashes	O
+<oov>	O
 .	O
 
 An	O
@@ -18494,15 +18494,15 @@ when	O
 a	O
 <oov>	O
 plane	O
-preparing	O
+<oov>	O
 for	O
 <oov>	O
-crashed	O
+<oov>	O
 into	O
 a	O
 light	O
-delivery	O
-vehicle	O
+<oov>	O
+<oov>	O
 in	O
 South	B-LOC
 Africa	I-LOC
@@ -18521,7 +18521,7 @@ Friday	O
 The	O
 <oov>	O
 <oov>	O
-occurred	O
+<oov>	O
 in	O
 <oov>	O
 on	O
@@ -18546,9 +18546,9 @@ were	O
 killed	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
-WEATHER	O
+<oov>	O
 -	O
 <oov>	O
 at	O
@@ -18569,25 +18569,25 @@ of	O
 CIS	B-LOC
 <oov>	O
 are	O
-<oov>	O
+expected	O
 on	O
-<oov>	O
+December	O
 7	O
 and	O
 8	O
 ,	O
 the	O
-<oov>	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	B-ORG
+<oov>	B-ORG
+Service	I-ORG
 said	O
 on	O
 Friday	O
 .	O
 
 --	O
-Moscow	B-LOC
-<oov>	O
+Moscow	B-ORG
+Newsroom	I-ORG
 +7095	O
 941	O
 8520	O
@@ -18606,14 +18606,14 @@ police	O
 <oov>	I-PER
 
 Four	O
-<oov>	I-PER
-attacked	O
+<oov>	O
+<oov>	O
 and	O
 <oov>	O
 the	O
 <oov>	O
 of	O
-Bratislava	B-LOC
+<oov>	O
 ,	O
 <oov>	B-PER
 <oov>	I-PER
@@ -18627,14 +18627,14 @@ Friday	O
 ,	O
 but	O
 he	O
-<oov>	B-PER
-<oov>	B-PER
+escaped	O
+<oov>	O
 ,	O
 a	O
 police	O
-spokesman	O
+<oov>	B-PER
 told	O
-<oov>	O
+Reuters	B-ORG
 .	O
 
 "	O
@@ -18643,7 +18643,7 @@ group	O
 of	O
 four	O
 <oov>	O
-attacked	O
+<oov>	O
 the	O
 <oov>	O
 ,	O
@@ -18678,7 +18678,7 @@ been	O
 ,	O
 "	O
 the	O
-spokesman	O
+<oov>	B-PER
 added	O
 
 He	O
@@ -18733,7 +18733,7 @@ was	O
 not	O
 <oov>	O
 for	O
-<oov>	O
+comment	O
 .	O
 
 <oov>	B-PER
@@ -18765,9 +18765,9 @@ blow	O
 <oov>	O
 up	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 Sali	B-PER
-Berisha	I-PER
+<oov>	I-PER
 's	O
 office	O
 to	O
@@ -18776,11 +18776,11 @@ years	O
 in	O
 jail	O
 for	O
-<oov>	O
+guerrilla	O
 action	O
 and	O
-illegal	O
-possession	O
+<oov>	B-PER
+<oov>	O
 of	O
 arms	O
 .	O
@@ -18792,7 +18792,7 @@ said	O
 he	O
 would	O
 blow	O
-himself	O
+<oov>	O
 up	O
 <oov>	O
 the	O
@@ -18805,7 +18805,7 @@ was	O
 to	O
 speak	O
 to	O
-Berisha	B-PER
+<oov>	O
 ,	O
 who	O
 was	O
@@ -18814,8 +18814,8 @@ the	O
 time	O
 <oov>	O
 <oov>	O
-President	O
-Oscar	B-PER
+<oov>	O
+Oscar	I-PER
 Luigi	I-PER
 <oov>	O
 .	O
@@ -18879,7 +18879,7 @@ saying	O
 his	O
 action	O
 was	O
-<oov>	O
+intended	O
 to	O
 urge	O
 the	O
@@ -18899,7 +18899,7 @@ had	O
 concluded	O
 <oov>	O
 was	O
-mentally	O
+<oov>	O
 <oov>	O
 but	O
 fully	O
@@ -18909,7 +18909,7 @@ the	O
 act	O
 he	O
 had	O
-<oov>	O
+committed	O
 ,	O
 <oov>	B-PER
 said	O
@@ -18947,10 +18947,10 @@ early	O
 1997	O
 <oov>	O
 <oov>	O
-<oov>	B-PER
+relations	O
 <oov>	O
 the	O
-<oov>	O
+Vatican	B-LOC
 and	O
 Warsaw	B-LOC
 ,	O
@@ -18963,8 +18963,8 @@ Friday	O
 .	O
 
 "	O
-President	O
 <oov>	B-PER
+<oov>	O
 plans	O
 to	O
 visit	O
@@ -18979,13 +18979,13 @@ Oscar	B-PER
 .	O
 
 A	O
-<oov>	O
+meeting	O
 with	O
 the	O
 Pope	B-PER
 is	O
 also	O
-<oov>	O
+planned	O
 ,	O
 "	O
 <oov>	B-PER
@@ -19015,7 +19015,7 @@ would	O
 depend	O
 on	O
 the	O
-<oov>	O
+progress	O
 in	O
 talks	O
 on	O
@@ -19023,7 +19023,7 @@ on	O
 of	O
 a	O
 treaty	O
-<oov>	B-PER
+<oov>	O
 Warsaw	I-LOC
 and	O
 the	O
@@ -19077,7 +19077,7 @@ party	O
 the	O
 <oov>	O
 <oov>	B-PER
-<oov>	I-PER
+Alliance	I-PER
 ,	O
 says	O
 the	O
@@ -19085,7 +19085,7 @@ the	O
 would	O
 give	O
 the	O
-<oov>	O
+Catholic	B-MISC
 Church	O
 too	O
 much	O
@@ -19101,17 +19101,17 @@ on	O
 rights	O
 of	O
 other	O
-religious	O
+<oov>	O
 groups	O
 and	O
 <oov>	O
 .	O
 
 The	O
-relations	O
+<oov>	O
 with	O
 the	O
-Vatican	B-LOC
+<oov>	O
 have	O
 also	O
 been	O
@@ -19127,7 +19127,7 @@ anti-abortion	O
 rules	O
 ,	O
 which	O
-<oov>	O
+Kwasniewski	B-PER
 signed	O
 into	O
 law	O
@@ -19135,7 +19135,7 @@ last	O
 month	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Russia	B-LOC
 warns	O
@@ -19157,10 +19157,10 @@ MOSCOW	B-LOC
 <oov>	O
 <oov>	O
 <oov>	O
-Alexander	B-PER
 <oov>	I-PER
+<oov>	O
 warned	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 Nickel	O
 on	O
@@ -19226,7 +19226,7 @@ a	O
 .	O
 "	O
 
-<oov>	O
+<oov>	B-PER
 's	O
 words	O
 are	O
@@ -19237,7 +19237,7 @@ put	O
 <oov>	O
 on	O
 the	O
-company	O
+<oov>	O
 .	O
 "	O
 
@@ -19256,7 +19256,7 @@ that	O
 RAO	B-LOC
 <oov>	I-PER
 <oov>	O
-<oov>	O
+<oov>	I-PER
 had	O
 to	O
 pay	O
@@ -19265,9 +19265,9 @@ tax	O
 <oov>	O
 and	O
 that	O
-bankruptcy	O
 <oov>	O
 <oov>	O
+applied	O
 to	O
 the	O
 metals	O
@@ -19280,7 +19280,7 @@ it	O
 was	O
 an	O
 <oov>	O
-<oov>	O
+statement	O
 and	O
 a	O
 <oov>	O
@@ -19321,7 +19321,7 @@ to	O
 a	O
 deputy	O
 's	O
-question	O
+<oov>	O
 that	O
 was	O
 <oov>	O
@@ -19340,19 +19340,19 @@ given	O
 .	O
 "	O
 
-Russian	B-MISC
+<oov>	O
 tax	O
 and	O
 <oov>	B-PER
 <oov>	I-PER
 ,	O
 under	O
-<oov>	O
+pressure	O
 from	O
 the	O
-International	B-ORG
+<oov>	O
 <oov>	B-PER
-Fund	I-ORG
+Fund	I-PER
 to	O
 boost	O
 tax	O
@@ -19369,14 +19369,14 @@ $	O
 10	O
 <oov>	O
 ,	O
-three-year	O
+<oov>	O
 loan	O
 to	O
 Moscow	B-LOC
 ,	O
 have	O
 been	O
-<oov>	O
+striking	O
 fear	O
 into	O
 the	O
@@ -19387,7 +19387,7 @@ of	O
 Russia	B-LOC
 's	O
 most	O
-prominent	O
+<oov>	O
 <oov>	O
 firms	O
 by	O
@@ -19412,11 +19412,11 @@ it	O
 's	O
 not	O
 a	O
-long-term	O
-solution	O
+<oov>	O
+<oov>	O
 to	O
 the	O
-<oov>	O
+problem	O
 and	O
 would	O
 n't	O
@@ -19472,7 +19472,7 @@ to	O
 <oov>	O
 <oov>	O
 of	O
-<oov>	O
+thousands	O
 of	O
 people	O
 --	O
@@ -19491,7 +19491,7 @@ far	O
 officials	O
 <oov>	O
 to	O
-comment	O
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -19500,9 +19500,9 @@ the	O
 <oov>	O
 ,	O
 while	O
-anxious	O
-about	O
 <oov>	O
+about	O
+<oov>	B-PER
 's	O
 <oov>	B-PER
 ,	O
@@ -19518,7 +19518,7 @@ copper	O
 ,	O
 <oov>	B-PER
 ,	O
-<oov>	B-PER
+platinum	O
 and	O
 <oov>	O
 group	O
@@ -19529,7 +19529,7 @@ its	O
 <oov>	O
 or	O
 take	O
-<oov>	O
+measures	O
 that	O
 could	O
 <oov>	O
@@ -19547,8 +19547,8 @@ the	O
 world	O
 's	O
 <oov>	O
-<oov>	O
-producer	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 to	O
 clean	O
@@ -19564,7 +19564,7 @@ of	O
 <oov>	O
 will	O
 be	O
-<oov>	O
+applied	O
 ,	O
 "	O
 Tass	B-ORG
@@ -19635,7 +19635,7 @@ said	O
 He	O
 <oov>	O
 the	O
-company	O
+<oov>	O
 's	O
 <oov>	B-PER
 <oov>	O
@@ -19667,10 +19667,10 @@ new	O
 <oov>	B-PER
 <oov>	O
 ,	O
+<oov>	B-PER
 <oov>	O
-commercial	O
 bank	O
-<oov>	O
+<oov>	B-PER
 ,	O
 has	O
 said	O
@@ -19706,7 +19706,7 @@ to	O
 has	O
 <oov>	O
 a	O
-mountain	O
+<oov>	O
 and	O
 <oov>	O
 or	O
@@ -19740,7 +19740,7 @@ total	O
 ,	O
 <oov>	O
 unpaid	O
-salaries	O
+<oov>	O
 to	O
 workers	O
 ,	O
@@ -19771,7 +19771,7 @@ after	O
 <oov>	O
 tax	O
 <oov>	O
-<oov>	O
+threatened	O
 to	O
 seize	O
 some	O
@@ -19801,7 +19801,7 @@ mln	O
 <oov>	O
 .	O
 
-TALLINN	B-LOC
+<oov>	B-PER
 <oov>	I-PER
 
 <oov>	B-PER
@@ -19810,7 +19810,7 @@ TALLINN	B-LOC
 one	O
 of	O
 the	O
-largest	O
+<oov>	O
 banks	O
 in	O
 <oov>	O
@@ -19823,7 +19823,7 @@ net	O
 profit	O
 of	O
 <oov>	O
-million	O
+<oov>	O
 <oov>	O
 ,	O
 the	O
@@ -19837,11 +19837,11 @@ It	O
 said	O
 in	O
 a	O
-statement	O
+<oov>	O
 that	O
 it	O
 made	O
-profits	O
+<oov>	O
 of	O
 4.5	O
 <oov>	O
@@ -19857,7 +19857,7 @@ a	O
 profit	O
 of	O
 <oov>	O
-<oov>	O
+million	O
 <oov>	O
 in	O
 the	O
@@ -19875,11 +19875,11 @@ its	O
 assets	O
 rose	O
 17.8	O
-<oov>	O
+million	O
 <oov>	O
 to	O
 1.84	O
-billion	O
+<oov>	O
 <oov>	O
 .	O
 
@@ -19900,12 +19900,12 @@ time	O
 <oov>	O
 to	O
 <oov>	O
-million	O
+<oov>	O
 <oov>	O
 from	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+million	O
+<oov>	O
 .	O
 
 --	O
@@ -19916,7 +19916,7 @@ Riga	B-PER
 <oov>	I-PER
 <oov>	I-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Russia	B-LOC
 ready	O
@@ -19935,10 +19935,10 @@ said	O
 on	O
 Friday	O
 it	O
-<oov>	O
+expected	O
 a	O
 <oov>	O
-<oov>	O
+relationship	O
 with	O
 <oov>	B-PER
 <oov>	O
@@ -19992,7 +19992,7 @@ would	O
 be	O
 <oov>	O
 by	O
-Clinton	B-PER
+<oov>	O
 and	O
 <oov>	O
 Boris	B-PER
@@ -20022,7 +20022,7 @@ were	O
 Our	O
 <oov>	O
 '	O
-leaders	O
+<oov>	O
 have	O
 agreed	O
 to	O
@@ -20034,10 +20034,10 @@ March	O
 .	O
 
 The	O
-Russian	B-MISC
-<oov>	I-MISC
-<oov>	I-MISC
-<oov>	I-PER
+<oov>	O
+<oov>	O
+<oov>	O
+<oov>	O
 the	O
 new	O
 <oov>	O
@@ -20059,7 +20059,7 @@ told	O
 <oov>	O
 .	O
 
-<oov>	O
+Interfax	B-ORG
 ,	O
 <oov>	B-PER
 <oov>	I-PER
@@ -20078,7 +20078,7 @@ had	O
 <oov>	I-PER
 as	O
 U.S.	B-LOC
-<oov>	O
+ambassador	O
 to	O
 the	O
 United	B-LOC
@@ -20108,9 +20108,9 @@ take	O
 in	O
 <oov>	O
 of	O
-<oov>	B-PER
+<oov>	O
 and	O
-central	O
+<oov>	B-PER
 Europe	B-LOC
 which	O
 used	O
@@ -20158,7 +20158,7 @@ who	O
 had	O
 heart	O
 bypass	O
-<oov>	O
+surgery	O
 a	O
 month	O
 ago	O
@@ -20169,7 +20169,7 @@ return	O
 to	O
 work	O
 on	O
-December	O
+<oov>	O
 25	O
 ,	O
 the	O
@@ -20177,9 +20177,9 @@ head	O
 of	O
 the	O
 upper	O
-chamber	O
-of	O
 <oov>	O
+of	O
+<oov>	B-PER
 told	O
 <oov>	O
 news	O
@@ -20219,7 +20219,7 @@ on	O
 Friday	O
 at	O
 a	O
-country	O
+<oov>	O
 <oov>	O
 .	O
 "	O
@@ -20239,7 +20239,7 @@ lbs	O
 )	O
 which	O
 is	O
-<oov>	O
+natural	O
 after	O
 such	O
 an	O
@@ -20264,7 +20264,7 @@ fifth	O
 of	O
 Yeltsin	B-PER
 's	O
-arrival	O
+<oov>	O
 in	O
 the	O
 <oov>	O
@@ -20283,7 +20283,7 @@ the	O
 red	O
 <oov>	O
 <oov>	O
-unclear	O
+<oov>	O
 arms	O
 ,	O
 in	O
@@ -20291,8 +20291,8 @@ in	O
 1991	O
 when	O
 <oov>	B-PER
+<oov>	B-PER
 <oov>	I-PER
-resigned	O
 ,	O
 <oov>	O
 the	O
@@ -20317,7 +20317,7 @@ his	O
 <oov>	O
 bypass	O
 on	O
-November	O
+<oov>	O
 5	O
 but	O
 has	O
@@ -20329,7 +20329,7 @@ major	O
 <oov>	O
 or	O
 radio	O
-<oov>	O
+address	O
 to	O
 the	O
 nation	O
@@ -20358,14 +20358,14 @@ a	O
 day	O
 at	O
 his	O
-residence	O
+<oov>	O
 .	O
 
 <oov>	B-PER
 
 Bomb	O
+<oov>	B-PER
 <oov>	O
-outside	O
 home	O
 of	O
 <oov>	O
@@ -20403,20 +20403,20 @@ of	O
 a	O
 lack	O
 of	O
-democracy	O
+<oov>	O
 in	O
 the	O
 <oov>	O
 .	O
 
 The	O
-official	O
+<oov>	O
 <oov>	O
 news	O
 agency	O
 said	O
 the	O
-<oov>	O
+explosion	O
 blew	O
 out	O
 all	O
@@ -20449,27 +20449,27 @@ was	O
 
 <oov>	O
 ,	O
-<oov>	B-PER
+<oov>	O
 a	O
 member	O
 of	O
 Prime	O
-<oov>	O
-<oov>	O
-<oov>	O
+Minister	O
+<oov>	B-PER
+<oov>	I-PER
 's	O
 ruling	O
-<oov>	O
+Movement	B-ORG
 for	O
 a	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 ,	O
 was	O
 <oov>	O
 of	O
 his	O
-<oov>	O
+parliamentary	O
 mandate	O
 on	O
 <oov>	O
@@ -20492,7 +20492,7 @@ of	O
 <oov>	O
 in	O
 the	O
-country	O
+<oov>	O
 .	O
 
 He	O
@@ -20501,7 +20501,7 @@ he	O
 had	O
 been	O
 <oov>	O
-anonymous	O
+<oov>	O
 death	O
 <oov>	O
 since	O
@@ -20516,7 +20516,7 @@ was	O
 an	O
 act	O
 of	O
-<oov>	O
+terrorism	O
 and	O
 now	O
 I	O
@@ -20569,7 +20569,7 @@ blast	O
 It	O
 was	O
 not	O
-<oov>	O
+immediately	O
 clear	O
 who	O
 was	O
@@ -20585,8 +20585,8 @@ Bomb	O
 at	O
 mosque	O
 in	O
-<oov>	B-LOC
-Bulgaria	I-LOC
+<oov>	O
+<oov>	O
 .	O
 
 SOFIA	B-LOC
@@ -20602,7 +20602,7 @@ a	O
 mosque	O
 in	O
 the	O
-central	O
+<oov>	O
 <oov>	O
 town	O
 of	O
@@ -20642,10 +20642,10 @@ market	O
 <oov>	O
 are	O
 often	O
-<oov>	O
+carried	O
 out	O
 by	O
-criminals	O
+<oov>	O
 to	O
 settle	O
 scores	O
@@ -20670,12 +20670,12 @@ area	O
 are	O
 <oov>	O
 who	O
-<oov>	O
+converted	O
 to	O
-Islam	B-PER
+Islam	B-MISC
 during	O
 <oov>	O
-Turkish	B-MISC
+<oov>	O
 rule	O
 .	O
 
@@ -20736,18 +20736,18 @@ Friday	O
 as	O
 market	O
 <oov>	O
-tightened	O
+<oov>	O
 before	O
 the	O
 <oov>	O
 10	O
 social	O
-<oov>	O
+security	O
 <oov>	O
 <oov>	O
 deadline	O
 ,	O
-dealers	O
+<oov>	B-PER
 said	O
 .	O
 
@@ -20762,7 +20762,7 @@ the	O
 <oov>	O
 10	O
 tax	O
-<oov>	O
+payment	O
 ,	O
 "	O
 said	O
@@ -20790,7 +20790,7 @@ at	O
 22.00	O
 /	O
 <oov>	O
-percent	O
+<oov>	O
 ,	O
 then	O
 <oov>	O
@@ -20799,8 +20799,8 @@ was	O
 taken	O
 up	O
 at	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+percent	O
 .	O
 
 But	O
@@ -20835,12 +20835,12 @@ and	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+Dealers	O
 said	O
 <oov>	O
 could	O
 <oov>	O
-further	O
+<oov>	O
 early	O
 next	O
 week	O
@@ -20877,13 +20877,13 @@ but	O
 still	O
 hit	O
 by	O
-Greenspan	B-PER
+<oov>	O
 .	O
 
 MEXICO	B-LOC
 CITY	I-LOC
 
-Mexican	B-MISC
+<oov>	O
 stocks	O
 closed	O
 <oov>	O
@@ -20897,7 +20897,7 @@ a	O
 <oov>	O
 <oov>	O
 as	O
-initial	O
+<oov>	B-PER
 <oov>	O
 and	O
 <oov>	O
@@ -20939,13 +20939,13 @@ said	O
 a	O
 trader	O
 ,	O
-referring	O
+<oov>	O
 to	O
 <oov>	O
 <oov>	O
-<oov>	B-PER
-Alan	I-PER
-Greenspan	I-PER
+Chairman	O
+Alan	B-PER
+<oov>	I-PER
 ,	O
 whose	O
 <oov>	O
@@ -20957,9 +20957,9 @@ were	O
 <oov>	O
 "	O
 upset	O
-financial	O
-<oov>	B-PER
 <oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 The	O
@@ -21005,16 +21005,16 @@ begun	O
 to	O
 rise	O
 before	O
-<oov>	O
+Greenspan	B-PER
 's	O
 <oov>	O
 and	O
 were	O
 <oov>	O
 by	O
-<oov>	O
+employment	O
 data	O
-<oov>	O
+released	O
 before	O
 trade	O
 began	O
@@ -21026,14 +21026,14 @@ Mexico	B-LOC
 on	O
 U.S.	B-LOC
 <oov>	O
-Treasury	B-ORG
+<oov>	O
 bonds	O
 were	O
 <oov>	O
-<oov>	O
+percent	O
 when	O
 stock	O
-trading	O
+<oov>	O
 closed	O
 in	O
 Mexico	B-LOC
@@ -21050,7 +21050,7 @@ market	O
 ,	O
 107	O
 stocks	O
-changed	O
+<oov>	O
 hands	O
 ,	O
 of	O
@@ -21076,11 +21076,11 @@ or	O
 stocks	O
 traded	O
 at	O
-significant	O
+<oov>	O
 volume	O
 among	O
 the	O
-gainers	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -21130,13 +21130,13 @@ cents	O
 )	O
 .	O
 
-<oov>	O
+Traders	O
 also	O
 <oov>	O
 that	O
+Mexican	B-MISC
+ADRs	I-MISC
 <oov>	O
-ADRs	B-MISC
-<oov>	I-PER
 in	O
 New	B-LOC
 York	I-LOC
@@ -21154,7 +21154,7 @@ and	O
 75	O
 cents	O
 ,	O
-<oov>	O
+respectively	O
 ,	O
 at	O
 $	O
@@ -21180,10 +21180,10 @@ long	O
 as	O
 it	O
 <oov>	O
-gradually	O
+<oov>	O
 ,	O
 as	O
-earlier	O
+<oov>	O
 this	O
 week	O
 .	O
@@ -21343,7 +21343,7 @@ the	O
 <oov>	O
 of	O
 a	O
-<oov>	O
+four-day	O
 <oov>	O
 <oov>	O
 <oov>	O
@@ -21368,7 +21368,7 @@ jumped	O
 to	O
 an	O
 <oov>	O
-<oov>	O
+105,000	O
 this	O
 year	O
 since	O
@@ -21388,9 +21388,9 @@ the	O
 <oov>	O
 of	O
 the	O
-Brazilian	B-MISC
 <oov>	O
-<oov>	B-PER
+<oov>	O
+<oov>	I-PER
 <oov>	I-PER
 (	O
 <oov>	O
@@ -21411,7 +21411,7 @@ more	O
 --	O
 by	O
 80	O
-<oov>	O
+percent	O
 ,	O
 from	O
 8,000	O
@@ -21435,7 +21435,7 @@ the	O
 top	O
 for	O
 <oov>	O
-surgery	O
+<oov>	O
 with	O
 <oov>	O
 to	O
@@ -21462,7 +21462,7 @@ Our	O
 <oov>	O
 are	O
 the	O
-highest	O
+<oov>	O
 for	O
 <oov>	O
 ,	O
@@ -21511,8 +21511,8 @@ the	O
 <oov>	O
 <oov>	O
 in	O
-Latin	B-PER
-<oov>	I-PER
+Latin	B-LOC
+America	I-LOC
 's	O
 <oov>	O
 .	O
@@ -21531,8 +21531,8 @@ tight	O
 <oov>	O
 have	O
 also	O
+dramatically	O
 <oov>	O
-<oov>	B-PER
 <oov>	O
 ,	O
 making	O
@@ -21541,7 +21541,7 @@ money	O
 <oov>	O
 for	O
 <oov>	O
-surgery	O
+<oov>	O
 .	O
 
 Brazil	B-LOC
@@ -21573,7 +21573,7 @@ famous	O
 There	O
 are	O
 6,000	O
-plastic	O
+<oov>	O
 <oov>	O
 there	O
 ,	O
@@ -21581,7 +21581,7 @@ of	O
 which	O
 4,500	O
 have	O
-qualified	O
+<oov>	O
 to	O
 be	O
 <oov>	O
@@ -21595,13 +21595,13 @@ year	O
 ,	O
 500	O
 new	O
-<oov>	O
+plastic	O
 <oov>	O
 <oov>	O
 in	O
 Brazil	B-LOC
 and	O
-medical	O
+<oov>	O
 <oov>	O
 from	O
 all	O
@@ -21620,7 +21620,7 @@ Brazil	B-LOC
 's	O
 <oov>	O
 with	O
-plastic	O
+<oov>	B-PER
 <oov>	O
 not	O
 to	O
@@ -21641,7 +21641,7 @@ races	O
 which	O
 can	O
 create	O
-physical	O
+<oov>	O
 <oov>	O
 .	O
 "	O
@@ -21777,7 +21777,7 @@ Beauty	O
 and	O
 <oov>	O
 are	O
-<oov>	O
+different	O
 in	O
 every	O
 <oov>	O
@@ -21792,7 +21792,7 @@ the	O
 case	O
 in	O
 which	O
-<oov>	O
+Brazilian	B-MISC
 model	O
 <oov>	O
 <oov>	O
@@ -21807,7 +21807,7 @@ for	O
 a	O
 <oov>	O
 in	O
-October	O
+<oov>	O
 are	O
 not	O
 much	O
@@ -21836,7 +21836,7 @@ normal	O
 now	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Daily	O
 <oov>	O
@@ -21924,7 +21924,7 @@ Buenos	B-LOC
 Aires	I-LOC
 <oov>	O
 +541	O
-<oov>	O
+318-0655	O
 
 <oov>	B-PER
 
@@ -21959,8 +21959,8 @@ GMT	B-MISC
 the	O
 <oov>	O
 and	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	B-ORG
+Ministry	I-ORG
 said	O
 in	O
 a	O
@@ -21990,7 +21990,7 @@ a	O
 <oov>	O
 study	O
 being	O
-carried	O
+<oov>	O
 out	O
 in	O
 deep	O
@@ -22008,7 +22008,7 @@ The	O
 <oov>	O
 <oov>	O
 port	O
-conditions	O
+<oov>	O
 and	O
 shipping	O
 <oov>	O
@@ -22016,17 +22016,17 @@ for	O
 the	O
 Gulf	B-LOC
 of	I-ORG
-Mexico	I-LOC
+Mexico	I-ORG
 ,	O
-<oov>	B-PER
+Caribbean	B-LOC
 and	O
-<oov>	B-PER
+<oov>	B-ORG
 Coast	I-ORG
 .	O
 
 -	O
-Pacific	B-LOC
-Coast	I-LOC
+<oov>	B-PER
+Coast	I-ORG
 :	O
 
 <oov>	O
@@ -22120,9 +22120,9 @@ of	O
 Mexico	B-LOC
 :	O
 
-<oov>	B-PER
+<oov>	O
 front	O
-bringing	O
+<oov>	O
 light	O
 rains	O
 to	O
@@ -22146,7 +22146,7 @@ skies	O
 <oov>	O
 from	O
 the	O
-<oov>	O
+northeast	O
 at	O
 10	O
 to	O
@@ -22173,7 +22173,7 @@ hour	O
 
 <oov>	O
 air	O
-carrying	O
+<oov>	O
 <oov>	O
 light	O
 rains	O
@@ -22210,9 +22210,9 @@ Chris	B-PER
 ,	O
 Mexico	B-LOC
 City	I-LOC
-newsroom	O
+<oov>	I-PER
 +525	O
-<oov>	O
+<oov>	I-PER
 
 <oov>	B-PER
 
@@ -22240,17 +22240,17 @@ caught	O
 <oov>	O
 in	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 by	O
 using	O
-<oov>	O
+digital	O
 <oov>	O
 which	O
 gave	O
 the	O
 correct	O
-<oov>	O
+answers	O
 to	O
 test	O
 <oov>	O
@@ -22269,7 +22269,7 @@ state	O
 <oov>	O
 <oov>	O
 <oov>	O
-<oov>	O
+students	O
 were	O
 paying	O
 15,000	O
@@ -22280,7 +22280,7 @@ $	O
 )	O
 for	O
 the	O
-special	O
+<oov>	O
 <oov>	O
 ,	O
 which	O
@@ -22290,7 +22290,7 @@ a	O
 <oov>	O
 <oov>	O
 to	O
-receive	O
+<oov>	O
 correct	O
 <oov>	O
 ,	O
@@ -22335,7 +22335,7 @@ and	O
 Mexico	B-LOC
 will	O
 start	O
-negotiations	O
+<oov>	O
 next	O
 year	O
 to	O
@@ -22371,13 +22371,13 @@ beyond	O
 of	O
 <oov>	O
 on	O
-imports	O
+<oov>	O
 and	O
 <oov>	O
 and	O
 add	O
 <oov>	O
-<oov>	B-PER
+covering	O
 <oov>	O
 and	O
 <oov>	B-PER
@@ -22409,7 +22409,7 @@ than	O
 In	O
 January	O
 or	O
-<oov>	O
+February	O
 ,	O
 we	O
 'll	O
@@ -22438,9 +22438,9 @@ investments	O
 '	O
 <oov>	O
 told	O
-<oov>	O
+reporters	O
 after	O
-signing	O
+<oov>	O
 a	O
 free	O
 trade	O
@@ -22506,8 +22506,8 @@ would	O
 the	O
 treaty	O
 with	O
-Congress	B-ORG
-quickly	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 '	O
@@ -22515,7 +22515,7 @@ quickly	O
 The	O
 <oov>	O
 from	O
-business	O
+<oov>	O
 and	O
 unions	O
 which	O
@@ -22526,7 +22526,7 @@ have	O
 been	O
 almost	O
 <oov>	O
-<oov>	O
+positive	O
 ,	O
 so	O
 I	O
@@ -22547,9 +22547,9 @@ Roger	B-PER
 <oov>	I-PER
 ,	O
 <oov>	B-PER
-<oov>	I-PER
-<oov>	I-PER
-<oov>	I-PER
+newsroom	O
+<oov>	B-PER
+<oov>	B-PER
 
 <oov>	B-PER
 
@@ -22572,7 +22572,7 @@ East	B-PER
 East	B-MISC
 <oov>	O
 Roman	B-MISC
-<oov>	O
+Catholic	I-MISC
 Bishop	O
 Carlos	B-PER
 <oov>	I-PER
@@ -22604,11 +22604,11 @@ said	O
 <oov>	B-PER
 left	O
 the	O
-territory	O
+<oov>	O
 for	O
 the	O
 <oov>	O
-<oov>	O
+capital	O
 <oov>	O
 <oov>	O
 by	O
@@ -22634,7 +22634,7 @@ The	O
 bishop	O
 will	O
 <oov>	O
-<oov>	O
+receive	O
 the	O
 Nobel	B-MISC
 award	O
@@ -22657,8 +22657,8 @@ in	O
 .	O
 
 The	O
+<oov>	B-PER
 <oov>	O
-government	O
 has	O
 <oov>	O
 the	O
@@ -22679,25 +22679,25 @@ said	O
 on	O
 Friday	O
 that	O
-<oov>	O
+Indonesia	B-LOC
 would	O
 not	O
 be	O
-represented	O
-officially	O
+<oov>	O
+<oov>	O
 at	O
 the	O
 <oov>	O
 in	O
 the	O
-<oov>	O
-<oov>	O
+Norwegian	B-MISC
+<oov>	I-MISC
 .	O
 
 "	O
 I	O
 <oov>	O
-<oov>	O
+believe	O
 that	O
 this	O
 <oov>	O
@@ -22719,7 +22719,7 @@ as	O
 will	O
 <oov>	O
 the	O
-<oov>	O
+problem	O
 in	O
 <oov>	O
 a	O
@@ -22752,20 +22752,20 @@ to	O
 next	O
 week	O
 's	O
-<oov>	O
-meeting	O
-of	O
-the	O
+ministerial	O
 <oov>	O
 of	O
 the	O
-<oov>	B-PER
+<oov>	O
+of	O
+the	O
+<oov>	O
 <oov>	O
 (	O
 OIC	B-ORG
 )	O
 in	O
-Jakarta	B-LOC
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -22790,7 +22790,7 @@ the	O
 <oov>	O
 and	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 were	O
 <oov>	O
 the	O
@@ -22801,7 +22801,7 @@ their	O
 to	O
 secure	O
 a	O
-<oov>	O
+peaceful	O
 <oov>	O
 to	O
 the	O
@@ -22820,7 +22820,7 @@ which	O
 in	O
 1975	O
 and	O
-<oov>	O
+annexed	O
 the	O
 <oov>	O
 year	O
@@ -22828,7 +22828,7 @@ year	O
 
 The	O
 United	B-ORG
-Nations	I-ORG
+<oov>	I-LOC
 has	O
 never	O
 <oov>	B-PER
@@ -22856,7 +22856,7 @@ if	O
 it	O
 had	O
 been	O
-awarded	O
+<oov>	O
 solely	O
 to	O
 <oov>	O
@@ -22865,8 +22865,8 @@ to	O
 Asked	O
 if	O
 the	O
-<oov>	B-PER
 <oov>	O
+ambassador	O
 to	O
 Norway	B-LOC
 would	O
@@ -22885,7 +22885,7 @@ Alatas	B-PER
 <oov>	I-PER
 :	O
 "	O
-Probably	O
+<oov>	B-PER
 ,	O
 yes	O
 ,	O
@@ -22925,7 +22925,7 @@ would	O
 also	O
 meet	O
 German	B-MISC
-<oov>	O
+Chancellor	O
 Helmut	B-PER
 Kohl	I-PER
 in	O
@@ -22940,7 +22940,7 @@ meet	O
 <oov>	O
 during	O
 the	O
-<oov>	O
+chancellor	O
 's	O
 <oov>	O
 visit	O
@@ -22961,7 +22961,7 @@ East	B-LOC
 to	O
 come	O
 to	O
-<oov>	O
+Jakarta	B-LOC
 .	O
 
 <oov>	B-PER
@@ -22986,7 +22986,7 @@ State	O
 <oov>	I-PER
 ,	O
 or	O
-<oov>	B-PER
+cabinet	O
 ,	O
 has	O
 given	O
@@ -23002,7 +23002,7 @@ of	O
 to	O
 open	O
 to	O
-<oov>	O
+foreign	O
 <oov>	O
 ,	O
 the	O
@@ -23053,7 +23053,7 @@ yuan	O
 (	O
 $	O
 <oov>	O
-<oov>	O
+million	O
 )	O
 to	O
 <oov>	O
@@ -23132,7 +23132,7 @@ and	O
 troops	O
 used	O
 water	O
-<oov>	O
+cannons	O
 from	O
 fire	O
 <oov>	O
@@ -23141,7 +23141,7 @@ to	O
 about	O
 120	O
 <oov>	O
-<oov>	B-PER
+students	O
 <oov>	O
 in	O
 at	O
@@ -23178,7 +23178,7 @@ the	O
 <oov>	O
 in	O
 northern	O
-<oov>	O
+Rangoon	B-LOC
 ,	O
 were	O
 taken	O
@@ -23189,7 +23189,7 @@ three	O
 .	O
 
 The	O
-witnesses	O
+<oov>	O
 said	O
 some	O
 of	O
@@ -23218,18 +23218,18 @@ the	O
 <oov>	O
 prison	O
 in	O
-<oov>	B-PER
-<oov>	I-PER
+suburban	O
+Rangoon	B-LOC
 .	O
 
 The	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 ,	O
 mostly	O
 from	O
-Rangoon	B-LOC
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 were	O
 <oov>	O
@@ -23248,8 +23248,8 @@ of	O
 about	O
 80	O
 <oov>	O
+<oov>	B-PER
 <oov>	O
-currently	O
 in	O
 jail	O
 .	O
@@ -23288,10 +23288,10 @@ capital	O
 
 <oov>	B-PER
 
-Burmese	B-MISC
+<oov>	B-PER
 <oov>	I-PER
 march	O
-<oov>	O
+<oov>	B-PER
 out	O
 of	O
 campus	O
@@ -23305,12 +23305,12 @@ campus	O
 
 About	O
 200	O
+Burmese	B-MISC
 <oov>	O
 <oov>	O
-marched	O
 <oov>	O
 from	O
-troubled	O
+<oov>	O
 <oov>	O
 <oov>	O
 of	O
@@ -23339,7 +23339,7 @@ to	O
 their	O
 campus	O
 ,	O
-witnesses	O
+<oov>	B-PER
 said	O
 .	O
 
@@ -23401,7 +23401,7 @@ One	O
 of	O
 two	O
 roads	O
-leading	O
+<oov>	O
 to	O
 the	O
 <oov>	O
@@ -23432,14 +23432,14 @@ of	O
 their	O
 campus	O
 ,	O
-<oov>	B-PER
+witnesses	O
 said	O
 .	O
 
 They	O
 were	O
 <oov>	O
-peacefully	O
+<oov>	O
 .	O
 
 On	O
@@ -23481,7 +23481,7 @@ in	O
 .	O
 
 On	O
-<oov>	O
+Tuesday	O
 and	O
 <oov>	O
 ,	O
@@ -23498,7 +23498,7 @@ her	O
 home	O
 by	O
 the	O
-military	O
+<oov>	O
 <oov>	O
 to	O
 <oov>	O
@@ -23513,7 +23513,7 @@ the	O
 
 She	O
 was	O
-<oov>	O
+allowed	O
 to	O
 move	O
 <oov>	O
@@ -23523,23 +23523,23 @@ on	O
 
 The	O
 <oov>	O
-<oov>	O
+culminated	O
 at	O
 dawn	O
 on	O
-Tuesday	O
+<oov>	O
 with	O
 several	O
 <oov>	O
-students	O
+<oov>	O
 being	O
 <oov>	O
 <oov>	O
 by	O
 police	O
 in	O
-central	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 The	O
@@ -23547,7 +23547,7 @@ street	O
 <oov>	O
 were	O
 the	O
-biggest	O
+<oov>	O
 seen	O
 in	O
 the	O
@@ -23565,17 +23565,17 @@ the	O
 <oov>	O
 <oov>	O
 the	O
-<oov>	O
+uprising	O
 .	O
 
 <oov>	O
 were	O
 killed	O
 or	O
-imprisoned	O
+<oov>	O
 .	O
 
-Earlier	O
+<oov>	O
 on	O
 Friday	O
 some	O
@@ -23635,7 +23635,7 @@ the	O
 right	O
 to	O
 <oov>	O
-<oov>	O
+independent	O
 unions	O
 on	O
 campus	O
@@ -23649,7 +23649,7 @@ want	O
 <oov>	O
 to	O
 our	O
-demands	O
+<oov>	O
 .	O
 
 We	O
@@ -23660,7 +23660,7 @@ to	O
 be	O
 <oov>	O
 in	O
-newspapers	O
+<oov>	O
 ,	O
 "	O
 one	O
@@ -23670,7 +23670,7 @@ said	O
 
 But	O
 the	O
-students	O
+<oov>	O
 <oov>	O
 their	O
 <oov>	O
@@ -23680,7 +23680,7 @@ and	O
 they	O
 had	O
 no	O
-contact	O
+<oov>	O
 with	O
 <oov>	B-PER
 <oov>	I-PER
@@ -23706,12 +23706,12 @@ of	O
 independence	O
 hero	O
 <oov>	B-PER
-San	I-PER
+San	B-LOC
 ,	O
 and	O
 key	O
 <oov>	O
-<oov>	O
+officials	O
 have	O
 also	O
 denied	O
@@ -23719,7 +23719,7 @@ any	O
 link	O
 with	O
 the	O
-students	O
+<oov>	O
 .	O
 
 But	O
@@ -23727,7 +23727,7 @@ they	O
 have	O
 said	O
 both	O
-<oov>	O
+parties	O
 had	O
 a	O
 "	O
@@ -23738,7 +23738,7 @@ in	O
 that	O
 they	O
 were	O
-against	O
+<oov>	O
 police	O
 <oov>	O
 and	O
@@ -23781,7 +23781,7 @@ in	O
 
 The	O
 <oov>	O
-<oov>	O
+appealed	O
 to	O
 the	O
 <oov>	O
@@ -23821,12 +23821,12 @@ to	O
 <oov>	B-PER
 <oov>	B-PER
 's	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 in	O
 <oov>	O
 <oov>	O
-remained	O
+<oov>	O
 closed	O
 by	O
 police	O
@@ -23845,7 +23845,7 @@ to	O
 head	O
 .	O
 
-SINGAPORE	B-PER
+<oov>	B-PER
 <oov>	I-PER
 
 <oov>	O
@@ -23902,7 +23902,7 @@ Trade	I-PER
 told	O
 a	O
 news	O
-<oov>	O
+conference	O
 the	O
 <oov>	O
 of	O
@@ -23911,9 +23911,9 @@ a	O
 <oov>	O
 to	O
 <oov>	O
-director	O
-<oov>	B-PER
-Michel	B-PER
+<oov>	O
+<oov>	O
+Michel	I-PER
 <oov>	I-PER
 was	O
 "	O
@@ -23928,8 +23928,8 @@ an	O
 that	O
 wants	O
 to	O
-command	O
-respect	O
+<oov>	O
+<oov>	O
 in	O
 the	O
 world	O
@@ -23942,27 +23942,27 @@ a	O
 small	O
 group	O
 of	O
-developing	O
+<oov>	O
 <oov>	O
 that	O
 oppose	O
-<oov>	O
+linking	O
 trade	O
 talks	O
 and	O
 labour	O
-conditions	O
+<oov>	O
 had	O
 <oov>	O
-World	O
-Trade	I-MISC
-<oov>	I-MISC
+World	B-PER
+Trade	I-PER
+<oov>	I-PER
 (	O
 <oov>	O
 )	O
-officials	O
-to	O
 <oov>	O
+to	O
+prevent	O
 <oov>	O
 from	O
 taking	O
@@ -23988,7 +23988,7 @@ are	O
 for	O
 <oov>	O
 this	O
-<oov>	O
+meeting	O
 <oov>	O
 (	O
 to	O
@@ -24018,12 +24018,12 @@ trade	O
 .	O
 
 The	O
-three-day	O
+<oov>	O
 trade	O
 union	O
 <oov>	O
 in	O
-<oov>	O
+Singapore	B-LOC
 hopes	O
 to	O
 push	O
@@ -24040,7 +24040,7 @@ said	O
 the	O
 <oov>	O
 's	O
-credibility	O
+<oov>	O
 was	O
 at	O
 stake	O
@@ -24060,8 +24060,8 @@ it	O
 wanted	O
 the	O
 <oov>	O
+<oov>	B-PER
 <oov>	O
-beginning	O
 on	O
 Monday	O
 to	O
@@ -24111,12 +24111,12 @@ too	O
 ,	O
 but	O
 very	O
-<oov>	O
+disappointed	O
 "	O
 that	O
 the	O
-<oov>	O
-invitation	O
+<oov>	B-PER
+<oov>	B-PER
 had	O
 been	O
 <oov>	O
@@ -24170,16 +24170,16 @@ agenda	O
 groups	O
 <oov>	O
 ,	O
-<oov>	B-PER
+Indonesia	B-LOC
 ,	O
 <oov>	B-PER
 ,	O
 the	O
 <oov>	O
 ,	O
-Singapore	B-LOC
+<oov>	B-PER
 ,	O
-Thailand	B-LOC
+<oov>	B-PER
 and	O
 <oov>	O
 .	O
@@ -24200,12 +24200,12 @@ clause	O
 in	O
 the	O
 final	O
-ministerial	O
+<oov>	O
 <oov>	O
 issued	O
 by	O
 <oov>	O
-leaders	O
+<oov>	O
 at	O
 the	O
 end	O
@@ -24218,7 +24218,7 @@ the	O
 's	O
 first	O
 <oov>	O
-gathering	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -24229,11 +24229,11 @@ to	O
 <oov>	B-PER
 <oov>	I-PER
 ,	O
-director	O
+<oov>	O
 of	O
 the	O
 <oov>	B-PER
-<oov>	I-PER
+secretariat	O
 ,	O
 said	O
 the	O
@@ -24247,7 +24247,7 @@ a	O
 <oov>	O
 to	O
 <oov>	O
-efforts	O
+<oov>	O
 to	O
 solve	O
 social	O
@@ -24260,16 +24260,16 @@ said	O
 the	O
 <oov>	O
 's	O
-<oov>	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 made	O
 it	O
-difficult	O
+<oov>	O
 to	O
 impose	O
 on	O
 its	O
-members	O
+<oov>	O
 a	O
 social	O
 clause	O
@@ -24320,7 +24320,7 @@ way	O
 into	O
 the	O
 next	O
-century	O
+<oov>	O
 ,	O
 the	O
 <oov>	O
@@ -24381,7 +24381,7 @@ tonnes	O
 in	O
 <oov>	O
 while	O
-consumption	O
+<oov>	O
 in	O
 the	O
 same	O
@@ -24432,7 +24432,7 @@ rubber	O
 output	O
 is	O
 not	O
-<oov>	O
+expected	O
 to	O
 rise	O
 <oov>	O
@@ -24540,7 +24540,7 @@ Board	B-ORG
 will	O
 reach	O
 220,000	O
-hectares	O
+<oov>	O
 <oov>	O
 now	O
 and	O
@@ -24548,13 +24548,13 @@ the	O
 year	O
 2003	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 said	O
 this	O
 may	O
 not	O
 be	O
-<oov>	O
+possible	O
 at	O
 this	O
 time	O
@@ -24570,7 +24570,7 @@ for	O
 the	O
 rubber	O
 <oov>	O
-industry	O
+<oov>	O
 will	O
 be	O
 to	O
@@ -24627,7 +24627,7 @@ by	O
 Japan	B-LOC
 's	O
 <oov>	O
-<oov>	O
+central	O
 bank	O
 chief	O
 and	O
@@ -24649,7 +24649,7 @@ keep	O
 the	O
 dollar	O
 at	O
-current	O
+<oov>	O
 levels	O
 ,	O
 market	O
@@ -24667,7 +24667,7 @@ of	O
 a	O
 view	O
 on	O
-currencies	O
+<oov>	O
 by	O
 the	O
 Bank	B-ORG
@@ -24676,7 +24676,7 @@ Japan	I-ORG
 (	O
 BOJ	B-ORG
 )	O
-<oov>	O
+governor	O
 ,	O
 <oov>	B-PER
 <oov>	I-PER
@@ -24685,8 +24685,8 @@ quoted	O
 in	O
 Japan	B-LOC
 's	O
-<oov>	O
-economic	O
+<oov>	B-PER
+<oov>	I-PER
 daily	O
 on	O
 Friday	O
@@ -24706,11 +24706,11 @@ yen	O
 .	O
 
 This	O
-<oov>	O
+followed	O
 a	O
 widely	O
 <oov>	O
-television	O
+<oov>	O
 <oov>	O
 late	O
 on	O
@@ -24722,7 +24722,7 @@ by	O
 a	O
 <oov>	O
 <oov>	O
-Ministry	B-PER
+<oov>	B-PER
 <oov>	I-PER
 ,	O
 who	O
@@ -24793,12 +24793,12 @@ Robert	B-PER
 )	O
 Rubin	B-PER
 's	O
-comments	O
+<oov>	O
 were	O
 indeed	O
 what	O
 he	O
-himself	O
+<oov>	O
 thinks	O
 about	O
 the	O
@@ -24812,15 +24812,15 @@ Note	O
 chief	O
 dealer	O
 at	O
-Sumitomo	B-ORG
-Bank	I-ORG
+<oov>	B-ORG
+Bank	I-LOC
 .	O
 
 Asked	O
 about	O
 Rubin	B-PER
 's	O
-<oov>	O
+comment	O
 that	O
 a	O
 strong	O
@@ -24828,7 +24828,7 @@ dollar	O
 was	O
 in	O
 U.S.	B-LOC
-interests	O
+<oov>	O
 ,	O
 <oov>	B-PER
 said	O
@@ -24863,7 +24863,7 @@ that	O
 sense	O
 ,	O
 the	O
-comments	O
+<oov>	O
 are	O
 not	O
 <oov>	O
@@ -24973,7 +24973,7 @@ a	O
 he	O
 made	O
 in	O
-<oov>	O
+November	O
 after	O
 the	O
 dollar	O
@@ -25038,7 +25038,7 @@ the	O
 for	O
 the	O
 dollar	O
-following	O
+<oov>	O
 the	O
 <oov>	O
 .	O
@@ -25046,7 +25046,7 @@ the	O
 <oov>	O
 to	O
 the	O
-comments	O
+<oov>	O
 by	O
 "	O
 Mr	B-PER
@@ -25062,7 +25062,7 @@ his	O
 <oov>	O
 in	O
 the	O
-<oov>	O
+currency	O
 market	O
 ,	O
 was	O
@@ -25096,7 +25096,7 @@ be	O
 moving	O
 <oov>	O
 a	O
-further	O
+<oov>	O
 <oov>	O
 of	O
 the	O
@@ -25132,13 +25132,13 @@ The	O
 fact	O
 that	O
 he	O
-<oov>	O
+touched	O
 on	O
 the	O
 issue	O
 of	O
+inflation	O
 <oov>	O
-triggered	O
 by	O
 import	O
 prices	O
@@ -25151,7 +25151,7 @@ not	O
 want	O
 a	O
 <oov>	O
-<oov>	O
+depreciation	O
 of	O
 the	O
 yen	O
@@ -25167,14 +25167,14 @@ said	O
 ,	O
 chief	O
 forex	O
-<oov>	O
+manager	O
 at	O
 <oov>	B-ORG
 Trust	I-ORG
 &	I-ORG
 <oov>	I-ORG
 Co	I-ORG
-.	O
+.	I-ORG
 
 Some	O
 said	O
@@ -25202,10 +25202,10 @@ Japan	B-LOC
 "	O
 There	O
 was	O
-<oov>	O
+concern	O
 that	O
 <oov>	O
-<oov>	O
+investors	O
 may	O
 sell	O
 <oov>	O
@@ -25227,14 +25227,14 @@ want	O
 the	O
 yen	O
 's	O
-<oov>	O
+weakness	O
 to	O
 lead	O
 to	O
 <oov>	O
 over	O
 the	O
-economy	O
+<oov>	O
 ,	O
 "	O
 said	O
@@ -25252,12 +25252,12 @@ Tokyo	B-LOC
 
 Senior	O
 BOJ	B-ORG
-officials	O
-have	O
-separately	O
-said	O
 <oov>	O
-markets	O
+have	O
+<oov>	O
+said	O
+financial	O
+<oov>	O
 '	O
 views	O
 on	O
@@ -25266,12 +25266,12 @@ the	O
 have	O
 been	O
 too	O
-negative	O
+<oov>	O
 .	O
 
 "	O
 I	O
-<oov>	O
+realise	O
 there	O
 are	O
 <oov>	O
@@ -25352,7 +25352,7 @@ BEIRUT	B-PER
 
 A	O
 <oov>	O
-<oov>	O
+military	O
 court	O
 on	O
 Friday	O
@@ -25372,8 +25372,8 @@ in	O
 south	O
 <oov>	O
 on	O
-treason	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 The	O
@@ -25401,7 +25401,7 @@ with	O
 which	O
 <oov>	O
 is	O
-officially	O
+<oov>	O
 at	O
 war	O
 .	O
@@ -25419,7 +25419,7 @@ heads	O
 the	O
 <oov>	O
 <oov>	O
-militia	O
+<oov>	O
 which	O
 helps	O
 Israel	B-LOC
@@ -25451,10 +25451,10 @@ the	O
 trial	O
 began	O
 on	O
-February	O
+<oov>	O
 16	O
 that	O
-Lebanese	B-MISC
+<oov>	O
 <oov>	O
 must	O
 drop	O
@@ -25476,18 +25476,18 @@ He	O
 said	O
 Israel	B-LOC
 was	O
-capable	O
+<oov>	O
 of	O
-<oov>	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 's	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 to	O
 stop	O
 the	O
 legal	O
-pursuit	O
+<oov>	O
 .	O
 
 The	O
@@ -25496,7 +25496,7 @@ The	O
 <oov>	O
 were	O
 :	O
-<oov>	O
+forming	O
 a	O
 <oov>	O
 army	O
@@ -25536,8 +25536,8 @@ by	O
 <oov>	B-PER
 <oov>	I-PER
 and	O
+kidnapping	O
 <oov>	B-PER
-<oov>	I-PER
 <oov>	O
 for	O
 long	O
@@ -25554,14 +25554,14 @@ began	O
 a	O
 Beirut	B-LOC
 <oov>	O
-<oov>	O
+prosecutor	O
+<oov>	B-PER
 <oov>	I-PER
 <oov>	I-PER
-<oov>	O
 former	O
-Lebanese	B-MISC
-army	O
 <oov>	O
+army	O
+soldiers	O
 with	O
 <oov>	O
 with	O
@@ -25581,7 +25581,7 @@ the	O
 men	O
 ,	O
 all	O
-<oov>	O
+members	O
 of	O
 the	O
 <oov>	O
@@ -25640,10 +25640,10 @@ ranks	O
 as	O
 an	O
 army	O
-<oov>	O
+brigade	O
 as	O
 a	O
-<oov>	O
+condition	O
 for	O
 peace	O
 .	O
@@ -25662,8 +25662,8 @@ of	O
 the	O
 <oov>	O
 and	O
-Lebanese	B-MISC
-<oov>	I-MISC
+<oov>	O
+<oov>	O
 <oov>	O
 the	O
 issue	O
@@ -25682,8 +25682,8 @@ Prime	O
 Shimon	B-PER
 Peres	I-PER
 ,	O
-<oov>	B-PER
-<oov>	I-PER
+calling	O
+<oov>	O
 "	O
 a	O
 great	O
@@ -25700,9 +25700,9 @@ had	O
 <oov>	O
 the	O
 <oov>	O
-<oov>	O
+commander	O
 by	O
-<oov>	O
+ordering	O
 his	O
 arrest	O
 on	O
@@ -25733,7 +25733,7 @@ be	O
 real	O
 <oov>	O
 with	O
-Lebanon	B-LOC
+<oov>	O
 "	O
 unless	O
 it	O
@@ -25746,7 +25746,7 @@ the	O
 <oov>	O
 and	O
 its	O
-<oov>	O
+commanders	O
 .	O
 "	O
 
@@ -25755,7 +25755,7 @@ Beirut	B-LOC
 <oov>	I-LOC
 court	O
 also	O
-sentenced	O
+<oov>	O
 to	O
 life	O
 in	O
@@ -25812,11 +25812,11 @@ and	O
 <oov>	O
 acts	O
 <oov>	O
-<oov>	O
+Lebanon	B-LOC
 "	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Texas	B-LOC
 /	O
@@ -25852,7 +25852,7 @@ said	O
 <oov>	O
 steers	O
 and	O
-<oov>	O
+heifers	O
 were	O
 $	O
 1.00	O
@@ -25862,9 +25862,9 @@ lower	O
 .	O
 
 <oov>	O
-<oov>	I-PER
-<oov>	I-PER
-<oov>	I-PER
+<oov>	O
+moderate	O
+<oov>	O
 .	O
 
 Sales	O
@@ -25872,7 +25872,7 @@ Sales	O
 on	O
 <oov>	O
 head	O
-<oov>	O
+slaughter	O
 steers	O
 and	O
 1,000	O
@@ -25944,7 +25944,7 @@ None	O
 (	O
 (	O
 <oov>	O
-newsdesk	O
+<oov>	O
 312	O
 408	O
 <oov>	O
@@ -25966,8 +25966,8 @@ Dec	O
 
 <oov>	O
 daily	O
+livestock	O
 <oov>	O
-slaughter	O
 under	O
 Fed	B-ORG
 <oov>	O
@@ -26024,16 +26024,16 @@ date	O
 <oov>	B-PER
 <oov>	I-PER
 
-<oov>	B-PER
+<oov>	O
 <oov>	O
 Last	O
 Week	O
 (	O
 <oov>	O
 )	O
+610,000	O
+<oov>	O
 <oov>	B-PER
-<oov>	B-PER
-<oov>	I-PER
 
 <oov>	B-PER
 <oov>	I-PER
@@ -26106,7 +26106,7 @@ and	O
 <oov>	B-PER
 
 <oov>	O
-<oov>	O
+100,000	O
 33,000	O
 
 <oov>	B-PER
@@ -26151,10 +26151,10 @@ S&P	B-ORG
 /	O
 AA-	O
 
-Delivery	O
-Date	O
+<oov>	B-PER
+Date	I-PER
 :	O
-<oov>	O
+<oov>	B-PER
 
 FSA	B-ORG
 <oov>	I-PER
@@ -26246,7 +26246,7 @@ Trust	I-ORG
 <oov>	I-LOC
 
 <oov>	B-PER
-<oov>	I-PER
+Securities	I-PER
 <oov>	I-PER
 
 <oov>	B-PER
@@ -26254,7 +26254,7 @@ Trust	I-ORG
 
 First	B-ORG
 Union	I-ORG
-<oov>	I-ORG
+Capital	I-ORG
 <oov>	I-ORG
 Corp.	I-ORG
 -	O
@@ -26329,7 +26329,7 @@ Glenn	B-PER
 a	O
 rural	O
 <oov>	O
-minister	O
+<oov>	O
 who	O
 is	O
 the	O
@@ -26342,7 +26342,7 @@ on	O
 ,	O
 Mills	B-ORG
 was	O
-<oov>	O
+pronounced	O
 dead	O
 at	O
 <oov>	O
@@ -26382,7 +26382,7 @@ sent	O
 <oov>	O
 of	O
 <oov>	O
-<oov>	O
+through	O
 his	O
 body	O
 ,	O
@@ -26390,7 +26390,7 @@ said	O
 <oov>	O
 of	O
 <oov>	O
-spokesman	O
+<oov>	O
 Eugene	B-PER
 Morris	I-PER
 ,	O
@@ -26399,7 +26399,7 @@ was	O
 <oov>	O
 at	O
 the	O
-execution	O
+<oov>	O
 .	O
 
 "	O
@@ -26419,8 +26419,8 @@ I	O
 <oov>	O
 that	O
 the	O
-<oov>	O
-<oov>	O
+<oov>	B-PER
+Mohammed	B-PER
 is	O
 the	O
 <oov>	O
@@ -26446,7 +26446,7 @@ of	O
 Mills	B-MISC
 '	O
 official	O
-conversion	O
+<oov>	O
 ,	O
 but	O
 they	O
@@ -26468,7 +26468,7 @@ new	O
 name	O
 ,	O
 <oov>	B-PER
-Abdullah	I-PER
+<oov>	B-PER
 <oov>	I-PER
 ,	O
 be	O
@@ -26480,7 +26480,7 @@ file	O
 ,	O
 which	O
 is	O
-usually	O
+<oov>	O
 an	O
 <oov>	O
 of	O
@@ -26525,7 +26525,7 @@ Mills	B-ORG
 made	O
 no	O
 <oov>	O
-<oov>	O
+request	O
 for	O
 a	O
 last	O
@@ -26540,9 +26540,9 @@ the	O
 <oov>	B-PER
 <oov>	O
 and	O
-<oov>	O
+<oov>	B-PER
 <oov>	I-PER
-<oov>	O
+offered	O
 him	O
 .	O
 
@@ -26570,7 +26570,7 @@ die	O
 but	O
 had	O
 his	O
-sentence	O
+<oov>	O
 <oov>	O
 <oov>	O
 by	O
@@ -26606,9 +26606,9 @@ March	O
 ,	O
 Mills	B-ORG
 and	O
-accomplice	O
 <oov>	O
-<oov>	B-PER
+<oov>	I-PER
+<oov>	I-PER
 <oov>	I-PER
 on	O
 the	O
@@ -26620,7 +26620,7 @@ of	O
 <oov>	O
 in	O
 an	O
-<oov>	O
+attempt	O
 to	O
 rob	O
 it	O
@@ -26636,7 +26636,7 @@ taken	O
 to	O
 a	O
 nearby	O
-<oov>	O
+airstrip	O
 where	O
 he	O
 was	O
@@ -26678,7 +26678,7 @@ New	B-LOC
 York	I-LOC
 grain	O
 <oov>	O
-fixtures	O
+<oov>	O
 -	O
 Dec	O
 5	O
@@ -26859,7 +26859,7 @@ no	O
 sales	O
 .	O
 
-Confirmed	O
+<oov>	O
 -	O
 None	O
 Week	O
@@ -26931,7 +26931,7 @@ at	O
 strip	O
 clubs	O
 and	O
-<oov>	O
+offered	O
 one	O
 $	O
 3,000	O
@@ -26939,7 +26939,7 @@ to	O
 pay	O
 for	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 ,	O
 <oov>	B-PER
@@ -27001,12 +27001,12 @@ adding	O
 <oov>	O
 should	O
 pay	O
-restitution	O
+<oov>	O
 of	O
 more	O
 than	O
 $	O
-<oov>	O
+100,000	O
 to	O
 the	O
 <oov>	O
@@ -27021,7 +27021,7 @@ him	O
 ,	O
 who	O
 was	O
-<oov>	O
+already	O
 on	O
 <oov>	O
 for	O
@@ -27074,8 +27074,8 @@ big	O
 One	O
 <oov>	O
 said	O
-<oov>	O
-offered	O
+<oov>	B-PER
+<oov>	I-PER
 to	O
 give	O
 her	O
@@ -27095,7 +27095,7 @@ grain	O
 weekly	O
 .	O
 
-CHICAGO	B-LOC
+<oov>	O
 ,	O
 Dec	O
 6	O
@@ -27290,8 +27290,8 @@ Total	O
 In	O
 <oov>	B-LOC
 ,	O
-<oov>	O
-Canada	B-LOC
+Statistics	B-LOC
+Canada	I-LOC
 <oov>	O
 the	O
 <oov>	O
@@ -27302,7 +27302,7 @@ U.S.	B-LOC
 between	O
 August	O
 and	O
-September	O
+<oov>	O
 1996	O
 ,	O
 in	O
@@ -27364,7 +27364,7 @@ Hub	I-PER
 lower	O
 Friday	O
 ,	O
-<oov>	O
+pressured	O
 early	O
 by	O
 profit	O
@@ -27391,7 +27391,7 @@ sources	O
 said	O
 .	O
 
-January	O
+<oov>	O
 ended	O
 29.7	O
 cents	O
@@ -27400,12 +27400,12 @@ at	O
 $	O
 <oov>	O
 per	O
-<oov>	O
-<oov>	O
+million	O
+British	B-MISC
 <oov>	O
 units	O
 after	O
-<oov>	O
+dipping	O
 to	O
 a	O
 low	O
@@ -27441,14 +27441,14 @@ been	O
 
 Now	O
 the	O
-<oov>	O
-<oov>	O
-<oov>	O
+<oov>	B-ORG
+<oov>	B-ORG
+Service	I-ORG
 is	O
 <oov>	O
 for	O
 <oov>	O
-<oov>	O
+temperatures	O
 in	O
 more	O
 than	O
@@ -27466,13 +27466,13 @@ said	O
 
 In	O
 its	O
-<oov>	O
+forecast	O
 ,	O
 the	O
 <oov>	O
 said	O
 it	O
-<oov>	O
+expects	O
 <oov>	O
 <oov>	O
 "	O
@@ -27483,7 +27483,7 @@ lower	O
 states	O
 "	O
 from	O
-December	O
+<oov>	O
 12	O
 <oov>	O
 <oov>	O
@@ -27505,7 +27505,7 @@ week	O
 said	O
 <oov>	O
 in	O
-January	O
+<oov>	O
 was	O
 at	O
 $	O
@@ -27536,7 +27536,7 @@ on	O
 21	O
 .	O
 
-<oov>	O
+Resistance	B-ORG
 was	O
 pegged	O
 at	O
@@ -27563,8 +27563,8 @@ $	O
 3.60	O
 <oov>	O
 before	O
+<oov>	B-PER
 <oov>	O
-deadlines	O
 .	O
 
 <oov>	O
@@ -27596,15 +27596,15 @@ cents	O
 NYMEX	O
 said	O
 an	O
-estimated	O
+<oov>	O
 <oov>	O
 Hub	O
-contracts	O
+<oov>	O
 traded	O
 ,	O
 down	O
 from	O
-Thursday	O
+<oov>	B-PER
 's	O
 <oov>	O
 <oov>	O
@@ -27615,12 +27615,12 @@ of	O
 NYMEX	O
 <oov>	O
 <oov>	O
+<oov>	B-PER
 <oov>	O
-<oov>	I-PER
 ,	O
 with	O
-January	O
-settling	O
+<oov>	B-PER
+<oov>	O
 at	O
 $	O
 <oov>	O
@@ -27666,9 +27666,9 @@ range	O
 by	O
 <oov>	O
 mild	O
-weather	O
-in	O
 <oov>	O
+in	O
+western	O
 Canada	B-LOC
 .	O
 
@@ -27716,7 +27716,7 @@ the	O
 <oov>	O
 ,	O
 <oov>	O
-finished	O
+<oov>	O
 26.5	O
 cents	O
 lower	O
@@ -27724,14 +27724,14 @@ at	O
 $	O
 <oov>	O
 after	O
-<oov>	O
+dipping	O
 to	O
 a	O
 low	O
 of	O
 $	O
 <oov>	O
-earlier	O
+<oov>	O
 in	O
 the	O
 <oov>	O
@@ -27857,13 +27857,13 @@ Two	O
 barges	O
 next	O
 week	O
-<oov>	O
+Illinois	B-LOC
 bid	O
 at	O
 a	O
 steady	O
 130	O
-<oov>	O
+percent	O
 of	O
 <oov>	O
 ,	O
@@ -27904,9 +27904,9 @@ of	O
 <oov>	O
 5	O
 ,	O
-Illinois	B-LOC
-,	O
 <oov>	O
+,	O
+offered	O
 five	O
 points	O
 lower	O
@@ -27938,10 +27938,10 @@ at	O
 160	O
 <oov>	O
 ,	O
-<oov>	O
+offered	O
 at	O
 170	O
-<oov>	O
+percent	O
 ,	O
 no	O
 <oov>	O
@@ -27956,12 +27956,12 @@ each	O
 week	O
 <oov>	O
 ,	O
-<oov>	O
+Illinois	B-LOC
 ,	O
-offered	O
+<oov>	O
 at	O
 130	O
-percent	O
+<oov>	O
 of	O
 <oov>	O
 ,	O
@@ -28001,12 +28001,12 @@ week	O
 .	O
 
 --	O
-Chicago	B-LOC
-<oov>	I-PER
 <oov>	B-PER
 <oov>	I-PER
+<oov>	I-PER
+<oov>	I-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 CBOT	O
 grain	O
@@ -28017,7 +28017,7 @@ and	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+CHICAGO	B-LOC
 <oov>	I-PER
 
 Grain	O
@@ -28035,7 +28035,7 @@ at	O
 <oov>	O
 for	O
 the	O
-previous	O
+<oov>	O
 <oov>	O
 day	O
 ,	O
@@ -28093,7 +28093,7 @@ Louis	I-PER
 
 <oov>	B-PER
 
-<oov>	B-PER
+Chicago	B-LOC
 <oov>	I-PER
 <oov>	I-PER
 
@@ -28114,14 +28114,14 @@ Louis	I-PER
 )	O
 )	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
-<oov>	O
+Clinton	B-PER
 to	O
 have	O
 more	O
 news	O
-<oov>	O
+conferences	O
 in	O
 2nd	O
 term	O
@@ -28171,7 +28171,7 @@ year	O
 ,	O
 one	O
 in	O
-January	O
+<oov>	O
 and	O
 one	O
 after	O
@@ -28187,7 +28187,7 @@ had	O
 <oov>	O
 other	O
 <oov>	O
-sessions	O
+<oov>	O
 with	O
 the	O
 press	O
@@ -28199,7 +28199,7 @@ House	I-LOC
 Mike	B-PER
 <oov>	I-PER
 said	O
-<oov>	O
+Clinton	B-PER
 "	O
 plans	O
 to	O
@@ -28248,7 +28248,7 @@ with	O
 <oov>	B-PER
 ,	O
 the	O
-<oov>	B-PER
+spokesman	O
 added	O
 .	O
 
@@ -28312,7 +28312,7 @@ $	O
 <oov>	O
 in	O
 annual	O
-<oov>	O
+revenues	O
 from	O
 the	O
 <oov>	O
@@ -28321,11 +28321,11 @@ the	O
 and	O
 sale	O
 and	O
-distribution	O
+<oov>	O
 of	O
 <oov>	O
-<oov>	O
-prodcuts	O
+<oov>	I-PER
+<oov>	I-PER
 .	O
 
 The	O
@@ -28371,7 +28371,7 @@ As	O
 many	O
 as	O
 1	O
-million	O
+<oov>	O
 dog	O
 <oov>	O
 are	O
@@ -28414,7 +28414,7 @@ that	O
 500,000	O
 and	O
 one	O
-<oov>	O
+million	O
 <oov>	O
 are	O
 <oov>	O
@@ -28504,9 +28504,9 @@ an	O
 
 <oov>	B-PER
 's	O
-respect	O
+<oov>	O
 their	O
-territories	O
+<oov>	O
 ,	O
 "	O
 he	O
@@ -28521,7 +28521,7 @@ of	O
 <oov>	O
 <oov>	O
 were	O
-provoked	O
+<oov>	O
 by	O
 a	O
 person	O
@@ -28529,7 +28529,7 @@ and	O
 60	O
 <oov>	O
 were	O
-suffered	O
+<oov>	O
 by	O
 <oov>	O
 .	O
@@ -28544,7 +28544,7 @@ only	O
 of	O
 <oov>	O
 were	O
-reported	O
+<oov>	O
 <oov>	O
 medical	O
 <oov>	O
@@ -28560,9 +28560,9 @@ Don	B-PER
 of	O
 the	O
 <oov>	O
-<oov>	O
 <oov>	I-PER
 <oov>	I-PER
+Association	I-PER
 ,	O
 said	O
 <oov>	O
@@ -28685,7 +28685,7 @@ a	O
 stray	O
 dog	O
 ,	O
-<oov>	B-PER
+children	O
 should	O
 be	O
 taught	O
@@ -28715,8 +28715,8 @@ away	O
 <oov>	B-PER
 
 <oov>	O
-Minn	O
-<oov>	O
+Minn	I-LOC
+feedlot	O
 cattle	O
 market	O
 not	O
@@ -28730,7 +28730,7 @@ MOINES	I-PER
 
 <oov>	O
 and	O
-<oov>	B-PER
+heifers	O
 were	O
 not	O
 tested	O
@@ -28761,15 +28761,15 @@ None	O
 
 (	O
 (	O
-Chicago	B-LOC
-<oov>	I-PER
 <oov>	O
+<oov>	O
+312-408-8720	O
 )	O
 )	O
 
 <oov>	B-PER
 
-Nebraska	B-LOC
+<oov>	O
 fed	O
 cattle	O
 <oov>	O
@@ -28795,7 +28795,7 @@ Demand	O
 .	O
 
 <oov>	O
-<oov>	O
+interest	O
 light	O
 .	O
 
@@ -28830,8 +28830,8 @@ N	O
 /	O
 A	O
 
-Dressed	O
 <oov>	O
+<oov>	I-PER
 <oov>	O
 not	O
 well	O
@@ -28857,12 +28857,12 @@ early	O
 <oov>	O
 .	O
 
-Dressed	O
 <oov>	O
+<oov>	I-PER
 <oov>	O
 :	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 and	O
 <oov>	B-PER
 <oov>	I-PER
@@ -28875,7 +28875,7 @@ lbs	O
 <oov>	B-PER
 
 Four	B-PER
-<oov>	I-PER
+Africans	I-PER
 said	O
 to	O
 <oov>	O
@@ -28898,8 +28898,8 @@ states	O
 are	O
 ready	O
 to	O
-nominate	O
-candidates	O
+<oov>	O
+<oov>	O
 for	O
 the	O
 post	O
@@ -28964,16 +28964,16 @@ Ivory	B-LOC
 Coast	I-LOC
 ,	O
 its	O
-<oov>	O
+foreign	O
 <oov>	O
 and	O
 the	O
 U.N.	B-ORG
-<oov>	O
-<oov>	O
+<oov>	I-ORG
+Assembly	I-ORG
 <oov>	O
 in	O
-<oov>	O
+1994-95	O
 ;	O
 and	O
 Hamid	B-PER
@@ -28988,7 +28988,7 @@ the	O
 <oov>	O
 of	O
 the	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 .	O
 
@@ -29008,15 +29008,15 @@ Coast	I-LOC
 and	O
 <oov>	O
 have	O
-<oov>	O
+scheduled	O
 a	O
-<oov>	O
+meeting	O
 with	O
 <oov>	O
-Council	O
+<oov>	O
+<oov>	O
 <oov>	I-PER
-<oov>	O
-<oov>	O
+<oov>	I-PER
 of	O
 Italy	B-LOC
 to	O
@@ -29041,7 +29041,7 @@ other	O
 <oov>	O
 would	O
 step	O
-<oov>	O
+forward	O
 .	O
 
 <oov>	B-PER
@@ -29054,11 +29054,11 @@ of	O
 ,	O
 a	O
 U.N.	B-ORG
+General	O
 <oov>	O
-Assembly	B-ORG
 <oov>	O
 in	O
-<oov>	O
+<oov>	B-PER
 ,	O
 was	O
 <oov>	B-PER
@@ -29066,7 +29066,7 @@ was	O
 his	O
 own	O
 <oov>	O
-<oov>	O
+without	O
 being	O
 <oov>	O
 by	O
@@ -29074,7 +29074,7 @@ his	O
 <oov>	O
 .	O
 
-<oov>	O
+Boutros-Ghali	B-PER
 on	O
 <oov>	O
 opened	O
@@ -29118,9 +29118,9 @@ in	O
 case	O
 the	O
 race	O
-reached	O
-an	O
 <oov>	O
+an	O
+impasse	O
 .	O
 
 The	O
@@ -29140,8 +29140,8 @@ other	O
 14	O
 <oov>	O
 <oov>	O
-<oov>	B-PER
 <oov>	O
+supported	O
 him	O
 .	O
 
@@ -29154,7 +29154,7 @@ states	O
 means	O
 that	O
 the	O
-council	O
+<oov>	O
 could	O
 begin	O
 voting	O
@@ -29164,7 +29164,7 @@ next	O
 week	O
 ,	O
 a	O
-<oov>	O
+procedure	O
 that	O
 could	O
 either	O
@@ -29186,8 +29186,8 @@ each	O
 .	O
 
 The	O
-Security	O
-<oov>	I-ORG
+<oov>	B-ORG
+Council	I-ORG
 has	O
 to	O
 vote	O
@@ -29204,7 +29204,7 @@ of	O
 the	O
 <oov>	O
 <oov>	B-PER
-<oov>	I-PER
+Assembly	I-ORG
 before	O
 <oov>	O
 31	O
@@ -29212,10 +29212,10 @@ when	O
 <oov>	B-PER
 's	O
 term	O
-<oov>	O
+expires	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Spain	B-LOC
 's	O
@@ -29238,7 +29238,7 @@ on	O
 Friday	O
 they	O
 had	O
-arrested	O
+<oov>	O
 five	O
 people	O
 and	O
@@ -29284,7 +29284,7 @@ by	O
 <oov>	I-PER
 ,	O
 the	O
-<oov>	O
+political	O
 wing	O
 of	O
 Basque	B-MISC
@@ -29295,7 +29295,7 @@ ETA	B-ORG
 
 Police	O
 also	O
-<oov>	O
+confiscated	O
 eight	O
 kg	O
 (	O
@@ -29318,14 +29318,14 @@ The	O
 which	O
 <oov>	O
 <oov>	O
-<oov>	O
-supporters	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 <oov>	O
 with	O
 the	O
 18th	O
-<oov>	O
+anniversary	O
 of	O
 Spain	B-LOC
 's	O
@@ -29354,7 +29354,7 @@ of	O
 Italy	B-LOC
 's	O
 <oov>	O
-<oov>	O
+dictator	O
 Benito	B-PER
 <oov>	I-PER
 ,	O
@@ -29393,7 +29393,7 @@ told	O
 a	O
 radio	O
 show	O
-shortly	O
+<oov>	O
 after	O
 <oov>	O
 leader	O
@@ -29413,7 +29413,7 @@ the	O
 row	O
 had	O
 been	O
-<oov>	O
+resolved	O
 .	O
 
 "	O
@@ -29447,7 +29447,7 @@ thanks	O
 to	O
 the	O
 good	O
-offices	O
+<oov>	O
 of	O
 Giuseppe	B-PER
 <oov>	I-PER
@@ -29469,14 +29469,14 @@ and	O
 had	O
 <oov>	O
 their	O
-differences	O
+<oov>	O
 .	O
 
 <oov>	B-PER
 ,	O
 33	O
 ,	O
-<oov>	O
+resigned	O
 from	O
 the	O
 <oov>	O
@@ -29509,11 +29509,11 @@ Loren	I-PER
 ,	O
 had	O
 <oov>	O
-<oov>	B-PER
 <oov>	O
+leaders	O
 of	O
 <oov>	O
-<oov>	O
+internal	O
 party	O
 debate	O
 .	O
@@ -29560,7 +29560,7 @@ the	O
 World	B-MISC
 War	I-MISC
 Two	I-MISC
-<oov>	O
+followers	O
 .	O
 
 <oov>	B-PER
@@ -29585,7 +29585,7 @@ Claus	B-MISC
 <oov>	O
 <oov>	O
 to	O
-<oov>	O
+workers	O
 in	O
 a	O
 German	B-MISC
@@ -29608,7 +29608,7 @@ was	O
 a	O
 <oov>	O
 in	O
-disguise	O
+<oov>	O
 .	O
 
 The	O
@@ -29649,7 +29649,7 @@ was	O
 <oov>	B-PER
 
 Italy	B-LOC
-commission	O
+<oov>	O
 <oov>	O
 1997	O
 budget	O
@@ -29679,12 +29679,12 @@ budget	O
 and	O
 it	O
 will	O
-<oov>	O
+approve	O
 the	O
 <oov>	O
 <oov>	O
 by	O
-<oov>	B-PER
+<oov>	O
 .	O
 
 From	O
@@ -29692,7 +29692,7 @@ From	O
 ,	O
 the	O
 full	O
-assembly	O
+<oov>	O
 of	O
 the	O
 Senate	B-ORG
@@ -29712,7 +29712,7 @@ Milan	B-ORG
 <oov>	I-PER
 <oov>	I-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 EU	B-ORG
 ,	O
@@ -29769,7 +29769,7 @@ and	O
 <oov>	O
 <oov>	O
 on	O
-<oov>	O
+January	O
 1	O
 ,	O
 1996	O
@@ -29781,10 +29781,10 @@ levels	O
 <oov>	O
 in	O
 the	O
-<oov>	O
+so-called	O
 Europe	B-LOC
-Agreement	I-MISC
-<oov>	I-PER
+<oov>	O
+between	O
 the	O
 EU	B-ORG
 and	O
@@ -29803,7 +29803,7 @@ market	O
 while	O
 <oov>	O
 to	O
-modernise	O
+<oov>	O
 the	O
 local	O
 oil	O
@@ -29821,7 +29821,7 @@ now	O
 a	O
 final	O
 <oov>	O
-regarding	O
+<oov>	O
 issues	O
 <oov>	O
 to	O
@@ -29836,7 +29836,7 @@ sector	O
 ,	O
 "	O
 the	O
-Commission	B-ORG
+<oov>	O
 said	O
 in	O
 a	O
@@ -29876,7 +29876,7 @@ January	O
 .	O
 
 The	O
-<oov>	O
+agreement	O
 <oov>	O
 the	O
 early	O
@@ -29911,7 +29911,7 @@ the	O
 <oov>	O
 at	O
 <oov>	O
-meetings	O
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -29945,7 +29945,7 @@ Friday	O
 ,	O
 in	O
 <oov>	O
-<oov>	O
+against	O
 a	O
 <oov>	O
 to	O
@@ -29968,13 +29968,13 @@ in	O
 1992	O
 .	O
 
-<oov>	O
+Members	O
 of	O
 the	O
 Hindu	B-ORG
 <oov>	I-ORG
 <oov>	I-ORG
-<oov>	I-ORG
+<oov>	B-ORG
 Party	I-ORG
 (	O
 <oov>	O
@@ -29991,7 +29991,7 @@ a	O
 deputy	O
 made	O
 the	O
-<oov>	O
+proposal	O
 in	O
 <oov>	O
 of	O
@@ -30003,7 +30003,7 @@ which	O
 was	O
 <oov>	O
 on	O
-<oov>	O
+December	O
 6	O
 ,	O
 1992	O
@@ -30013,7 +30013,7 @@ The	O
 house	O
 was	O
 first	O
-adjourned	O
+<oov>	O
 for	O
 two	O
 hours	O
@@ -30023,38 +30023,38 @@ When	O
 it	O
 <oov>	O
 ,	O
-<oov>	B-PER
 <oov>	O
-resumed	O
+<oov>	I-PER
+<oov>	O
 the	O
 <oov>	O
 ,	O
 and	O
 deputy	O
 <oov>	O
+<oov>	B-PER
 <oov>	O
-<oov>	O
-<oov>	O
+suspended	O
 work	O
 until	O
 Monday	O
 .	O
 
 The	O
-destruction	O
+<oov>	O
 of	O
 the	O
 <oov>	O
 mosque	O
 in	O
 the	O
-northern	O
+<oov>	B-MISC
 Indian	B-MISC
 town	O
 of	O
 <oov>	O
+triggered	O
 <oov>	O
-nationwide	O
 <oov>	O
 <oov>	O
 in	O
@@ -30097,7 +30097,7 @@ The	O
 <oov>	O
 backs	O
 a	O
-<oov>	O
+hardline	O
 Hindu	B-MISC
 <oov>	O
 to	O
@@ -30113,7 +30113,7 @@ mosque	O
 ,	O
 which	O
 <oov>	O
-<oov>	O
+believe	O
 was	O
 the	O
 <oov>	O
@@ -30168,13 +30168,13 @@ output	O
 fell	O
 to	O
 2.56	O
-<oov>	O
+million	O
 tonnes	O
 in	O
 <oov>	O
 from	O
-<oov>	B-PER
 <oov>	O
+million	O
 in	O
 the	O
 same	O
@@ -30208,9 +30208,9 @@ Sept	O
 <oov>	I-PER
 <oov>	I-PER
 
+<oov>	O
+products	O
 <oov>	B-PER
-<oov>	I-PER
-<oov>	I-PER
 <oov>	I-PER
 <oov>	I-PER
 <oov>	I-PER
@@ -30239,7 +30239,7 @@ WORLD	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+BRUSSELS	B-LOC
 <oov>	I-PER
 
 <oov>	B-PER
@@ -30287,13 +30287,13 @@ the	O
 market	O
 's	O
 <oov>	O
-programme	O
+<oov>	O
 as	O
 well	O
 as	O
 its	O
 <oov>	O
-<oov>	O
+retailers	O
 .	O
 
 --	O
@@ -30327,8 +30327,8 @@ COAL	O
 <oov>	B-PER
 <oov>	O
 -	O
-<oov>	B-PER
-<oov>	I-PER
+120,000	O
+<oov>	O
 coal	O
 <oov>	O
 Point	O
@@ -30413,7 +30413,7 @@ LONDON	B-LOC
 
 UK	B-LOC
 <oov>	O
-William	B-PER
+<oov>	B-PER
 Hill	I-PER
 said	O
 on	O
@@ -30431,14 +30431,14 @@ in	O
 the	O
 next	O
 <oov>	O
-election	O
+<oov>	O
 from	O
 <oov>	O
 to	O
 5-2	O
 .	O
 
-William	B-PER
+<oov>	B-PER
 Hill	I-PER
 said	O
 the	O
@@ -30456,7 +30456,7 @@ months	O
 
 The	O
 Labour	B-ORG
-<oov>	I-ORG
+opposition	O
 are	O
 now	O
 1-4	O
@@ -30508,7 +30508,7 @@ a	O
 week	O
 of	O
 meagre	O
-returns	O
+<oov>	O
 on	O
 <oov>	O
 bonds	O
@@ -30527,8 +30527,8 @@ terms	O
 ,	O
 <oov>	B-PER
 <oov>	I-PER
-<oov>	O
-returns	O
+<oov>	I-PER
+<oov>	I-PER
 of	O
 0.85	O
 <oov>	O
@@ -30575,7 +30575,7 @@ in	O
 the	O
 <oov>	O
 world	O
-<oov>	O
+government	O
 bond	O
 index	O
 .	O
@@ -30611,7 +30611,7 @@ were	O
 also	O
 in	O
 <oov>	O
-territory	O
+<oov>	O
 at	O
 minus	O
 <oov>	O
@@ -30627,8 +30627,8 @@ and	O
 <oov>	O
 which	O
 lost	O
-<oov>	B-PER
 <oov>	O
+percent	O
 .	O
 
 <oov>	O
@@ -30636,7 +30636,7 @@ was	O
 the	O
 only	O
 <oov>	O
-country	O
+<oov>	O
 in	O
 the	O
 table	O
@@ -30651,7 +30651,7 @@ albeit	O
 a	O
 <oov>	O
 0.02	O
-percent	O
+<oov>	O
 .	O
 
 German	B-MISC
@@ -30665,11 +30665,11 @@ better	O
 <oov>	O
 of	O
 0.05	O
-<oov>	O
+percent	O
 ,	O
 while	O
 <oov>	O
-<oov>	O
+government	O
 bonds	O
 <oov>	O
 a	O
@@ -30693,7 +30693,7 @@ in	O
 league	O
 table	O
 for	O
-<oov>	O
+November	O
 as	O
 a	O
 whole	O
@@ -30726,17 +30726,17 @@ only	O
 <oov>	O
 to	O
 give	O
-positive	O
 <oov>	O
+returns	O
 at	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 .	O
 
 France	B-LOC
 lost	O
 0.37	O
-percent	O
+<oov>	B-PER
 ,	O
 followed	O
 by	O
@@ -30775,7 +30775,7 @@ minus	O
 <oov>	O
 .	O
 
-Salomon	B-LOC
+<oov>	O
 's	O
 bond	O
 index	O
@@ -30790,7 +30790,7 @@ over	O
 one	O
 year	O
 to	O
-<oov>	O
+maturity	O
 ,	O
 <oov>	O
 for	O
@@ -30801,10 +30801,10 @@ market	O
 Only	O
 bonds	O
 <oov>	O
-<oov>	O
+available	O
 to	O
 <oov>	O
-investors	O
+<oov>	O
 and	O
 with	O
 a	O
@@ -30818,7 +30818,7 @@ are	O
 
 <oov>	O
 take	O
-account	O
+<oov>	O
 of	O
 price	O
 moves	O
@@ -30831,8 +30831,8 @@ and	O
 <oov>	B-PER
 Nisbet	I-PER
 ,	O
-International	B-ORG
-Bonds	I-ORG
+<oov>	B-PER
+Bonds	I-PER
 +44	O
 171	O
 6320	O
@@ -30926,8 +30926,8 @@ Mexico	B-LOC
 .	O
 
 --	O
-London	B-ORG
-Newsroom	I-ORG
+London	B-LOC
+<oov>	O
 +44	O
 171	O
 542	O
@@ -30936,8 +30936,8 @@ Newsroom	I-ORG
 <oov>	B-PER
 
 <oov>	O
-between	O
-<oov>	O
+<oov>	I-PER
+<oov>	I-PER
 ,	O
 Major	B-PER
 good	O
@@ -30994,7 +30994,7 @@ spokesman	O
 said	O
 :	O
 "	O
-Relations	O
+<oov>	O
 are	O
 good	O
 .	O
@@ -31013,11 +31013,11 @@ media	O
 <oov>	O
 about	O
 his	O
-political	O
-<oov>	B-PER
+<oov>	O
+<oov>	O
 ,	O
 the	O
-spokesman	O
+<oov>	O
 said	O
 :	O
 "	O
@@ -31045,10 +31045,10 @@ not	O
 aware	O
 of	O
 any	O
-<oov>	O
+meetings	O
 <oov>	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 and	O
 Major	O
 ,	O
@@ -31059,7 +31059,7 @@ talks	O
 between	O
 the	O
 prime	O
-<oov>	O
+minister	O
 and	O
 <oov>	B-PER
 <oov>	I-PER
@@ -31085,7 +31085,7 @@ dead	O
 after	O
 <oov>	O
 jet	O
-<oov>	O
+crashes	O
 in	O
 <oov>	O
 .	O
@@ -31187,7 +31187,7 @@ it	O
 began	O
 its	O
 final	O
-<oov>	O
+approach	O
 about	O
 10	O
 miles	O
@@ -31212,7 +31212,7 @@ the	O
 last	O
 <oov>	O
 the	O
-aircraft	O
+<oov>	O
 made	O
 with	O
 the	O
@@ -31224,7 +31224,7 @@ added	O
 
 "	O
 We	O
-considered	O
+<oov>	O
 it	O
 as	O
 being	O
@@ -31247,7 +31247,7 @@ That	O
 's	O
 when	O
 the	O
-wreckage	O
+<oov>	O
 was	O
 <oov>	O
 ,	O
@@ -31280,9 +31280,9 @@ for	O
 before	O
 going	O
 to	O
-<oov>	O
+<oov>	B-LOC
 ,	O
-<oov>	B-PER
+Ireland	B-LOC
 .	O
 
 The	O
@@ -31320,11 +31320,11 @@ meet	O
 <oov>	B-PER
 .	O
 
-<oov>	B-PER
+JERUSALEM	B-LOC
 <oov>	I-PER
 
 PLO	B-ORG
-<oov>	O
+negotiators	O
 said	O
 on	O
 Friday	O
@@ -31357,7 +31357,7 @@ deal	O
 on	O
 Israel	B-LOC
 's	O
-handover	O
+<oov>	O
 of	O
 Hebron	B-LOC
 to	O
@@ -31393,7 +31393,7 @@ a	O
 <oov>	O
 by	O
 <oov>	B-PER
-<oov>	I-PER
+Mubarak	B-PER
 ,	O
 "	O
 one	O
@@ -31405,14 +31405,14 @@ who	O
 <oov>	B-PER
 ,	O
 told	O
-Reuters	B-ORG
+<oov>	O
 .	O
 
 <oov>	B-PER
 <oov>	I-PER
 said	O
 no	O
-<oov>	O
+meeting	O
 had	O
 yet	O
 been	O
@@ -31437,7 +31437,7 @@ to	O
 meet	O
 Prime	O
 <oov>	O
-Netanyahu	B-PER
+<oov>	O
 but	O
 no	O
 time	O
@@ -31520,7 +31520,7 @@ with	O
 Both	O
 Arafat	B-PER
 and	O
-<oov>	O
+Netanyahu	B-PER
 have	O
 <oov>	O
 <oov>	O
@@ -31586,7 +31586,7 @@ Israel	B-LOC
 on	O
 <oov>	O
 the	O
-long-delayed	O
+<oov>	O
 <oov>	O
 of	O
 most	O
@@ -31604,10 +31604,10 @@ been	O
 <oov>	B-PER
 an	O
 <oov>	O
-meeting	O
+<oov>	O
 .	O
 
-<oov>	B-PER
+Mubarak	B-PER
 's	O
 <oov>	O
 <oov>	B-PER
@@ -31617,24 +31617,24 @@ on	O
 <oov>	O
 there	O
 were	O
-<oov>	O
+efforts	O
 to	O
-arrange	O
+<oov>	O
 a	O
 <oov>	O
 <oov>	O
 the	O
 <oov>	O
 and	O
-<oov>	O
-leaders	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 <oov>	O
 <oov>	O
-Secretary	O
 <oov>	O
-Ahmed	B-PER
+<oov>	O
+Ahmed	I-PER
 <oov>	I-PER
 said	O
 on	O
@@ -31703,7 +31703,7 @@ Turkey	B-LOC
 <oov>	O
 by	O
 own	O
-landmines	O
+<oov>	O
 on	O
 Syrian	B-MISC
 border	O
@@ -31714,14 +31714,14 @@ ANKARA	B-PER
 
 Turkey	B-LOC
 's	O
-efforts	O
-to	O
 <oov>	O
+to	O
+prevent	O
 <oov>	O
 rebels	O
 and	O
-smugglers	O
 <oov>	O
+infiltrating	O
 from	O
 Syria	B-LOC
 are	O
@@ -31745,7 +31745,7 @@ the	O
 border	O
 ,	O
 a	O
-commission	O
+<oov>	O
 of	O
 <oov>	B-PER
 said	O
@@ -31773,7 +31773,7 @@ found	O
 ,	O
 "	O
 the	O
-<oov>	B-PER
+commission	O
 said	O
 in	O
 a	O
@@ -31808,7 +31808,7 @@ Friday	O
 say	O
 the	O
 <oov>	O
-<oov>	O
+present	O
 an	O
 <oov>	O
 to	O
@@ -31824,7 +31824,7 @@ said	O
 It	O
 said	O
 <oov>	B-ORG
-<oov>	I-PER
+Workers	I-ORG
 Party	I-ORG
 (	O
 PKK	B-ORG
@@ -31850,7 +31850,7 @@ forces	O
 "	O
 <oov>	O
 and	O
-smugglers	O
+<oov>	O
 have	O
 <oov>	O
 up	O
@@ -31895,9 +31895,9 @@ forces	O
 <oov>	O
 was	O
 not	O
-<oov>	O
+available	O
 for	O
-<oov>	O
+comment	O
 .	O
 
 Turkey	B-LOC
@@ -31909,10 +31909,10 @@ PKK	B-ORG
 ,	O
 <oov>	O
 for	O
-Kurdish	B-MISC
+<oov>	O
 <oov>	O
 in	O
-<oov>	O
+<oov>	B-PER
 Turkey	B-LOC
 .	O
 
@@ -31957,17 +31957,17 @@ Three	O
 dead	O
 in	O
 Kurd	B-MISC
-<oov>	O
+militia	O
 blood	O
 <oov>	O
 in	O
 Turkey	B-LOC
 .	O
 
-DIYARBAKIR	B-LOC
+<oov>	B-PER
 ,	O
 Turkey	B-LOC
-<oov>	I-LOC
+<oov>	I-PER
 
 Three	O
 people	O
@@ -31987,7 +31987,7 @@ of	O
 <oov>	O
 on	O
 the	O
-streets	O
+<oov>	O
 of	O
 this	O
 <oov>	O
@@ -32011,7 +32011,7 @@ by	O
 a	O
 blood	O
 <oov>	O
-<oov>	O
+between	O
 two	O
 <oov>	O
 ,	O
@@ -32026,7 +32026,7 @@ as	O
 <oov>	O
 guards	O
 <oov>	O
-<oov>	O
+Kurdish	B-MISC
 rebels	O
 .	O
 
@@ -32063,23 +32063,23 @@ mainly	O
 guards	O
 who	O
 fight	O
-<oov>	B-ORG
-<oov>	B-ORG
+Kurdistan	B-ORG
+<oov>	I-ORG
 Party	I-ORG
 (	O
 PKK	B-ORG
 )	O
-guerrillas	O
+<oov>	O
 in	O
 the	O
 <oov>	O
 has	O
 been	O
-<oov>	O
-<oov>	O
+questioned	O
+recently	O
 after	O
 media	O
-<oov>	O
+allegations	O
 that	O
 many	O
 of	O
@@ -32112,7 +32112,7 @@ that	O
 has	O
 shaken	O
 the	O
-government	O
+<oov>	O
 .	O
 
 More	O
@@ -32142,7 +32142,7 @@ or	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Texas	B-LOC
 /	O
@@ -32163,7 +32163,7 @@ very	O
 slow	O
 in	O
 the	O
-<oov>	O
+Panhandle	O
 area	O
 <oov>	O
 .	O
@@ -32171,14 +32171,14 @@ area	O
 <oov>	O
 steers	O
 and	O
-<oov>	O
+heifers	O
 not	O
 well	O
 tested	O
 .	O
 
 <oov>	O
-<oov>	O
+reporting	O
 light	O
 <oov>	O
 from	O
@@ -32265,7 +32265,7 @@ lbs	O
 <oov>	B-PER
 
 Kansas	B-LOC
-<oov>	O
+feedlot	O
 cattle	O
 <oov>	O
 -	O
@@ -32282,7 +32282,7 @@ slow	O
 
 Not	O
 enough	O
-slaughter	O
+<oov>	O
 steer	O
 or	O
 <oov>	O
@@ -32290,7 +32290,7 @@ sales	O
 <oov>	O
 for	O
 an	O
-adequate	O
+<oov>	O
 market	O
 test	O
 .	O
@@ -32318,7 +32318,7 @@ year	O
 ago	O
 <oov>	B-PER
 
-<oov>	O
+Inquiry	O
 good	O
 ,	O
 demand	O
@@ -32326,7 +32326,7 @@ light	O
 .	O
 
 Sales	O
-confirmed	O
+<oov>	O
 on	O
 500	O
 <oov>	O
@@ -32345,14 +32345,14 @@ to	O
 date	O
 <oov>	O
 head	O
-confirmed	O
 <oov>	O
+<oov>	B-PER
 <oov>	O
 head	O
 of	O
 <oov>	O
 or	O
-formulated	O
+<oov>	O
 cattle	O
 .	O
 
@@ -32383,7 +32383,7 @@ lbs	O
 <oov>	B-PER
 
 <oov>	O
-<oov>	O
+Hanover	O
 weekly	O
 <oov>	O
 bond	O
@@ -32396,7 +32396,7 @@ weekly	O
 muni	O
 bond	O
 yields	O
-calculated	O
+<oov>	O
 Dec	O
 5	O
 
@@ -32476,7 +32476,7 @@ A	O
 <oov>	O
 
 <oov>	O
-previous	O
+<oov>	I-PER
 <oov>	O
 on	O
 Nov	O
@@ -32507,7 +32507,7 @@ LOS	B-ORG
 
 U.S.	B-LOC
 energy	O
-futures	O
+<oov>	B-PER
 added	O
 to	O
 floor	O
@@ -32528,10 +32528,10 @@ for	O
 in	O
 <oov>	O
 <oov>	O
-<oov>	O
+markets	O
 raised	O
 supply	O
-<oov>	O
+concerns	O
 .	O
 
 "	O
@@ -32566,20 +32566,20 @@ $	O
 a	O
 barrel	O
 ,	O
-following	O
+<oov>	O
 <oov>	O
 of	O
 key	O
 <oov>	O
 levels	O
 and	O
-reports	O
+<oov>	O
 of	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 .	O
 
-<oov>	B-PER
+<oov>	O
 <oov>	O
 oil	O
 <oov>	O
@@ -32591,7 +32591,7 @@ to	O
 <oov>	O
 cents	O
 as	O
-<oov>	O
+roughly	O
 100	O
 lots	O
 <oov>	O
@@ -32609,8 +32609,8 @@ About	O
 112	O
 lots	O
 were	O
-<oov>	O
-<oov>	O
+exchanged	O
+overall	O
 ,	O
 <oov>	B-PER
 said	O
@@ -32619,9 +32619,9 @@ said	O
 NYMEX	O
 <oov>	O
 for	O
-January	O
 <oov>	O
-climbed	O
+<oov>	O
+<oov>	O
 0.12	O
 cents	O
 a	O
@@ -32642,7 +32642,7 @@ month	O
 and	O
 35	O
 moved	O
-<oov>	O
+overall	O
 .	O
 
 <oov>	O
@@ -32652,7 +32652,7 @@ barely	O
 <oov>	O
 from	O
 its	O
-settlement	O
+<oov>	O
 ,	O
 <oov>	O
 up	O
@@ -32671,7 +32671,7 @@ lots	O
 were	O
 traded	O
 for	O
-January	O
+<oov>	O
 and	O
 870	O
 in	O
@@ -32695,13 +32695,13 @@ bureau	O
 
 U.S.	B-LOC
 blasts	O
-release	O
+<oov>	O
 of	O
-<oov>	B-PER
-<oov>	I-PER
+convicted	O
+<oov>	O
 .	O
 
-<oov>	B-PER
+WASHINGTON	B-LOC
 <oov>	I-PER
 
 The	O
@@ -32717,8 +32717,8 @@ Greek	B-MISC
 prison	O
 of	O
 a	O
-Palestinian	B-MISC
-<oov>	I-MISC
+<oov>	O
+<oov>	O
 <oov>	O
 of	O
 <oov>	O
@@ -32820,7 +32820,7 @@ to	O
 leave	O
 Greece	B-LOC
 before	O
-<oov>	O
+serving	O
 his	O
 just	O
 <oov>	O
@@ -32852,7 +32852,7 @@ after	O
 Rashid	B-PER
 left	O
 Greece	B-LOC
-Thursday	O
+<oov>	I-PER
 on	O
 being	O
 freed	O
@@ -32861,7 +32861,7 @@ prison	O
 early	O
 for	O
 good	O
-behaviour	O
+<oov>	O
 after	O
 <oov>	B-PER
 <oov>	O
@@ -32903,7 +32903,7 @@ just	O
 Athens	B-LOC
 to	O
 the	O
-<oov>	O
+airport	O
 where	O
 he	O
 <oov>	O
@@ -32969,7 +32969,7 @@ His	O
 <oov>	O
 had	O
 been	O
-<oov>	O
+reduced	O
 to	O
 15	O
 years	O
@@ -32988,7 +32988,7 @@ could	O
 be	O
 freed	O
 after	O
-<oov>	B-PER
+serving	O
 <oov>	O
 years	O
 ,	O
@@ -32996,7 +32996,7 @@ with	O
 time	O
 in	O
 <oov>	O
-detention	O
+<oov>	O
 <oov>	B-PER
 <oov>	I-PER
 his	O
@@ -33019,18 +33019,18 @@ States	I-LOC
 <oov>	O
 Rashid	I-PER
 of	O
-<oov>	O
+belonging	O
 to	O
 the	O
 May	O
 15	O
 <oov>	O
-guerrilla	O
+<oov>	O
 group	O
 and	O
 being	O
 an	O
-<oov>	O
+accomplished	O
 <oov>	O
 of	O
 <oov>	O
@@ -33045,7 +33045,7 @@ FBI	B-ORG
 agents	O
 who	O
 <oov>	O
-<oov>	B-PER
+against	O
 Rashid	B-PER
 during	O
 the	O
@@ -33061,7 +33061,7 @@ they	O
 had	O
 ample	O
 <oov>	O
-against	O
+<oov>	B-PER
 Rashid	B-PER
 for	O
 a	O
@@ -33084,8 +33084,8 @@ blast	O
 on	O
 a	O
 TWA	B-ORG
-airliner	O
 <oov>	O
+approaching	O
 Athens	B-LOC
 in	O
 1986	O
@@ -33098,8 +33098,8 @@ U.S.	B-LOC
 
 <oov>	B-PER
 
-School	B-ORG
-football	O
+School	B-PER
+<oov>	O
 player	O
 banned	O
 for	O
@@ -33117,7 +33117,7 @@ New	B-LOC
 Mexico	I-LOC
 high	O
 school	O
-<oov>	O
+football	O
 player	O
 who	O
 used	O
@@ -33129,7 +33129,7 @@ slash	O
 <oov>	O
 and	O
 a	O
-referee	O
+<oov>	O
 was	O
 <oov>	O
 from	O
@@ -33150,7 +33150,7 @@ Mike	B-PER
 17	O
 ,	O
 was	O
-expelled	O
+<oov>	O
 from	O
 St	B-LOC
 <oov>	O
@@ -33161,7 +33161,7 @@ in	O
 <oov>	O
 after	O
 an	O
-October	O
+<oov>	O
 game	O
 in	O
 which	O
@@ -33197,7 +33197,7 @@ his	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+Officials	O
 said	O
 the	O
 New	B-LOC
@@ -33214,7 +33214,7 @@ any	O
 <oov>	O
 until	O
 next	O
-October	O
+<oov>	O
 ,	O
 <oov>	O
 of	O
@@ -33228,7 +33228,7 @@ he	O
 's	O
 father	O
 ,	O
-<oov>	B-PER
+Stephen	B-PER
 <oov>	I-PER
 ,	O
 had	O
@@ -33254,7 +33254,7 @@ the	O
 <oov>	O
 and	O
 with	O
-players	O
+<oov>	O
 who	O
 had	O
 <oov>	O
@@ -33298,8 +33298,8 @@ the	O
 ,	O
 groups	O
 of	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+officials	O
 made	O
 a	O
 first	O
@@ -33357,7 +33357,7 @@ over	O
 ,	O
 some	O
 600	O
-delegates	O
+<oov>	O
 from	O
 <oov>	O
 small	O
@@ -33389,8 +33389,8 @@ a	O
 <oov>	O
 of	O
 <oov>	O
-covering	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 and	O
 <oov>	O
 works	O
@@ -33432,8 +33432,8 @@ the	O
 "	O
 a	O
 <oov>	O
-Western	B-MISC
-<oov>	I-PER
+<oov>	B-PER
+<oov>	B-PER
 said	O
 .	O
 "	O
@@ -33444,7 +33444,7 @@ they	O
 will	O
 start	O
 <oov>	O
-<oov>	O
+sessions	O
 next	O
 week	O
 .	O
@@ -33473,7 +33473,7 @@ by	O
 <oov>	B-PER
 <oov>	O
 and	O
-critics	O
+<oov>	O
 who	O
 say	O
 the	O
@@ -33497,7 +33497,7 @@ prices	O
 It	O
 's	O
 not	O
-illegal	O
+<oov>	O
 to	O
 make	O
 <oov>	O
@@ -33550,8 +33550,8 @@ a	O
 <oov>	O
 the	O
 <oov>	O
-Consumer	B-PER
-Project	I-PER
+<oov>	O
+<oov>	O
 on	O
 <oov>	O
 .	O
@@ -33582,9 +33582,9 @@ doing	O
 At	O
 stake	O
 are	O
-billions	O
-of	O
 <oov>	O
+of	O
+dollars	O
 and	O
 the	O
 future	O
@@ -33624,7 +33624,7 @@ only	O
 an	O
 <oov>	O
 of	O
-existing	O
+<oov>	O
 <oov>	O
 <oov>	O
 rights	O
@@ -33634,7 +33634,7 @@ by	O
 the	O
 <oov>	O
 <oov>	B-PER
-<oov>	I-PER
+Convention	I-PER
 .	O
 
 But	O
@@ -33658,7 +33658,7 @@ the	O
 pacts	O
 will	O
 give	O
-<oov>	O
+sweeping	O
 powers	O
 to	O
 <oov>	O
@@ -33679,7 +33679,7 @@ few	O
 <oov>	O
 who	O
 had	O
-actually	O
+<oov>	O
 <oov>	O
 the	O
 <oov>	O
@@ -33700,7 +33700,7 @@ that	O
 he	O
 had	O
 just	O
-arrived	O
+<oov>	O
 from	O
 <oov>	B-PER
 <oov>	I-PER
@@ -33713,7 +33713,7 @@ the	O
 <oov>	O
 of	O
 the	O
-<oov>	O
+digital	O
 agenda	O
 .	O
 
@@ -33724,7 +33724,7 @@ n't	O
 have	O
 money	O
 for	O
-Internet	B-MISC
+<oov>	O
 in	O
 <oov>	O
 ,	O
@@ -33807,13 +33807,13 @@ the	O
 <oov>	O
 centre	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+Internet	B-MISC
+services	O
 found	O
 a	O
 lone	O
 <oov>	O
-official	O
+<oov>	O
 <oov>	O
 away	O
 on	O
@@ -33822,7 +33822,7 @@ mouse	O
 .	O
 
 "	O
-Internet	B-MISC
+<oov>	O
 is	O
 a	O
 <oov>	O
@@ -33859,9 +33859,9 @@ trade	O
 <oov>	O
 of	O
 U.S.	B-LOC
-network	O
 <oov>	O
-opposing	O
+<oov>	B-PER
+<oov>	I-PER
 the	O
 <oov>	O
 .	O
@@ -33881,12 +33881,12 @@ People	O
 here	O
 do	O
 n't	O
+understand	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+technology	O
 .	O
 
-Because	O
+<oov>	O
 they	O
 do	O
 n't	O
@@ -33918,7 +33918,7 @@ stood	O
 .	O
 
 Their	O
-<oov>	O
+enemies	O
 were	O
 <oov>	O
 if	O
@@ -33940,7 +33940,7 @@ the	O
 ,	O
 a	O
 global	O
-computer	O
+<oov>	O
 <oov>	O
 where	O
 <oov>	O
@@ -33958,7 +33958,7 @@ the	O
 <oov>	O
 of	O
 a	O
-<oov>	O
+computer	O
 mouse	O
 ,	O
 has	O
@@ -33999,10 +33999,10 @@ are	O
 <oov>	O
 <oov>	O
 <oov>	O
-through	O
+<oov>	O
 the	O
 Internet	B-MISC
-<oov>	I-MISC
+<oov>	I-PER
 ,	O
 "	O
 said	O
@@ -34026,7 +34026,7 @@ all	O
 ?	O
 "	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Italy	B-LOC
 <oov>	O
@@ -34074,8 +34074,8 @@ rebels	O
 .	O
 
 The	O
-<oov>	B-PER
-<oov>	B-PER
+Foreign	O
+<oov>	O
 said	O
 the	O
 10	O
@@ -34108,8 +34108,8 @@ looked	O
 after	O
 at	O
 the	O
-<oov>	O
-embassy	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 The	O
@@ -34141,7 +34141,7 @@ said	O
 .	O
 
 The	O
-<oov>	O
+ministry	O
 said	O
 the	O
 group	O
@@ -34151,7 +34151,7 @@ of	O
 nuns	O
 ,	O
 seven	O
-<oov>	O
+Italians	B-MISC
 and	O
 six	O
 <oov>	O
@@ -34162,7 +34162,7 @@ four	O
 ,	O
 two	O
 from	O
-Belgium	B-LOC
+<oov>	B-PER
 ,	O
 one	O
 from	O
@@ -34227,7 +34227,7 @@ Friday	O
 died	O
 of	O
 his	O
-injuries	O
+<oov>	O
 on	O
 <oov>	O
 night	O
@@ -34241,7 +34241,7 @@ blast	O
 
 A	O
 <oov>	O
-Canadian	B-MISC
+<oov>	O
 woman	O
 and	O
 a	O
@@ -34292,7 +34292,7 @@ hoped	O
 to	O
 become	O
 a	O
-teacher	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -34312,7 +34312,7 @@ staged	O
 a	O
 series	O
 of	O
-<oov>	O
+bombings	O
 last	O
 year	O
 which	O
@@ -34329,7 +34329,7 @@ than	O
 <oov>	B-PER
 
 <oov>	O
-<oov>	O
+President	O
 urges	O
 <oov>	O
 to	O
@@ -34359,7 +34359,7 @@ League	I-MISC
 on	O
 Friday	O
 and	O
-<oov>	O
+appealed	O
 to	O
 its	O
 <oov>	O
@@ -34375,7 +34375,7 @@ state	O
 
 <oov>	O
 a	O
-<oov>	O
+convention	O
 on	O
 <oov>	O
 unity	O
@@ -34428,7 +34428,7 @@ an	O
 <oov>	O
 ,	O
 a	O
-<oov>	O
+commitment	O
 ,	O
 a	O
 <oov>	O
@@ -34462,7 +34462,7 @@ a	O
 for	O
 strong	O
 local	O
-autonomy	O
+<oov>	O
 ,	O
 for	O
 the	O
@@ -34506,7 +34506,7 @@ the	O
 <oov>	O
 there	O
 by	O
-Austrian	B-MISC
+<oov>	O
 rulers	O
 in	O
 <oov>	O
@@ -34537,7 +34537,7 @@ small	O
 group	O
 of	O
 League	B-MISC
-supporters	O
+<oov>	O
 when	O
 he	O
 <oov>	O
@@ -34558,7 +34558,7 @@ were	O
 <oov>	O
 by	O
 other	O
-<oov>	O
+Italians	B-MISC
 who	O
 waved	O
 <oov>	O
@@ -34585,27 +34585,27 @@ won	O
 more	O
 than	O
 eight	O
-percent	O
+<oov>	O
 of	O
 votes	O
 at	O
 the	O
 last	O
 <oov>	O
-<oov>	O
+election	O
 in	O
 April	O
 on	O
 a	O
 <oov>	O
-platform	O
+<oov>	O
 but	O
 its	O
 leader	O
-<oov>	B-PER
+Umberto	B-PER
 Bossi	I-PER
 later	O
-switched	O
+<oov>	O
 to	O
 a	O
 <oov>	O
@@ -34637,7 +34637,7 @@ a	O
 "	O
 <oov>	O
 of	O
-<oov>	O
+Padania	B-LOC
 "	O
 ,	O
 <oov>	O
@@ -34659,7 +34659,7 @@ flat	O
 <oov>	I-PER
 
 A	O
-Reuter	O
+Reuter	B-LOC
 <oov>	O
 survey	O
 sees	O
@@ -34669,8 +34669,8 @@ group	O
 <oov>	O
 <oov>	O
 <oov>	O
-<oov>	O
-earnings	O
+<oov>	I-PER
+<oov>	I-PER
 when	O
 it	O
 <oov>	O
@@ -34689,8 +34689,8 @@ four	O
 <oov>	O
 '	O
 <oov>	O
-predicted	O
 <oov>	O
+pre-tax	O
 profit	O
 of	O
 <oov>	O
@@ -34699,7 +34699,7 @@ of	O
 <oov>	O
 to	O
 144.5	O
-<oov>	O
+million	O
 in	O
 the	O
 first	O
@@ -34747,11 +34747,11 @@ far	O
 <oov>	I-PER
 ,	O
 <oov>	B-PER
-<oov>	I-PER
+newsroom	O
 +45	O
 33969650	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Moslem	B-MISC
 <oov>	O
@@ -34770,7 +34770,7 @@ Moslem	B-MISC
 killed	O
 19	O
 <oov>	O
-overnight	O
+<oov>	O
 in	O
 <oov>	O
 <oov>	O
@@ -34789,7 +34789,7 @@ Friday	O
 In	O
 a	O
 <oov>	O
-<oov>	O
+carried	O
 on	O
 the	O
 <oov>	O
@@ -34829,14 +34829,14 @@ rings	O
 arrested	O
 .	O
 
-<oov>	B-PER
+BRUSSELS	B-LOC
 <oov>	I-PER
 
 Police	O
 <oov>	O
 two	O
 drugs	O
-<oov>	O
+smuggling	O
 rings	O
 and	O
 <oov>	O
@@ -34882,7 +34882,7 @@ hundreds	O
 of	O
 <oov>	O
 of	O
-<oov>	O
+Belgian	B-MISC
 francs	O
 ,	O
 a	O
@@ -34896,14 +34896,14 @@ the	O
 port	O
 city	O
 of	O
-<oov>	B-PER
+Antwerp	B-LOC
 said	O
 .	O
 
 He	O
 said	O
 a	O
-42-year-old	O
+<oov>	O
 <oov>	O
 woman	O
 left	O
@@ -34922,18 +34922,18 @@ in	O
 a	O
 taxi	O
 in	O
-Barcelona	B-ORG
+<oov>	O
 .	O
 
 The	O
 <oov>	O
-<oov>	O
+alerted	O
 police	O
 who	O
 <oov>	O
 a	O
 <oov>	O
-Turkish	B-MISC
+<oov>	O
 man	O
 when	O
 he	O
@@ -34980,7 +34980,7 @@ Spain	B-LOC
 ,	O
 France	B-LOC
 and	O
-Germany	B-LOC
+<oov>	O
 by	O
 others	O
 ,	O
@@ -35002,7 +35002,7 @@ and	O
 others	O
 in	O
 other	O
-<oov>	O
+European	B-MISC
 <oov>	O
 after	O
 an	O
@@ -35016,7 +35016,7 @@ year	O
 (	O
 $	O
 <oov>	O
-Belgian	B-MISC
+<oov>	O
 <oov>	O
 )	O
 
@@ -35037,7 +35037,7 @@ Dec	O
 -	O
 Greek	B-MISC
 port	O
-<oov>	B-PER
+workers	O
 called	O
 off	O
 a	O
@@ -35046,7 +35046,7 @@ which	O
 had	O
 kept	O
 the	O
-country	O
+<oov>	O
 's	O
 ports	O
 closed	O
@@ -35118,8 +35118,8 @@ August	O
 were	O
 down	O
 from	O
+<oov>	B-PER
 <oov>	O
-million	O
 in	O
 August	O
 1995	O
@@ -35217,7 +35217,7 @@ said	O
 on	O
 Friday	O
 it	O
-expected	O
+<oov>	O
 to	O
 <oov>	O
 its	O
@@ -35228,7 +35228,7 @@ lower	O
 par	O
 value	O
 by	O
-September	O
+<oov>	O
 1997	O
 at	O
 the	O
@@ -35252,9 +35252,9 @@ the	O
 move	O
 at	O
 its	O
-shareholders	O
-'	O
 <oov>	O
+'	O
+meeting	O
 today	O
 .	O
 
@@ -35268,7 +35268,7 @@ would	O
 become	O
 <oov>	O
 in	O
-September	O
+<oov>	O
 .	O
 
 The	O
@@ -35292,7 +35292,7 @@ marks	O
 from	O
 50	O
 ,	O
-<oov>	O
+causing	O
 their	O
 price	O
 to	O
@@ -35303,7 +35303,7 @@ one	O
 <oov>	O
 of	O
 the	O
-present	O
+<oov>	O
 value	O
 .	O
 
@@ -35321,7 +35321,7 @@ DAX	B-MISC
 index	O
 ,	O
 were	O
-<oov>	O
+trading	O
 at	O
 <oov>	O
 marks	O
@@ -35340,8 +35340,8 @@ Friday	O
 <oov>	B-PER
 
 EU	B-ORG
-experts	O
-postpone	O
+<oov>	O
+<oov>	O
 talks	O
 on	O
 rice	O
@@ -35349,7 +35349,7 @@ area	O
 aid	O
 .	O
 
-<oov>	B-PER
+BRUSSELS	B-LOC
 <oov>	I-PER
 
 <oov>	O
@@ -35357,7 +35357,7 @@ Union	O
 rice	O
 <oov>	O
 on	O
-Thursday	O
+<oov>	O
 <oov>	O
 <oov>	O
 on	O
@@ -35369,10 +35369,10 @@ rice	O
 <oov>	O
 <oov>	O
 the	O
-<oov>	O
+documents	O
 were	O
 not	O
-available	O
+<oov>	O
 in	O
 all	O
 the	O
@@ -35389,7 +35389,7 @@ Friday	O
 
 "	O
 The	O
-<oov>	O
+discussion	O
 in	O
 the	O
 <oov>	O
@@ -35397,14 +35397,14 @@ group	O
 had	O
 to	O
 be	O
-<oov>	O
+postponed	O
 <oov>	O
 the	O
 <oov>	O
 needed	O
 to	O
 be	O
-<oov>	O
+translated	O
 into	O
 the	O
 <oov>	O
@@ -35426,7 +35426,7 @@ the	O
 said	O
 .	O
 
-European	B-MISC
+<oov>	O
 rice	O
 <oov>	O
 are	O
@@ -35436,14 +35436,14 @@ get	O
 <oov>	O
 area	O
 aid	O
-<oov>	O
+payments	O
 <oov>	O
 to	O
 those	O
 paid	O
 to	O
 <oov>	O
-producers	O
+<oov>	B-PER
 <oov>	O
 of	O
 cuts	O
@@ -35453,7 +35453,7 @@ prices	O
 .	O
 
 --	O
-<oov>	B-PER
+Brussels	B-ORG
 <oov>	I-PER
 32	O
 2	O
@@ -35494,8 +35494,8 @@ on	O
 There	O
 was	O
 no	O
-Bundesbank	O
-intervention	O
+<oov>	B-PER
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -35522,7 +35522,7 @@ Lewis	I-PER
 said	O
 its	O
 UK	B-LOC
-<oov>	O
+department	O
 store	O
 sales	O
 rose	O
@@ -35534,7 +35534,7 @@ week	O
 to	O
 <oov>	O
 30	O
-compared	O
+<oov>	O
 with	O
 the	O
 same	O
@@ -35563,7 +35563,7 @@ up	O
 Total	O
 sales	O
 ,	O
-<oov>	O
+including	O
 the	O
 <oov>	O
 <oov>	O
@@ -35591,13 +35591,13 @@ period	O
 <oov>	I-PER
 ,	O
 London	B-ORG
-<oov>	O
+Newsroom	I-ORG
 44	O
 171	O
 542	O
 <oov>	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 at	O
@@ -35669,13 +35669,13 @@ shares	O
 
 --	O
 <oov>	B-PER
-newsroom	O
+<oov>	I-PER
 +6221	O
 <oov>	B-PER
 
 <oov>	B-PER
 
-<oov>	O
+British	B-MISC
 "	O
 <oov>	O
 "	O
@@ -35703,8 +35703,8 @@ on	O
 <oov>	O
 British	B-MISC
 <oov>	O
-<oov>	O
-Kenneth	B-PER
+minister	O
+<oov>	B-PER
 <oov>	I-PER
 had	O
 to	O
@@ -35720,8 +35720,8 @@ issue	O
 of	O
 a	O
 single	O
-European	B-MISC
-currency	O
+<oov>	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -35749,7 +35749,7 @@ the	O
 <oov>	O
 in	O
 a	O
-general	O
+<oov>	O
 <oov>	O
 which	O
 must	O
@@ -35768,7 +35768,7 @@ a	O
 <oov>	O
 and	O
 split	O
-Cabinet	O
+<oov>	O
 .	O
 
 This	O
@@ -35778,11 +35778,11 @@ endure	O
 "	O
 <oov>	B-PER
 told	O
-BBC	B-ORG
-television	O
+BBC	B-PER
+<oov>	I-PER
 's	O
-<oov>	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 on	O
 <oov>	O
 .	O
@@ -35794,7 +35794,7 @@ not	O
 <oov>	O
 .	O
 
-Kenneth	B-PER
+<oov>	B-PER
 <oov>	I-PER
 has	O
 to	O
@@ -35818,9 +35818,9 @@ him	O
 .	O
 "	O
 
-<oov>	O
+<oov>	B-PER
 's	O
-<oov>	O
+comment	O
 come	O
 on	O
 the	O
@@ -35835,7 +35835,7 @@ to	O
 resign	O
 if	O
 the	O
-<oov>	O
+government	O
 <oov>	O
 its	O
 "	O
@@ -35880,7 +35880,7 @@ his	O
 on	O
 the	O
 single	O
-currency	O
+<oov>	O
 was	O
 in	O
 <oov>	O
@@ -35888,7 +35888,7 @@ with	O
 that	O
 of	O
 Prime	O
-Minister	O
+<oov>	O
 John	B-PER
 Major	I-PER
 .	O
@@ -35906,7 +35906,7 @@ his	O
 open	O
 on	O
 <oov>	O
-membership	O
+<oov>	O
 .	O
 
 His	O
@@ -35916,7 +35916,7 @@ was	O
 as	O
 a	O
 <oov>	O
-victory	O
+<oov>	O
 for	O
 <oov>	O
 and	O
@@ -35962,12 +35962,12 @@ of	O
 inquiry	O
 .	O
 
-<oov>	B-PER
+CANBERRA	B-PER
 <oov>	I-PER
 
 The	O
 <oov>	O
-opposition	O
+<oov>	O
 on	O
 Friday	O
 <oov>	O
@@ -35978,9 +35978,9 @@ into	O
 <oov>	O
 in	O
 the	O
+Australian	B-MISC
+<oov>	I-MISC
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
 after	O
 the	O
 <oov>	O
@@ -36020,10 +36020,10 @@ turned	O
 up	O
 no	O
 major	O
-evidence	O
+<oov>	O
 of	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 ,	O
 even	O
 though	O
@@ -36056,8 +36056,8 @@ a	O
 of	O
 doubt	O
 and	O
-suspicion	O
 <oov>	O
+hanging	O
 over	O
 our	O
 <oov>	O
@@ -36111,13 +36111,13 @@ senior	O
 posts	O
 in	O
 the	O
-<oov>	O
-<oov>	O
-<oov>	O
+<oov>	B-ORG
+Affairs	I-ORG
+Department	I-ORG
 then	O
 a	O
 secret	O
-<oov>	O
+inquiry	O
 would	O
 be	O
 open	O
@@ -36143,7 +36143,7 @@ open	O
 .	O
 
 A	O
-<oov>	O
+spokesman	O
 for	O
 <oov>	O
 <oov>	O
@@ -36156,7 +36156,7 @@ the	O
 of	O
 a	O
 new	O
-<oov>	O
+inquiry	O
 head	O
 ,	O
 <oov>	O
@@ -36169,7 +36169,7 @@ showed	O
 the	O
 <oov>	O
 's	O
-commitment	O
+<oov>	O
 to	O
 pursue	O
 the	O
@@ -36215,7 +36215,7 @@ others	O
 .	O
 
 A	O
-<oov>	O
+newspaper	O
 <oov>	O
 <oov>	O
 in	O
@@ -36225,20 +36225,20 @@ that	O
 had	O
 <oov>	O
 <oov>	O
-government	O
+<oov>	O
 aid	O
 to	O
-<oov>	O
+certain	O
 <oov>	O
 <oov>	O
 to	O
 secure	O
 sex	O
 with	O
-children	O
+<oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	O
@@ -36375,7 +36375,7 @@ In	O
 <oov>	I-PER
 ,	O
 who	O
-<oov>	O
+pleaded	O
 guilty	O
 ,	O
 <oov>	B-PER
@@ -36421,13 +36421,13 @@ but	O
 his	O
 death	O
 was	O
-brought	O
+<oov>	O
 about	O
 in	O
 <oov>	O
 of	O
 an	O
-<oov>	O
+equally	O
 <oov>	O
 error	O
 on	O
@@ -36438,13 +36438,13 @@ the	O
 <oov>	O
 and	O
 his	O
-<oov>	O
+accomplices	O
 "	O
 .	O
 
 The	O
 <oov>	O
-<oov>	O
+accomplice	O
 was	O
 <oov>	O
 <oov>	O
@@ -36476,7 +36476,7 @@ Sunday	O
 New	O
 <oov>	O
 Prime	O
-<oov>	O
+Minister	O
 Jim	B-PER
 Bolger	I-PER
 ,	O
@@ -36486,9 +36486,9 @@ from	O
 talks	O
 with	O
 the	O
-<oov>	B-ORG
+<oov>	O
 New	B-ORG
-Zealand	I-ORG
+<oov>	I-ORG
 First	I-ORG
 party	O
 on	O
@@ -36496,10 +36496,10 @@ Friday	O
 <oov>	O
 ,	O
 said	O
-<oov>	B-PER
+National	B-ORG
 and	O
-NZ	B-ORG
-First	I-PER
+NZ	B-LOC
+First	I-ORG
 would	O
 meet	O
 again	O
@@ -36520,7 +36520,7 @@ by	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 NZ	B-LOC
 's	O
@@ -36531,7 +36531,7 @@ says	O
 <oov>	O
 talks	O
 at	O
-<oov>	O
+similar	O
 stage	O
 .	O
 
@@ -36567,12 +36567,12 @@ of	O
 Peters	B-PER
 left	O
 a	O
-meeting	O
+<oov>	O
 <oov>	O
 NZ	B-ORG
-First	I-PER
+First	O
 and	O
-National	B-LOC
+<oov>	B-PER
 <oov>	O
 to	O
 spend	O
@@ -36599,7 +36599,7 @@ her	O
 before	O
 she	O
 left	O
-Wellington	B-LOC
+<oov>	O
 later	O
 on	O
 Friday	O
@@ -36612,9 +36612,9 @@ talks	O
 with	O
 Labour	B-ORG
 and	O
-National	B-ORG
+<oov>	O
 had	O
-reached	O
+<oov>	O
 "	O
 about	O
 the	O
@@ -36650,7 +36650,7 @@ John	B-PER
 John	B-PER
 <oov>	I-PER
 has	O
-formally	O
+<oov>	O
 <oov>	O
 from	O
 his	O
@@ -36663,7 +36663,7 @@ office	O
 of	O
 House	B-LOC
 of	I-LOC
-<oov>	I-ORG
+<oov>	O
 <oov>	O
 Bob	B-PER
 <oov>	I-PER
@@ -36674,7 +36674,7 @@ Friday	O
 
 "	O
 <oov>	O
-<oov>	O
+announced	O
 that	O
 he	O
 had	O
@@ -36701,9 +36701,9 @@ of	I-LOC
 for	O
 the	O
 <oov>	O
-division	O
+<oov>	O
 of	O
-Fraser	B-PER
+Fraser	I-PER
 in	O
 the	O
 <oov>	O
@@ -36737,12 +36737,12 @@ said	O
 ,	O
 57	O
 ,	O
-announced	O
+<oov>	O
 in	O
 <oov>	O
 that	O
 he	O
-<oov>	O
+intended	O
 to	O
 resign	O
 from	O
@@ -36788,11 +36788,11 @@ has	O
 <oov>	O
 with	O
 U.N.	B-ORG
+<oov>	I-PER
 <oov>	O
-programme	O
 <oov>	O
-<oov>	B-PER
-<oov>	O
+<oov>	I-PER
+<oov>	I-PER
 .	O
 
 <oov>	B-PER
@@ -36818,22 +36818,22 @@ since	O
 He	O
 was	O
 senior	O
-private	O
 <oov>	O
+secretary	O
 to	O
 the	O
 <oov>	O
 and	O
+industrial	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
 from	O
 1983	O
 to	O
 1984	O
 and	O
 was	O
-economic	O
+<oov>	O
 <oov>	O
 to	O
 then	O
@@ -36852,7 +36852,7 @@ posts	O
 <oov>	O
 of	O
 the	O
-<oov>	O
+national	O
 <oov>	O
 office	O
 of	O
@@ -36925,12 +36925,12 @@ miles	O
 )	O
 away	O
 ,	O
-witnesses	O
+<oov>	B-PER
 said	O
 .	O
 
 The	O
-<oov>	O
+witnesses	O
 could	O
 not	O
 give	O
@@ -36962,10 +36962,10 @@ the	O
 and	O
 the	O
 <oov>	O
-launched	O
+<oov>	O
 street	O
 <oov>	O
-<oov>	O
+against	O
 what	O
 they	O
 called	O
@@ -36976,7 +36976,7 @@ police	O
 of	O
 a	O
 brawl	O
-<oov>	O
+between	O
 some	O
 of	O
 their	O
@@ -36996,11 +36996,11 @@ dawn	O
 on	O
 <oov>	O
 with	O
-<oov>	B-PER
 <oov>	O
+hundred	O
 of	O
 the	O
-<oov>	O
+student	O
 <oov>	O
 being	O
 <oov>	O
@@ -37014,13 +37014,13 @@ the	O
 <oov>	B-PER
 <oov>	I-PER
 in	O
-Rangoon	B-LOC
+<oov>	O
 .	O
 
 They	O
 were	O
 later	O
-<oov>	B-PER
+released	O
 .	O
 
 On	O
@@ -37066,7 +37066,7 @@ on	O
 <oov>	B-PER
 <oov>	O
 and	O
-demanded	O
+<oov>	O
 that	O
 <oov>	O
 of	O
@@ -37089,7 +37089,7 @@ in	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Thai	B-MISC
 rice	O
@@ -37102,7 +37102,7 @@ Dec	O
 06	O
 .	O
 
-<oov>	B-PER
+BANGKOK	B-LOC
 <oov>	I-PER
 
 The	O
@@ -37141,7 +37141,7 @@ of	O
 <oov>	B-PER
 <oov>	I-PER
 10,000	O
-Philippines	B-PER
+<oov>	B-PER
 
 <oov>	B-PER
 <oov>	I-PER
@@ -37172,12 +37172,12 @@ Africa	B-LOC
 3,000	O
 <oov>	O
 
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+<oov>	O
 5	O
 <oov>	O
 4,000	O
-<oov>	O
+Indonesia	B-LOC
 
 <oov>	B-PER
 <oov>	I-PER
@@ -37191,10 +37191,10 @@ King	O
 Japan	B-LOC
 
 <oov>	O
-<oov>	O
+<oov>	I-PER
 <oov>	O
 3,000	O
-Vietnam	B-MISC
+<oov>	O
 
 But	O
 2	O
@@ -37208,7 +37208,7 @@ Burma	B-LOC
 (	O
 662	O
 )	O
-652-0642	O
+<oov>	O
 
 <oov>	B-PER
 
@@ -37221,7 +37221,7 @@ from	O
 smoke	O
 .	O
 
-SHANGHAI	B-LOC
+<oov>	B-PER
 <oov>	I-PER
 
 A	O
@@ -37245,9 +37245,9 @@ at	O
 her	O
 <oov>	O
 's	O
-<oov>	O
+birthday	O
 with	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 for	O
 hours	O
@@ -37281,8 +37281,8 @@ to	O
 be	O
 having	O
 <oov>	O
-difficulty	O
-breathing	O
+<oov>	B-PER
+<oov>	O
 .	O
 
 It	O
@@ -37301,8 +37301,8 @@ girl	O
 's	O
 father	O
 ,	O
-immediately	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 they	O
 would	O
 give	O
@@ -37319,7 +37319,7 @@ closes	O
 down	O
 on	O
 import	O
-settlements	O
+<oov>	O
 .	O
 
 SEOUL	B-LOC
@@ -37344,7 +37344,7 @@ import	O
 <oov>	O
 needs	O
 ,	O
-traders	O
+<oov>	B-PER
 said	O
 .	O
 
@@ -37354,7 +37354,7 @@ ended	O
 at	O
 <oov>	O
 ,	O
-<oov>	O
+slightly	O
 down	O
 from	O
 an	O
@@ -37415,7 +37415,7 @@ dollar	O
 /	O
 yen	O
 's	O
-<oov>	O
+movement	O
 on	O
 the	O
 world	O
@@ -37453,7 +37453,7 @@ China	B-LOC
 
 China	B-LOC
 's	O
-<oov>	O
+tourist	O
 spot	O
 of	O
 <oov>	O
@@ -37481,7 +37481,7 @@ Friday	O
 .	O
 
 An	O
-assessment	O
+<oov>	O
 group	O
 made	O
 up	O
@@ -37490,7 +37490,7 @@ the	O
 State	B-ORG
 <oov>	O
 's	O
-Port	I-ORG
+Port	B-ORG
 Office	I-ORG
 ,	O
 the	O
@@ -37504,7 +37504,7 @@ the	O
 <oov>	O
 <oov>	O
 of	O
-<oov>	O
+Customs	O
 and	O
 other	O
 <oov>	O
@@ -37515,7 +37515,7 @@ the	O
 <oov>	O
 to	O
 handle	O
-<oov>	B-PER
+foreign	O
 <oov>	O
 ,	O
 Xinhua	B-PER
@@ -37526,7 +37526,7 @@ said	O
 The	O
 move	O
 is	O
-expected	O
+<oov>	O
 to	O
 give	O
 a	O
@@ -37576,17 +37576,17 @@ China	B-LOC
 's	O
 most	O
 <oov>	O
-tourist	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 <oov>	B-PER
 
-EPA	B-PER
+EPA	O
 says	O
+economic	O
+assessment	O
 <oov>	O
-<oov>	O
-unchanged	O
 by	O
 GDP	O
 data	O
@@ -37597,9 +37597,9 @@ TOKYO	B-LOC
 
 Japan	B-LOC
 's	O
-<oov>	O
-<oov>	I-PER
-Agency	I-PER
+Economic	B-ORG
+<oov>	I-ORG
+Agency	I-ORG
 has	O
 not	O
 <oov>	O
@@ -37616,9 +37616,9 @@ is	O
 <oov>	O
 weak	O
 gross	O
+domestic	O
 <oov>	O
 <oov>	O
-<oov>	B-PER
 <oov>	O
 on	O
 <oov>	O
@@ -37656,7 +37656,7 @@ did	O
 not	O
 take	O
 into	O
-account	O
+<oov>	O
 more	O
 recent	O
 data	O
@@ -37666,19 +37666,19 @@ When	O
 asked	O
 about	O
 the	O
-outlook	O
+<oov>	O
 for	O
 the	O
 fiscal	O
 year	O
-beginning	O
+<oov>	O
 in	O
 April	O
 ,	O
 <oov>	B-PER
 said	O
 the	O
-<oov>	O
+economy	O
 may	O
 slow	O
 down	O
@@ -37703,11 +37703,11 @@ that	O
 would	O
 be	O
 only	O
-<oov>	O
+temporary	O
 .	O
 
 The	O
-consumption	O
+<oov>	O
 tax	O
 will	O
 be	O
@@ -37744,11 +37744,11 @@ March	O
 
 (	O
 in	O
-<oov>	O
+billions	O
 of	O
 yen	O
 unless	O
-<oov>	O
+specified	O
 )	O
 
 LATEST	O
@@ -37758,7 +37758,7 @@ ACTUAL	O
 Parent	O
 )	O
 <oov>	O
-<oov>	B-PER
+YEAR-AGO	O
 
 Sales	O
 <oov>	B-PER
@@ -37813,22 +37813,22 @@ talks	O
 K.T.	B-PER
 <oov>	I-PER
 
-<oov>	B-PER
+JAKARTA	B-LOC
 <oov>	I-PER
 
 Canada	B-LOC
 's	O
 <oov>	B-ORG
-Minerals	I-ORG
+<oov>	I-PER
 Ltd	I-ORG
 and	O
 <oov>	B-ORG
-Gold	B-ORG
+Gold	I-PER
 Corp	I-ORG
 are	O
 to	O
 <oov>	O
-<oov>	O
+negotiations	O
 to	O
 <oov>	O
 out	O
@@ -37836,7 +37836,7 @@ a	O
 <oov>	O
 <oov>	O
 to	O
-<oov>	O
+develop	O
 the	O
 <oov>	O
 <oov>	O
@@ -37857,7 +37857,7 @@ Friday	O
 
 "	O
 The	O
-negotiations	O
+<oov>	O
 will	O
 be	O
 held	O
@@ -37866,7 +37866,7 @@ in	O
 <oov>	O
 and	O
 in	O
-<oov>	O
+Jakarta	B-LOC
 ,	O
 "	O
 one	O
@@ -37894,7 +37894,7 @@ from	O
 both	O
 <oov>	O
 and	O
-<oov>	B-PER
+Barrick	B-ORG
 had	O
 <oov>	O
 to	O
@@ -37909,10 +37909,10 @@ there	O
 had	O
 been	O
 any	O
-progress	O
+<oov>	O
 in	O
 their	O
-<oov>	O
+negotiations	O
 .	O
 
 Both	O
@@ -37920,7 +37920,7 @@ Both	O
 said	O
 <oov>	O
 and	O
-Barrick	B-ORG
+<oov>	B-PER
 did	O
 not	O
 hold	O
@@ -37931,9 +37931,9 @@ with	O
 Mines	O
 and	O
 Energy	B-ORG
+Ministry	I-ORG
 <oov>	O
-<oov>	O
-Umar	I-PER
+Umar	B-PER
 Said	I-PER
 ,	O
 who	O
@@ -37996,7 +37996,7 @@ The	O
 parts	O
 of	O
 the	O
-property	O
+<oov>	O
 to	O
 the	O
 north	O
@@ -38012,9 +38012,9 @@ been	O
 by	O
 <oov>	O
 to	O
-<oov>	O
+contain	O
 57	O
-<oov>	O
+million	O
 ounces	O
 of	O
 gold	O
@@ -38030,7 +38030,7 @@ the	O
 <oov>	O
 report	O
 by	O
-<oov>	O
+December	O
 16	O
 and	O
 submit	O
@@ -38058,11 +38058,11 @@ then	O
 <oov>	O
 seek	O
 the	O
-<oov>	O
+permission	O
 of	O
 the	O
 <oov>	O
-<oov>	O
+government	O
 to	O
 begin	O
 <oov>	O
@@ -38096,10 +38096,10 @@ any	O
 in	O
 the	O
 talks	O
-between	O
+<oov>	B-PER
 <oov>	O
 and	O
-<oov>	O
+<oov>	B-PER
 .	O
 
 "	O
@@ -38113,7 +38113,7 @@ huge	O
 we	O
 are	O
 not	O
-selling	O
+<oov>	B-PER
 <oov>	O
 ,	O
 and	O
@@ -38139,7 +38139,7 @@ been	O
 some	O
 <oov>	O
 in	O
-<oov>	O
+principle	O
 on	O
 some	O
 issues	O
@@ -38183,7 +38183,7 @@ Energy	B-ORG
 for	O
 <oov>	O
 and	O
-Barrick	B-ORG
+<oov>	O
 to	O
 strike	O
 a	O
@@ -38237,7 +38237,7 @@ there	O
 been	O
 no	O
 new	O
-deadline	O
+<oov>	O
 ,	O
 "	O
 the	O
@@ -38258,11 +38258,11 @@ both	O
 and	O
 <oov>	B-PER
 had	O
-responded	O
-positively	O
+<oov>	O
+<oov>	O
 to	O
 a	O
-government	O
+<oov>	O
 letter	O
 <oov>	O
 a	O
@@ -38272,11 +38272,11 @@ in	O
 the	O
 <oov>	O
 gold	O
-<oov>	O
+property	O
 .	O
 
 The	O
-<oov>	O
+government	O
 also	O
 wants	O
 10	O
@@ -38305,7 +38305,7 @@ the	O
 He	O
 had	O
 said	O
-earlier	O
+<oov>	O
 that	O
 if	O
 the	O
@@ -38316,7 +38316,7 @@ to	O
 reach	O
 a	O
 <oov>	O
-<oov>	O
+agreement	O
 ,	O
 the	O
 <oov>	O
@@ -38379,7 +38379,7 @@ stake	O
 parts	O
 .	O
 
-<oov>	B-PER
+Barrick	B-ORG
 has	O
 <oov>	O
 up	O
@@ -38408,17 +38408,17 @@ had	O
 said	O
 was	O
 a	O
-partnership	O
+<oov>	O
 "	O
 to	O
-prepare	O
+<oov>	O
 us	O
 for	O
 a	O
-potential	O
+<oov>	O
 mining	O
 <oov>	O
-project	O
+<oov>	O
 "	O
 .	O
 
@@ -38444,7 +38444,7 @@ Friday	O
 that	O
 it	O
 had	O
-received	O
+<oov>	O
 15,000	O
 <oov>	O
 orders	O
@@ -38452,7 +38452,7 @@ for	O
 its	O
 <oov>	O
 <oov>	O
-vehicle	O
+<oov>	O
 in	O
 the	O
 first	O
@@ -38498,10 +38498,10 @@ and	O
 front	O
 and	O
 rear	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 for	O
-<oov>	O
+two-thirds	O
 of	O
 the	O
 sales	O
@@ -38509,7 +38509,7 @@ sales	O
 
 <oov>	B-PER
 
-FEATURE	O
+<oov>	O
 -	O
 <oov>	B-PER
 sees	O
@@ -38527,20 +38527,20 @@ in	O
 
 <oov>	B-PER
 's	O
-winning	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 to	O
 host	O
 the	O
-World	O
-Trade	I-MISC
-<oov>	I-MISC
+World	B-ORG
+Trade	I-ORG
+Organisation	I-ORG
 (	O
 <oov>	O
 )	O
 's	O
 first	O
-ministerial	O
+<oov>	O
 <oov>	O
 <oov>	O
 its	O
@@ -38578,7 +38578,7 @@ most	O
 <oov>	B-PER
 <oov>	O
 ,	O
-<oov>	B-PER
+Singapore	B-LOC
 has	O
 a	O
 <oov>	O
@@ -38609,7 +38609,7 @@ more	O
 than	O
 most	O
 from	O
-<oov>	O
+continued	O
 global	O
 trade	O
 <oov>	O
@@ -38648,7 +38648,7 @@ bid	O
 to	O
 host	O
 the	O
-meeting	O
+<oov>	O
 ,	O
 <oov>	O
 to	O
@@ -38659,7 +38659,7 @@ from	O
 160	O
 <oov>	O
 from	O
-<oov>	O
+December	O
 9	O
 to	O
 13	O
@@ -38672,7 +38672,7 @@ some	O
 <oov>	O
 linked	O
 to	O
-controversy	O
+<oov>	O
 over	O
 <oov>	B-PER
 's	O
@@ -38715,7 +38715,7 @@ Geneva	B-LOC
 .	O
 
 But	O
-Singapore	B-LOC
+<oov>	B-PER
 had	O
 the	O
 <oov>	O
@@ -38736,7 +38736,7 @@ the	O
 <oov>	O
 of	O
 <oov>	B-PER
-Studies	I-ORG
+<oov>	I-PER
 (	O
 <oov>	O
 )	O
@@ -38747,7 +38747,7 @@ said	O
 <oov>	O
 of	O
 the	O
-<oov>	O
+conference	O
 "	O
 <oov>	O
 a	O
@@ -38793,7 +38793,7 @@ is	O
 a	O
 <oov>	O
 <oov>	O
-<oov>	O
+interest	O
 in	O
 <oov>	O
 better	O
@@ -38820,7 +38820,7 @@ the	O
 <oov>	O
 <oov>	O
 of	O
-<oov>	O
+Singapore	B-LOC
 .	O
 
 At	O
@@ -38842,8 +38842,8 @@ the	O
 <oov>	O
 of	O
 the	O
-Uruguay	B-LOC
-<oov>	I-MISC
+<oov>	O
+<oov>	O
 free	O
 trade	O
 <oov>	O
@@ -38876,11 +38876,11 @@ market	O
 <oov>	O
 but	O
 the	O
-European	B-ORG
+<oov>	B-ORG
 Union	I-ORG
 and	O
 other	O
-trading	O
+<oov>	O
 powers	O
 called	O
 on	O
@@ -38899,7 +38899,7 @@ sector	O
 <oov>	B-PER
 said	O
 the	O
-struggle	O
+<oov>	O
 that	O
 <oov>	O
 had	O
@@ -38910,7 +38910,7 @@ in	O
 to	O
 host	O
 the	O
-<oov>	O
+meeting	O
 would	O
 be	O
 <oov>	O
@@ -38948,7 +38948,7 @@ over	O
 the	O
 issue	O
 of	O
-<oov>	O
+linking	O
 trade	O
 <oov>	O
 with	O
@@ -38970,7 +38970,7 @@ for	O
 <oov>	O
 ,	O
 "	O
-<oov>	B-PER
+however	O
 ,	O
 this	O
 is	O
@@ -39005,7 +39005,7 @@ of	O
 view	O
 ,	O
 the	O
-<oov>	O
+meeting	O
 would	O
 be	O
 good	O
@@ -39067,7 +39067,7 @@ more	O
 <oov>	O
 public	O
 will	O
-<oov>	O
+realise	O
 that	O
 these	O
 kind	O
@@ -39076,7 +39076,7 @@ things	O
 are	O
 <oov>	O
 for	O
-<oov>	O
+Singapore	B-LOC
 as	O
 a	O
 small	O
@@ -39184,7 +39184,7 @@ issues	O
 that	O
 will	O
 be	O
-displayed	O
+<oov>	O
 .	O
 "	O
 
@@ -39205,7 +39205,7 @@ TOKYO	B-LOC
 <oov>	I-PER
 
 <oov>	B-PER
-Telegraph	I-PER
+<oov>	I-PER
 and	O
 <oov>	B-PER
 Corp	I-PER
@@ -39222,14 +39222,14 @@ to	O
 move	O
 into	O
 the	O
-international	O
+<oov>	O
 <oov>	O
 business	O
 as	O
 soon	O
 as	O
 <oov>	O
-<oov>	O
+following	O
 the	O
 <oov>	O
 's	O
@@ -39261,14 +39261,14 @@ as	O
 ,	O
 "	O
 a	O
-company	O
-<oov>	O
+<oov>	B-PER
+<oov>	B-PER
 told	O
 <oov>	O
 .	O
 
 The	O
-official	O
+<oov>	O
 said	O
 the	O
 latest	O
@@ -39277,11 +39277,11 @@ latest	O
 to	O
 split	O
 the	O
-company	O
+<oov>	O
 under	O
 a	O
+holding	O
 <oov>	O
-company	O
 would	O
 allow	O
 <oov>	O
@@ -39290,7 +39290,7 @@ in	O
 's	O
 <oov>	O
 phone	O
-business	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -39316,7 +39316,7 @@ three	O
 firms	O
 under	O
 a	O
-holding	O
+<oov>	O
 <oov>	O
 ,	O
 but	O
@@ -39342,7 +39342,7 @@ will	O
 be	O
 a	O
 <oov>	O
-operator	O
+<oov>	O
 and	O
 the	O
 other	O
@@ -39378,12 +39378,12 @@ added	O
 .	O
 
 The	O
-long-distance	O
+<oov>	O
 <oov>	O
 will	O
 offer	O
 <oov>	O
-services	O
+<oov>	O
 ,	O
 <oov>	B-PER
 said	O
@@ -39397,18 +39397,18 @@ the	O
 timing	O
 of	O
 the	O
-planned	O
+<oov>	O
 <oov>	O
 was	O
 <oov>	O
 <oov>	O
 more	O
-discussions	O
+<oov>	O
 by	O
 <oov>	O
 <oov>	O
 were	O
-<oov>	O
+required	O
 .	O
 
 <oov>	B-PER
@@ -39436,7 +39436,7 @@ on	O
 Friday	O
 it	O
 had	O
-launched	O
+<oov>	O
 a	O
 second	O
 food	O
@@ -39471,7 +39471,7 @@ in	O
 and	O
 in	O
 the	O
-<oov>	O
+country	O
 's	O
 second	O
 city	O
@@ -39491,9 +39491,9 @@ to	O
 <oov>	B-PER
 's	O
 full	O
-<oov>	O
+service	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 ,	O
 <oov>	B-PER
 <oov>	I-PER
@@ -39564,8 +39564,8 @@ U.S.	B-LOC
 and	O
 the	O
 <oov>	O
+recently	O
 <oov>	O
-announced	O
 a	O
 joint	O
 <oov>	O
@@ -39586,7 +39586,7 @@ US$	B-MISC
 ,	O
 and	O
 <oov>	O
-180,000	O
+<oov>	O
 people	O
 <oov>	O
 .	O
@@ -39605,7 +39605,7 @@ Fax	O
 504	O
 504	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -39641,7 +39641,7 @@ race	O
 
 Name	O
 :	O
-Svetlana	B-PER
+<oov>	B-PER
 <oov>	I-PER
 
 <oov>	O
@@ -39703,7 +39703,7 @@ G	O
 
 <oov>	B-PER
 ,	O
-Colorado	B-LOC
+<oov>	B-PER
 <oov>	I-PER
 
 <oov>	B-PER
@@ -39729,8 +39729,8 @@ Russia	B-LOC
 )	O
 one	O
 minute	O
-<oov>	O
-seconds	O
+<oov>	B-PER
+<oov>	I-PER
 
 2.	O
 <oov>	B-PER
@@ -39752,7 +39752,7 @@ France	B-LOC
 <oov>	B-PER
 <oov>	I-PER
 (	O
-Germany	B-LOC
+<oov>	O
 )	O
 <oov>	O
 
@@ -39856,7 +39856,7 @@ France	B-LOC
 <oov>	B-PER
 <oov>	I-PER
 (	O
-Austria	B-LOC
+<oov>	O
 )	O
 <oov>	O
 
@@ -39880,7 +39880,7 @@ France	B-LOC
 <oov>	B-PER
 <oov>	I-PER
 (	O
-Slovenia	B-LOC
+<oov>	O
 )	O
 <oov>	O
 
@@ -39925,10 +39925,10 @@ U.S.	B-LOC
 <oov>	O
 
 <oov>	B-PER
-Catherine	B-PER
+<oov>	I-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Switzerland	B-LOC
 )	O
 <oov>	O
 
@@ -40009,7 +40009,7 @@ on	O
 <oov>	I-PER
 of	O
 Sweden	B-LOC
-<oov>	O
+finished	O
 second	O
 and	O
 <oov>	B-PER
@@ -40020,10 +40020,10 @@ came	O
 in	O
 third	O
 ,	O
-according	O
+<oov>	O
 to	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -40085,7 +40085,7 @@ time	O
 in	O
 its	O
 <oov>	O
-history	O
+<oov>	O
 .	O
 
 The	O
@@ -40098,7 +40098,7 @@ event	O
 ,	O
 which	O
 pairs	O
-<oov>	O
+players	O
 from	O
 the	O
 PGA	B-MISC
@@ -40154,12 +40154,12 @@ of	O
 <oov>	O
 U.S.	B-LOC
 <oov>	O
-champions	O
-<oov>	B-PER
+<oov>	O
+<oov>	I-PER
 <oov>	I-PER
 and	O
-Tiger	B-PER
-<oov>	I-PER
+Tiger	B-LOC
+<oov>	O
 were	O
 <oov>	O
 shot	O
@@ -40200,7 +40200,7 @@ WINNER	O
 
 <oov>	B-PER
 ,	O
-<oov>	B-PER
+Colorado	B-LOC
 <oov>	I-PER
 
 <oov>	O
@@ -40249,7 +40249,7 @@ G	O
 ,	O
 <oov>	O
 ,	O
-Austria	B-LOC
+<oov>	O
 ,	O
 1995	O
 .	O
@@ -40286,19 +40286,19 @@ Cup	I-MISC
 <oov>	I-PER
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
 'S	O
 WORLD	O
 CUP	I-MISC
-STANDINGS	O
+<oov>	O
 .	O
 
 <oov>	B-PER
 ,	O
-Colorado	B-LOC
+<oov>	B-PER
 <oov>	I-PER
 
 Women	O
@@ -40314,14 +40314,14 @@ after	O
 race	O
 :	O
 
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+Standings	O
 
 1.	O
 <oov>	B-PER
 <oov>	I-PER
 (	O
-Germany	B-LOC
+<oov>	O
 )	O
 180	O
 points	O
@@ -40330,7 +40330,7 @@ points	O
 <oov>	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Austria	B-LOC
 )	O
 132	O
 
@@ -40488,7 +40488,7 @@ France	B-LOC
 )	O
 23	O
 
-<oov>	O
+Overall	O
 women	O
 's	O
 World	B-MISC
@@ -40535,7 +40535,7 @@ Sweden	B-LOC
 Anita	B-PER
 <oov>	I-PER
 (	O
-Austria	B-LOC
+<oov>	O
 )	O
 180	O
 
@@ -40580,7 +40580,7 @@ France	B-LOC
 146	O
 
 10.	O
-Svetlana	B-PER
+<oov>	B-PER
 <oov>	I-PER
 (	O
 Russia	B-LOC
@@ -40654,7 +40654,7 @@ Italy	B-LOC
 <oov>	B-PER
 <oov>	I-PER
 (	O
-Austria	B-LOC
+<oov>	O
 )	O
 <oov>	O
 
@@ -40683,7 +40683,7 @@ Sweden	B-LOC
 <oov>	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Germany	B-LOC
 )	O
 130	O
 
@@ -40747,7 +40747,7 @@ France	B-LOC
 Anita	B-PER
 <oov>	I-PER
 (	O
-Austria	B-LOC
+<oov>	O
 )	O
 49	O
 
@@ -40787,7 +40787,7 @@ Italy	B-LOC
 <oov>	B-PER
 <oov>	I-PER
 (	O
-Austria	B-LOC
+<oov>	O
 )	O
 39	O
 
@@ -40824,7 +40824,7 @@ France	B-LOC
 29	O
 
 20.	O
-Alexandra	B-PER
+<oov>	B-PER
 <oov>	I-PER
 (	O
 <oov>	O
@@ -40917,8 +40917,8 @@ race	O
 )	O
 one	O
 minute	O
-<oov>	B-PER
-<oov>	B-PER
+<oov>	O
+seconds	O
 
 2.	O
 <oov>	B-PER
@@ -40956,7 +40956,7 @@ U.S.	B-LOC
 Miriam	B-PER
 <oov>	I-PER
 (	O
-Germany	B-LOC
+<oov>	O
 )	O
 <oov>	O
 
@@ -40978,7 +40978,7 @@ Norway	B-LOC
 <oov>	O
 
 9.	O
-Florence	B-PER
+<oov>	B-PER
 <oov>	I-PER
 (	O
 France	B-LOC
@@ -41158,7 +41158,7 @@ Italy	B-LOC
 The	O
 <oov>	O
 were	O
-declared	O
+<oov>	O
 <oov>	O
 .	O
 
@@ -41178,8 +41178,8 @@ Sweden	B-LOC
 
 <oov>	O
 of	O
-<oov>	B-PER
-'s	I-ORG
+Saturday	O
+'s	O
 
 World	B-MISC
 Cup	I-MISC
@@ -41201,10 +41201,10 @@ kms	O
 26	O
 <oov>	O
 17.2	O
-seconds	O
+<oov>	O
 (	O
 no	O
-<oov>	O
+penalty	O
 
 rounds	O
 )	O
@@ -41236,7 +41236,7 @@ Norway	B-LOC
 Sven	B-PER
 <oov>	I-PER
 (	O
-Germany	B-LOC
+<oov>	O
 )	O
 <oov>	O
 (	O
@@ -41296,7 +41296,7 @@ Russia	B-LOC
 )	O
 
 2.	O
-<oov>	B-PER
+Svetlana	B-PER
 <oov>	I-PER
 (	O
 <oov>	B-PER
@@ -41386,10 +41386,10 @@ race	O
 on	O
 <oov>	O
 ,	O
-<oov>	O
+according	O
 to	O
+<oov>	B-PER
 <oov>	O
-results	O
 .	O
 
 <oov>	B-PER
@@ -41440,7 +41440,7 @@ Cup	I-MISC
 <oov>	O
 race	O
 on	O
-<oov>	O
+Saturday	O
 .	O
 
 <oov>	B-PER
@@ -41455,7 +41455,7 @@ and	O
 <oov>	O
 Randy	B-PER
 Jones	I-PER
-<oov>	I-PER
+delivered	O
 a	O
 <oov>	O
 second	O
@@ -41490,7 +41490,7 @@ the	O
 Italy	B-LOC
 I	O
 <oov>	O
-finished	O
+<oov>	O
 second	O
 <oov>	O
 of	O
@@ -41498,13 +41498,13 @@ a	O
 second	O
 behind	O
 the	O
-<oov>	O
+Americans	B-MISC
 .	O
 
 Canada	B-LOC
 I	O
 ,	O
-<oov>	O
+represented	O
 by	O
 Pierre	B-PER
 <oov>	I-PER
@@ -41513,7 +41513,7 @@ and	O
 Dave	I-PER
 <oov>	I-PER
 ,	O
-completed	O
+<oov>	B-PER
 the	O
 third	O
 World	O
@@ -41536,7 +41536,7 @@ the	O
 The	O
 <oov>	O
 ,	O
-winners	O
+<oov>	O
 of	O
 the	O
 <oov>	O
@@ -41560,7 +41560,7 @@ in	O
 the	O
 World	B-MISC
 Cup	I-MISC
-<oov>	I-MISC
+standings	O
 .	O
 
 They	O
@@ -41627,7 +41627,7 @@ resort	O
 of	O
 <oov>	O
 on	O
-Saturday	O
+<oov>	O
 .	O
 
 While	O
@@ -41661,7 +41661,7 @@ women	O
 Dan	B-PER
 <oov>	I-PER
 a	O
-<oov>	O
+respectable	O
 <oov>	O
 and	O
 <oov>	B-PER
@@ -41722,8 +41722,8 @@ of	O
 points	O
 ,	O
 easily	O
-beating	O
-<oov>	O
+<oov>	B-PER
+<oov>	B-PER
 ,	O
 the	O
 <oov>	B-MISC
@@ -41820,7 +41820,7 @@ of	O
 
 Swiss	B-MISC
 <oov>	I-MISC
-<oov>	O
+occupied	O
 the	O
 other	O
 two	O
@@ -41835,10 +41835,10 @@ taking	O
 second	O
 with	O
 <oov>	O
-<oov>	O
+narrowly	O
 ahead	O
 of	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 with	O
 <oov>	B-PER
@@ -42046,7 +42046,7 @@ I	O
 Jim	B-PER
 <oov>	I-PER
 ,	O
-<oov>	B-PER
+Garrett	B-PER
 
 Hines	O
 )	O
@@ -42073,7 +42073,7 @@ Hannes	B-PER
 
 <oov>	B-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 -	O
@@ -42109,12 +42109,12 @@ former	O
 test	O
 <oov>	O
 Bob	B-PER
-Woolmer	I-PER
+<oov>	I-PER
 the	O
 chance	O
 of	O
 a	O
-<oov>	O
+sentimental	O
 return	O
 to	O
 his	O
@@ -42167,12 +42167,12 @@ an	O
 <oov>	O
 ,	O
 "	O
-Woolmer	B-PER
+<oov>	B-PER
 ,	O
 now	O
 the	O
 South	B-MISC
-African	I-MISC
+<oov>	I-MISC
 coach	O
 ,	O
 said	O
@@ -42188,8 +42188,8 @@ played	O
 19	O
 tests	O
 for	O
+England	B-LOC
 <oov>	O
-between	O
 1975	O
 and	O
 1981	O
@@ -42209,7 +42209,7 @@ of	O
 Tony	B-PER
 <oov>	I-PER
 's	O
-<oov>	O
+England	B-LOC
 side	O
 in	O
 <oov>	O
@@ -42217,24 +42217,24 @@ in	O
 
 His	O
 father	O
-<oov>	B-PER
-Woolmer	I-PER
 <oov>	O
-United	B-PER
+<oov>	O
+<oov>	O
+United	I-PER
 <oov>	I-PER
 ,	O
 now	O
 <oov>	O
 <oov>	B-PER
-Pradesh	I-PER
+<oov>	I-PER
 ,	O
 in	O
 India	B-LOC
 's	O
-<oov>	B-PER
-Trophy	I-PER
-national	O
 <oov>	O
+Trophy	I-PER
+<oov>	I-PER
+<oov>	I-PER
 and	O
 <oov>	O
 the	O
@@ -42258,7 +42258,7 @@ Cape	B-LOC
 Town	I-LOC
 .	O
 
-<oov>	B-PER
+Woolmer	B-PER
 's	O
 <oov>	O
 of	O
@@ -42355,7 +42355,7 @@ two	O
 .	O
 "	O
 
-Woolmer	B-PER
+<oov>	B-PER
 said	O
 the	O
 <oov>	O
@@ -42495,7 +42495,7 @@ Women	O
 
 1.	O
 <oov>	B-PER
-<oov>	I-PER
+Brenner	I-PER
 (	O
 Canada	B-LOC
 )	O
@@ -42505,7 +42505,7 @@ Canada	B-LOC
 Karin	B-PER
 <oov>	I-PER
 (	O
-Switzerland	B-LOC
+<oov>	O
 )	O
 <oov>	O
 
@@ -42519,7 +42519,7 @@ Switzerland	B-LOC
 
 4.	O
 <oov>	B-PER
-Olivier	I-PER
+<oov>	I-PER
 (	O
 Canada	B-LOC
 )	O
@@ -42551,7 +42551,7 @@ China	B-LOC
 
 8.	O
 <oov>	B-PER
-Marshall	I-PER
+<oov>	I-PER
 (	O
 <oov>	O
 )	O
@@ -42582,7 +42582,7 @@ WORLD	B-MISC
 CUP	I-MISC
 <oov>	O
 /	O
-STANDINGS	O
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -42606,7 +42606,7 @@ ski	O
 <oov>	O
 event	O
 on	O
-<oov>	O
+Saturday	O
 :	O
 
 1.	O
@@ -42801,19 +42801,19 @@ Norway	B-LOC
 <oov>	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Slovakia	B-LOC
 )	O
 76	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 -	O
 WORLD	B-MISC
 GRAND	I-MISC
 PRIX	I-MISC
-<oov>	I-PER
-<oov>	I-PER
+<oov>	O
+RESULTS	O
 .	O
 
 <oov>	B-PER
@@ -42849,7 +42849,7 @@ beat	O
 Indra	B-PER
 Wijaya	I-PER
 (	O
-Indonesia	B-LOC
+<oov>	O
 )	O
 15-6	O
 15-8	O
@@ -42876,7 +42876,7 @@ Women	O
 <oov>	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Indonesia	B-LOC
 )	O
 beat	O
 <oov>	B-PER
@@ -42895,7 +42895,7 @@ China	B-LOC
 )	O
 beat	O
 Gong	B-PER
-<oov>	I-PER
+Zhichao	I-PER
 (	O
 China	B-LOC
 )	O
@@ -43151,7 +43151,7 @@ US	B-LOC
 Anke	B-PER
 <oov>	I-PER
 (	O
-Germany	B-LOC
+<oov>	O
 )	O
 <oov>	O
 .	O
@@ -43262,7 +43262,7 @@ round	O
 <oov>	B-PER
 <oov>	I-PER
 (	O
-Germany	B-LOC
+<oov>	O
 )	O
 <oov>	O
 
@@ -43275,7 +43275,7 @@ Japan	B-LOC
 <oov>	O
 
 3.	O
-Marianne	B-PER
+<oov>	B-PER
 <oov>	I-PER
 (	O
 <oov>	O
@@ -43286,7 +43286,7 @@ Marianne	B-PER
 <oov>	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Germany	B-LOC
 )	O
 <oov>	O
 
@@ -43338,7 +43338,7 @@ China	B-LOC
 )	O
 <oov>	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -43352,7 +43352,7 @@ CUP	I-MISC
 
 <oov>	B-PER
 ,	O
-<oov>	B-PER
+British	B-MISC
 <oov>	I-PER
 <oov>	I-PER
 
@@ -43383,7 +43383,7 @@ effort	O
 to	O
 <oov>	O
 the	O
-weekend	O
+<oov>	O
 racing	O
 <oov>	O
 .	O
@@ -43444,7 +43444,7 @@ be	O
 staged	O
 .	O
 
-<oov>	O
+Organisers	O
 hope	O
 to	O
 get	O
@@ -43455,8 +43455,8 @@ on	O
 <oov>	O
 <oov>	O
 ,	O
-conditions	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 and	O
 stage	O
@@ -43526,7 +43526,7 @@ Sunday	O
 would	O
 likely	O
 be	O
-abandoned	O
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -43534,10 +43534,10 @@ abandoned	O
 SOCCER	O
 -	O
 <oov>	B-PER
-SCOTTISH	B-MISC
 <oov>	O
+PREMIER	O
+<oov>	B-PER
 <oov>	O
-SCORERS	O
 .	O
 
 <oov>	B-PER
@@ -43548,9 +43548,9 @@ SCORERS	O
 in	O
 the	O
 
+Scottish	B-MISC
 <oov>	O
-<oov>	I-PER
-<oov>	I-PER
+<oov>	O
 after	O
 <oov>	O
 's	O
@@ -43562,7 +43562,7 @@ after	O
 Billy	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Aberdeen	B-ORG
 )	O
 ,	O
 Pierre	B-PER
@@ -43596,7 +43596,7 @@ Ally	B-PER
 
 6	O
 -	O
-<oov>	B-PER
+Andreas	B-PER
 <oov>	I-PER
 (	O
 Celtic	B-ORG
@@ -43635,7 +43635,7 @@ van	I-PER
 <oov>	I-PER
 
 (	O
-Dunfermline	B-ORG
+<oov>	O
 )	O
 ,	O
 Colin	B-PER
@@ -43665,15 +43665,15 @@ Celtic	B-ORG
 SOCCER	O
 -	O
 <oov>	B-PER
+<oov>	I-PER
 <oov>	O
-GOALSCORERS	O
 .	O
 
 LONDON	B-LOC
 <oov>	I-PER
 
-<oov>	B-PER
-<oov>	I-PER
+Leading	O
+<oov>	O
 in	O
 the	O
 <oov>	B-MISC
@@ -43699,7 +43699,7 @@ Wright	I-PER
 <oov>	B-PER
 <oov>	I-PER
 (	O
-<oov>	O
+Middlesbrough	B-ORG
 )	O
 ,	O
 Alan	B-PER
@@ -43789,9 +43789,9 @@ Fowler	I-PER
 )	O
 ,	O
 Steve	B-PER
-McManaman	I-PER
+<oov>	I-PER
 (	O
-<oov>	O
+Liverpool	B-ORG
 )	O
 
 4	O
@@ -43821,11 +43821,11 @@ LONDON	B-LOC
 
 Results	O
 of	O
-<oov>	B-PER
-<oov>	I-PER
-<oov>	I-PER
+Northern	B-LOC
+<oov>	I-LOC
+<oov>	I-LOC
 
-division	O
+<oov>	B-PER
 <oov>	O
 on	O
 <oov>	O
@@ -43846,7 +43846,7 @@ on	O
 <oov>	B-ORG
 1	O
 
-Glentoran	B-ORG
+<oov>	O
 1	O
 <oov>	B-ORG
 0	O
@@ -43951,7 +43951,7 @@ points	O
 RUGBY	B-ORG
 UNION	I-ORG
 -	O
-<oov>	B-PER
+BRITISH	B-PER
 <oov>	I-PER
 .	O
 
@@ -43974,7 +43974,7 @@ Cup	I-MISC
 fourth	O
 round	O
 
-<oov>	O
+Reading	B-ORG
 50	O
 <oov>	O
 3	O
@@ -44040,8 +44040,8 @@ one	O
 Vale	B-ORG
 17	O
 
-<oov>	B-PER
-<oov>	I-PER
+Scottish	B-MISC
+<oov>	O
 one	O
 
 <oov>	O
@@ -44054,9 +44054,9 @@ one	O
 SOCCER	O
 -	O
 <oov>	B-PER
-<oov>	O
+PREMIER	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -44065,15 +44065,15 @@ SOCCER	O
 <oov>	O
 of	O
 <oov>	O
-<oov>	I-PER
+<oov>	O
 <oov>	O
 <oov>	O
 played	O
 on	O
-<oov>	O
+Saturday	O
 :	O
 
-Dunfermline	B-ORG
+<oov>	B-PER
 2	O
 (	O
 <oov>	B-PER
@@ -44096,7 +44096,7 @@ Miller	B-PER
 )	O
 .	O
 
-<oov>	O
+Halftime	O
 1-1	O
 .	O
 
@@ -44152,13 +44152,13 @@ Celtic	B-ORG
 
 <oov>	B-PER
 
-Rangers	B-ORG
+<oov>	O
 4	O
 (	O
 <oov>	B-PER
 34	O
 ,	O
-<oov>	B-PER
+McCoist	B-PER
 71	O
 74	O
 ,	O
@@ -44171,7 +44171,7 @@ Rangers	B-ORG
 Wright	O
 21	O
 ,	O
-<oov>	O
+Jackson	B-PER
 41	O
 ,	O
 <oov>	B-PER
@@ -44221,7 +44221,7 @@ the	O
 next	O
 year	O
 <oov>	O
-business	O
+<oov>	B-PER
 <oov>	O
 in	O
 <oov>	O
@@ -44239,10 +44239,10 @@ a	O
 <oov>	O
 <oov>	O
 on	O
-Saturday	O
+<oov>	O
 but	O
 is	O
-currently	O
+<oov>	O
 a	O
 target	O
 for	O
@@ -44259,12 +44259,12 @@ have	O
 <oov>	O
 up	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 ,	O
-<oov>	B-PER
+Michael	B-PER
 <oov>	I-PER
 and	O
-Philippe	B-PER
+<oov>	B-PER
 <oov>	I-PER
 .	O
 
@@ -44288,7 +44288,7 @@ holds	O
 me	O
 back	O
 is	O
-<oov>	O
+business	O
 ,	O
 "	O
 said	O
@@ -44309,7 +44309,7 @@ a	O
 lot	O
 of	O
 things	O
-<oov>	O
+happening	O
 at	O
 home	O
 .	O
@@ -44337,10 +44337,10 @@ year	O
 
 Former	O
 <oov>	O
-captain	O
+<oov>	O
 Nick	B-PER
 <oov>	I-PER
-<oov>	I-PER
+<oov>	O
 <oov>	O
 may	O
 yet	O
@@ -44387,13 +44387,13 @@ SOCCER	O
 <oov>	B-PER
 <oov>	O
 LEAGUE	O
-SUMMARIES	O
+<oov>	I-PER
 .	O
 
 LONDON	B-LOC
 <oov>	I-PER
 
-<oov>	O
+Summaries	O
 of	O
 <oov>	B-PER
 <oov>	I-PER
@@ -44404,7 +44404,7 @@ on	O
 <oov>	O
 :	O
 
-<oov>	B-PER
+Arsenal	B-ORG
 2	O
 (	O
 Adams	B-PER
@@ -44433,16 +44433,16 @@ Derby	B-ORG
 :	O
 <oov>	B-PER
 
-Chelsea	B-ORG
+<oov>	O
 2	O
 (	O
-<oov>	B-PER
+<oov>	O
 12	O
 ,	O
 Vialli	B-PER
 55	O
 )	O
-<oov>	O
+Everton	B-ORG
 2	O
 (	O
 <oov>	B-PER
@@ -44484,7 +44484,7 @@ Vialli	B-PER
 <oov>	O
 1	O
 (	O
-Marshall	B-PER
+<oov>	B-PER
 78	O
 )	O
 <oov>	O
@@ -44502,11 +44502,11 @@ Sutton	B-PER
 
 <oov>	O
 0	O
+<oov>	B-PER
 <oov>	O
-Wednesday	O
 1	O
 (	O
-<oov>	O
+Whittingham	B-PER
 22	O
 )	O
 .	O
@@ -44530,7 +44530,7 @@ Aston	B-ORG
 Villa	I-ORG
 1	O
 (	O
-Townsend	B-PER
+<oov>	B-PER
 34	O
 )	O
 .	O
@@ -44570,9 +44570,9 @@ Townsend	B-PER
 
 SOCCER	O
 -	O
-SCOTTISH	B-MISC
+<oov>	B-PER
 LEAGUE	O
-<oov>	O
+<oov>	B-PER
 .	O
 
 <oov>	B-PER
@@ -44580,7 +44580,7 @@ LEAGUE	O
 
 <oov>	O
 league	O
-<oov>	O
+standings	O
 after	O
 
 <oov>	O
@@ -44761,8 +44761,8 @@ Mirren	I-ORG
 21	O
 23	O
 
-<oov>	B-ORG
-Morton	I-PER
+Greenock	B-ORG
+Morton	I-ORG
 16	O
 6	O
 4	O
@@ -44771,7 +44771,7 @@ Morton	I-PER
 16	O
 22	O
 
-<oov>	B-ORG
+Clydebank	B-ORG
 16	O
 4	O
 2	O
@@ -44935,7 +44935,7 @@ Alloa	B-ORG
 21	O
 25	O
 
-<oov>	O
+Cowdenbeath	B-ORG
 15	O
 7	O
 3	O
@@ -44983,7 +44983,7 @@ Park	I-ORG
 12	O
 
 East	B-ORG
-Stirling	I-ORG
+<oov>	I-ORG
 16	O
 2	O
 5	O
@@ -45004,7 +45004,7 @@ LEAGUE	O
 LONDON	B-LOC
 <oov>	I-PER
 
-<oov>	O
+Standings	O
 in	O
 <oov>	O
 league	O
@@ -45085,7 +45085,7 @@ Villa	I-ORG
 17	O
 29	O
 
-Manchester	B-ORG
+<oov>	B-ORG
 United	I-ORG
 15	O
 7	O
@@ -45113,8 +45113,8 @@ United	I-ORG
 20	O
 24	O
 
-<oov>	O
-Wednesday	O
+<oov>	B-ORG
+Wednedsay	I-ORG
 16	O
 6	O
 6	O
@@ -45224,7 +45224,7 @@ Forest	I-ORG
 25	O
 9	O
 
-Division	O
+<oov>	O
 One	O
 
 Bolton	B-ORG
@@ -45292,7 +45292,7 @@ Palace	I-ORG
 21	O
 32	O
 
-<oov>	O
+Birmingham	B-ORG
 22	O
 8	O
 8	O
@@ -45319,7 +45319,7 @@ Stoke	B-ORG
 30	O
 30	O
 
-<oov>	B-ORG
+Swindon	B-ORG
 22	O
 9	O
 2	O
@@ -45348,7 +45348,7 @@ Stoke	B-ORG
 
 Queens	B-ORG
 Park	I-ORG
-<oov>	I-ORG
+Rangers	I-ORG
 22	O
 7	O
 7	O
@@ -45386,7 +45386,7 @@ City	I-ORG
 35	O
 26	O
 
-Portsmouth	B-ORG
+<oov>	B-ORG
 22	O
 7	O
 5	O
@@ -45423,7 +45423,7 @@ West	B-ORG
 36	O
 24	O
 
-<oov>	O
+Grimsby	B-ORG
 22	O
 5	O
 6	O
@@ -45498,7 +45498,7 @@ Luton	B-ORG
 22	O
 37	O
 
-<oov>	O
+Chesterfield	B-ORG
 21	O
 11	O
 4	O
@@ -45507,7 +45507,7 @@ Luton	B-ORG
 16	O
 37	O
 
-<oov>	O
+Stockport	B-ORG
 22	O
 10	O
 6	O
@@ -45563,7 +45563,7 @@ Rovers	I-ORG
 23	O
 28	O
 
-Shrewsbury	B-ORG
+<oov>	O
 22	O
 7	O
 6	O
@@ -45581,7 +45581,7 @@ York	B-ORG
 29	O
 26	O
 
-<oov>	O
+Blackpool	B-ORG
 22	O
 5	O
 10	O
@@ -45590,7 +45590,7 @@ York	B-ORG
 24	O
 25	O
 
-Walsall	B-ORG
+<oov>	O
 21	O
 7	O
 4	O
@@ -45608,7 +45608,7 @@ Walsall	B-ORG
 27	O
 25	O
 
-<oov>	B-ORG
+Preston	B-ORG
 22	O
 7	O
 4	O
@@ -45702,7 +45702,7 @@ Wigan	B-ORG
 24	O
 40	O
 
-Carlisle	B-ORG
+<oov>	O
 22	O
 11	O
 7	O
@@ -45711,7 +45711,7 @@ Carlisle	B-ORG
 20	O
 40	O
 
-<oov>	O
+Cardiff	B-ORG
 21	O
 10	O
 4	O
@@ -45801,7 +45801,7 @@ Hull	B-ORG
 22	O
 29	O
 
-<oov>	O
+Torquay	B-ORG
 22	O
 8	O
 4	O
@@ -45828,7 +45828,7 @@ Exeter	B-ORG
 28	O
 26	O
 
-<oov>	B-ORG
+Doncaster	B-ORG
 22	O
 7	O
 3	O
@@ -45907,8 +45907,8 @@ WITH	O
 LONDON	B-LOC
 <oov>	I-PER
 
-Frenchman	B-MISC
-Partick	B-PER
+<oov>	O
+<oov>	O
 Vieira	I-PER
 <oov>	O
 a	O
@@ -45958,7 +45958,7 @@ and	O
 <oov>	O
 which	O
 <oov>	B-PER
-<oov>	I-PER
+Arsenal	B-ORG
 's	O
 1-0	O
 lead	O
@@ -45998,7 +45998,7 @@ Guy	B-PER
 goal	O
 for	O
 <oov>	B-PER
-<oov>	O
+Wednedsay	O
 .	O
 
 <oov>	O
@@ -46009,7 +46009,7 @@ into	O
 second	O
 place	O
 by	O
-<oov>	O
+winning	O
 3-1	O
 at	O
 <oov>	O
@@ -46041,7 +46041,7 @@ late	O
 goal	O
 from	O
 fellow	O
-forward	O
+<oov>	O
 Dean	B-PER
 <oov>	I-PER
 <oov>	I-PER
@@ -46074,15 +46074,15 @@ CUP	B-MISC
 
 <oov>	O
 of	O
-Scottish	B-MISC
+<oov>	O
 league	O
 and	O
 cup	O
 
-<oov>	O
+matches	O
 played	O
 on	O
-<oov>	O
+Saturday	O
 :	O
 
 <oov>	B-PER
@@ -46090,7 +46090,7 @@ on	O
 
 <oov>	B-ORG
 2	O
-Aberdeen	B-ORG
+<oov>	B-ORG
 3	O
 
 Hearts	B-ORG
@@ -46122,8 +46122,8 @@ Dundee	B-ORG
 <oov>	B-ORG
 0	O
 
-Greenock	B-ORG
-Morton	I-ORG
+<oov>	B-ORG
+Morton	I-PER
 0	O
 St	B-ORG
 <oov>	I-ORG
@@ -46162,7 +46162,7 @@ two	O
 <oov>	B-ORG
 1	O
 
-Stranraer	B-ORG
+<oov>	B-ORG
 0	O
 <oov>	B-ORG
 1	O
@@ -46205,7 +46205,7 @@ City	I-ORG
 <oov>	B-ORG
 3	O
 
-Postponed	O
+<oov>	O
 :	O
 Albion	B-ORG
 v	O
@@ -46224,7 +46224,7 @@ on	O
 14	O
 )	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -46238,19 +46238,19 @@ CUP	B-MISC
 LONDON	B-LOC
 <oov>	I-PER
 
-<oov>	O
+Results	O
 of	O
 <oov>	O
 league	O
 and	O
 cup	O
 
-matches	O
+<oov>	O
 on	O
 <oov>	O
 :	O
 
-Premier	O
+<oov>	O
 league	O
 
 <oov>	B-ORG
@@ -46273,13 +46273,13 @@ Derby	B-ORG
 <oov>	B-ORG
 1	O
 
-Liverpool	B-ORG
+<oov>	O
 0	O
-<oov>	B-ORG
-<oov>	I-PER
+Sheffield	B-ORG
+<oov>	I-ORG
 1	O
 
-<oov>	B-ORG
+Middlesbrough	B-ORG
 0	O
 Leeds	B-ORG
 0	O
@@ -46295,7 +46295,7 @@ Villa	I-ORG
 <oov>	B-ORG
 3	O
 
-Division	O
+<oov>	O
 one	O
 
 <oov>	B-ORG
@@ -46339,7 +46339,7 @@ Oldham	B-ORG
 0	O
 Queens	B-ORG
 Park	I-ORG
-<oov>	I-ORG
+Rangers	I-ORG
 2	O
 
 <oov>	O
@@ -46351,7 +46351,7 @@ Vale	I-ORG
 <oov>	B-ORG
 United	I-ORG
 1	O
-Portsmouth	B-ORG
+<oov>	B-ORG
 0	O
 
 Stoke	B-ORG
@@ -46368,7 +46368,7 @@ v	O
 Bolton	B-ORG
 
 F.A.	O
-<oov>	I-MISC
+Challenge	B-MISC
 Cup	I-MISC
 second	O
 round	O
@@ -46378,7 +46378,7 @@ Barnet	B-ORG
 <oov>	B-ORG
 3	O
 
-<oov>	B-ORG
+Blackpool	B-ORG
 0	O
 <oov>	B-ORG
 1	O
@@ -46433,7 +46433,7 @@ Luton	B-ORG
 Wood	I-PER
 1	O
 
-<oov>	B-ORG
+Mansfield	B-ORG
 0	O
 <oov>	B-ORG
 3	O
@@ -46441,7 +46441,7 @@ Wood	I-PER
 Notts	B-ORG
 County	I-ORG
 3	O
-<oov>	B-ORG
+Rochdale	B-ORG
 1	O
 
 <oov>	B-ORG
@@ -46468,12 +46468,12 @@ Town	I-ORG
 
 <oov>	B-ORG
 2	O
-<oov>	B-ORG
+Scunthorpe	B-ORG
 2	O
 
 <oov>	B-ORG
 0	O
-<oov>	B-ORG
+Gillingham	B-ORG
 2	O
 
 <oov>	B-PER
@@ -46575,7 +46575,7 @@ only	O
 two	O
 <oov>	O
 <oov>	O
-sessions	O
+<oov>	O
 behind	O
 them	O
 ,	O
@@ -46593,7 +46593,7 @@ finish	O
 their	O
 <oov>	O
 tour	O
-unbeaten	O
+<oov>	O
 .	O
 
 The	O
@@ -46613,9 +46613,9 @@ the	O
 .	O
 
 <oov>	O
-<oov>	O
 <oov>	I-PER
-<oov>	O
+<oov>	I-PER
+finished	O
 with	O
 a	O
 <oov>	O
@@ -46627,7 +46627,7 @@ to	O
 take	O
 his	O
 tour	O
-<oov>	O
+aggregate	O
 to	O
 <oov>	O
 .	O
@@ -46664,7 +46664,7 @@ their	O
 <oov>	O
 tour	O
 on	O
-Saturday	O
+<oov>	O
 :	O
 
 <oov>	O
@@ -46723,7 +46723,7 @@ Rob	B-PER
 Andrew	I-PER
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 GOLF	O
 -	O
@@ -46747,7 +46747,7 @@ the	O
 <oov>	B-MISC
 Open	I-MISC
 on	O
-Saturday	O
+<oov>	O
 (	O
 South	B-MISC
 <oov>	O
@@ -46793,7 +46793,7 @@ Price	I-PER
 Mark	B-PER
 <oov>	I-PER
 (	O
-Zimbabwe	B-LOC
+<oov>	O
 )	O
 
 69	O
@@ -46883,7 +46883,7 @@ U.S.	B-LOC
 Sean	B-PER
 <oov>	I-PER
 (	O
-Zimbabwe	B-LOC
+<oov>	O
 )	O
 77	O
 68	O
@@ -46919,8 +46919,8 @@ Steven	B-PER
 70	O
 72	O
 ,	O
-<oov>	B-PER
-Vaughan	I-PER
+Bradford	B-PER
+<oov>	I-PER
 72	O
 71	O
 
@@ -46964,7 +46964,7 @@ on	O
 Saturday	O
 it	O
 was	O
-<oov>	O
+important	O
 that	O
 his	O
 <oov>	O
@@ -46980,17 +46980,17 @@ FIFA	B-ORG
 in	O
 order	O
 to	O
-concentrate	O
+<oov>	O
 on	O
 next	O
-<oov>	O
+<oov>	B-MISC
 Cup	I-MISC
 group	O
 nine	O
-qualifier	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+against	O
+Northern	B-LOC
+Ireland	I-LOC
 .	O
 
 World	O
@@ -47001,11 +47001,11 @@ body	O
 <oov>	B-PER
 <oov>	I-PER
 last	O
-<oov>	O
+Tuesday	O
 after	O
 the	O
 Balkan	B-LOC
-<oov>	I-PER
+country	O
 's	O
 <oov>	O
 lifted	O
@@ -47024,24 +47024,24 @@ banned	O
 after	O
 its	O
 sports	O
-ministry	O
+<oov>	O
 had	O
 <oov>	O
 the	O
 <oov>	O
 of	O
 <oov>	O
+<oov>	B-PER
+Association	I-PER
 <oov>	O
 <oov>	O
-general	O
 <oov>	O
-<oov>	I-PER
-<oov>	I-PER
+<oov>	O
 and	O
 <oov>	O
 the	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+committee	O
 .	O
 
 "	O
@@ -47069,7 +47069,7 @@ takes	O
 into	O
 <oov>	O
 our	O
-difficult	O
+<oov>	O
 <oov>	O
 <oov>	O
 and	O
@@ -47086,7 +47086,7 @@ win	O
 "	O
 
 <oov>	O
-<oov>	O
+defender	O
 Artur	B-PER
 <oov>	I-PER
 ,	O
@@ -47102,7 +47102,7 @@ from	O
 squad	O
 named	O
 on	O
-<oov>	O
+Saturday	O
 for	O
 the	O
 <oov>	O
@@ -47172,9 +47172,9 @@ Viktor	B-PER
 <oov>	I-PER
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
-<oov>	O
+CRICKET	O
 -	O
 <oov>	B-PER
 HITS	O
@@ -47210,10 +47210,10 @@ their	O
 <oov>	O
 <oov>	O
 match	O
-<oov>	B-PER
+against	O
 <oov>	O
 on	O
-<oov>	O
+Saturday	O
 .	O
 
 <oov>	O
@@ -47227,10 +47227,10 @@ first	O
 <oov>	O
 for	O
 eight	O
-<oov>	O
+declared	O
 ,	O
-<oov>	B-PER
 <oov>	O
+reached	O
 220	O
 for	O
 three	O
@@ -47249,7 +47249,7 @@ match	O
 at	O
 <oov>	B-LOC
 's	O
-<oov>	B-PER
+<oov>	B-LOC
 Oval	I-LOC
 .	O
 
@@ -47306,7 +47306,7 @@ the	O
 third	O
 wicket	O
 with	O
-<oov>	O
+left-hander	O
 <oov>	B-PER
 Harper	I-PER
 .	O
@@ -47325,7 +47325,7 @@ forces	O
 with	O
 their	O
 side	O
-<oov>	O
+reeling	O
 on	O
 nine	O
 for	O
@@ -47368,7 +47368,7 @@ three	O
 for	O
 81	O
 for	O
-<oov>	O
+Victoria	B-LOC
 .	O
 
 <oov>	B-PER
@@ -47382,7 +47382,7 @@ for	O
 
 <oov>	B-PER
 ,	O
-<oov>	B-PER
+Australia	B-LOC
 <oov>	I-PER
 
 Close	O
@@ -47395,12 +47395,12 @@ second	O
 day	O
 of	O
 the	O
-<oov>	O
+four-day	O
 <oov>	O
 <oov>	O
 <oov>	O
 match	O
-between	O
+<oov>	O
 <oov>	O
 and	O
 <oov>	O
@@ -47417,8 +47417,8 @@ for	O
 eight	O
 <oov>	O
 (	O
-<oov>	O
-<oov>	O
+Michael	B-PER
+<oov>	I-PER
 119	O
 ,	O
 David	B-PER
@@ -47430,7 +47430,7 @@ Young	I-PER
 113	O
 )	O
 ;	O
-Victoria	B-LOC
+<oov>	O
 220	O
 for	O
 three	O
@@ -47476,7 +47476,7 @@ a	O
 4-2	O
 win	O
 over	O
-<oov>	O
+Indonesia	B-LOC
 in	O
 a	O
 Group	O
@@ -47494,11 +47494,11 @@ in	O
 the	O
 first	O
 55	O
-<oov>	O
-South	B-LOC
+minutes	O
+South	B-MISC
 Korea	I-LOC
-allowed	O
-Indonesia	B-LOC
+<oov>	O
+<oov>	O
 ,	O
 <oov>	O
 to	O
@@ -47535,8 +47535,8 @@ the	O
 fifth	O
 minute	O
 ,	O
-turning	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 on	O
 the	O
 penalty	O
@@ -47554,15 +47554,15 @@ corner	O
 It	O
 looked	O
 like	O
-turning	O
+<oov>	O
 into	O
 a	O
 <oov>	O
 as	O
 Hwang	O
-Sun	O
-Hong	I-MISC
-<oov>	O
+Sun	B-ORG
+Hong	I-ORG
+rapidly	O
 added	O
 two	O
 more	O
@@ -47613,10 +47613,10 @@ went	O
 four	O
 up	O
 ,	O
-<oov>	B-PER
 <oov>	O
 <oov>	I-PER
 <oov>	I-PER
+heading	O
 in	O
 from	O
 a	O
@@ -47635,7 +47635,7 @@ then	O
 to	O
 <oov>	O
 ,	O
-allowing	O
+<oov>	O
 the	O
 <oov>	O
 to	O
@@ -47662,10 +47662,10 @@ corner	O
 kick	O
 that	O
 Korean	B-MISC
-goalkeeper	O
+<oov>	O
 Kim	B-PER
 <oov>	I-PER
-<oov>	I-PER
+<oov>	O
 with	O
 one	O
 hand	O
@@ -47680,7 +47680,7 @@ With	O
 65	O
 <oov>	O
 gone	O
-Indonesia	B-LOC
+<oov>	O
 's	O
 <oov>	B-PER
 Putra	I-PER
@@ -47688,12 +47688,12 @@ Putra	I-PER
 who	O
 scored	O
 a	O
-<oov>	O
+spectacular	O
 goal	O
-<oov>	B-PER
+<oov>	O
 Kuwait	B-LOC
 on	O
-Wednedsay	O
+<oov>	O
 ,	O
 was	O
 again	O
@@ -47726,10 +47726,10 @@ of	O
 fine	O
 <oov>	O
 to	O
-<oov>	O
+prevent	O
 the	O
 <oov>	O
-<oov>	O
+increasing	O
 their	O
 lead	O
 .	O
@@ -47884,12 +47884,12 @@ Kim	B-PER
 
 SOCCER	O
 -	O
-<oov>	B-PER
+<oov>	O
 FIRST	O
 <oov>	O
-<oov>	O
+RESULTS	O
 /	O
-<oov>	O
+STANDINGS	O
 .	O
 
 <oov>	B-PER
@@ -47905,7 +47905,7 @@ soccer	O
 played	O
 over	O
 the	O
-<oov>	O
+weekend	O
 :	O
 
 <oov>	B-ORG
@@ -47916,7 +47916,7 @@ Petah	I-ORG
 Tikva	I-ORG
 1	O
 
-Maccabi	B-ORG
+<oov>	B-ORG
 Haifa	I-ORG
 1	O
 Hapoel	B-ORG
@@ -47951,8 +47951,8 @@ Ironi	B-ORG
 Rishon	I-ORG
 Lezion	O
 1	O
-Maccabi	B-ORG
-<oov>	I-ORG
+<oov>	B-PER
+<oov>	I-PER
 0	O
 
 Hapoel	B-ORG
@@ -47987,7 +47987,7 @@ goals	O
 
 for	O
 ,	O
-<oov>	B-PER
+against	O
 ,	O
 points	O
 )	O
@@ -48066,7 +48066,7 @@ Haifa	I-ORG
 16	O
 19	O
 
-Maccabi	B-ORG
+<oov>	B-ORG
 Haifa	I-ORG
 12	O
 4	O
@@ -48118,8 +48118,8 @@ Holon	I-PER
 14	O
 10	O
 
-<oov>	B-ORG
-<oov>	I-PER
+Maccabi	B-ORG
+Herzliya	I-ORG
 12	O
 3	O
 1	O
@@ -48221,7 +48221,7 @@ Kuwait	B-LOC
 ,	O
 44	O
 
-Attendance	O
+<oov>	O
 :	O
 15,000	O
 
@@ -48339,7 +48339,7 @@ Kuwait	B-ORG
 NBA	B-ORG
 BASKETBALL	O
 -	O
-STANDINGS	O
+<oov>	B-PER
 AFTER	O
 FRIDAY	O
 'S	O
@@ -48350,12 +48350,12 @@ NEW	B-LOC
 YORK	I-LOC
 <oov>	I-LOC
 
-Standings	O
+<oov>	B-PER
 of	O
 <oov>	B-PER
 
-<oov>	O
-<oov>	O
+<oov>	B-ORG
+Association	I-ORG
 teams	O
 after	O
 games	O
@@ -48380,8 +48380,8 @@ behind	O
 <oov>	B-PER
 <oov>	I-PER
 
-<oov>	B-PER
-<oov>	I-PER
+ATLANTIC	B-MISC
+DIVISION	I-MISC
 
 W	O
 L	O
@@ -48487,15 +48487,15 @@ GB	O
 8	O
 1/2	O
 
-<oov>	O
+TORONTO	B-ORG
 6	O
 11	O
 .353	O
 10	O
 1/2	O
 
-<oov>	B-PER
-<oov>	I-PER
+WESTERN	B-MISC
+<oov>	I-MISC
 
 <oov>	B-PER
 <oov>	I-PER
@@ -48545,7 +48545,7 @@ SAN	B-ORG
 12	O
 1/2	O
 
-<oov>	O
+VANCOUVER	B-ORG
 3	O
 16	O
 <oov>	O
@@ -48602,7 +48602,7 @@ STATE	I-ORG
 8	O
 1/2	O
 
-PHOENIX	B-ORG
+<oov>	O
 3	O
 14	O
 <oov>	O
@@ -48644,7 +48644,7 @@ DALLAS	B-LOC
 
 <oov>	O
 AT	O
-<oov>	B-PER
+HOUSTON	B-LOC
 
 <oov>	O
 AT	O
@@ -48654,14 +48654,14 @@ DENVER	O
 AT	O
 <oov>	B-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 NBA	B-ORG
 <oov>	O
 -	O
 FRIDAY	O
 'S	O
-<oov>	O
+RESULTS	O
 .	O
 
 NEW	B-LOC
@@ -48710,7 +48710,7 @@ MIAMI	I-ORG
 <oov>	O
 95	O
 
-Vancouver	B-LOC
+<oov>	O
 105	O
 SAN	B-ORG
 <oov>	I-PER
@@ -48718,7 +48718,7 @@ SAN	B-ORG
 
 <oov>	B-PER
 106	O
-Minnesota	B-PER
+<oov>	B-PER
 95	I-PER
 
 <oov>	O
@@ -48735,7 +48735,7 @@ STATE	I-PER
 LA	B-ORG
 <oov>	O
 92	O
-<oov>	O
+Orlando	I-PER
 81	O
 
 <oov>	B-PER
@@ -48744,7 +48744,7 @@ LA	B-ORG
 ICE	O
 HOCKEY	O
 -	O
-STANDINGS	O
+<oov>	O
 AFTER	O
 FRIDAY	O
 'S	O
@@ -48832,7 +48832,7 @@ BOSTON	B-ORG
 84	O
 24	O
 
-<oov>	O
+PITTSBURGH	B-ORG
 10	O
 13	O
 3	O
@@ -48848,8 +48848,8 @@ OTTAWA	B-ORG
 77	O
 20	O
 
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+DIVISION	I-MISC
 
 W	O
 L	O
@@ -48858,7 +48858,7 @@ T	O
 <oov>	O
 <oov>	B-PER
 
-<oov>	B-ORG
+FLORIDA	B-ORG
 17	O
 4	O
 6	O
@@ -48866,7 +48866,7 @@ T	O
 53	O
 40	O
 
-<oov>	O
+PHILADELPHIA	B-ORG
 15	O
 12	O
 2	O
@@ -48918,8 +48918,8 @@ NEW	B-ORG
 81	O
 18	O
 
-WESTERN	B-MISC
-<oov>	I-MISC
+<oov>	B-PER
+<oov>	I-PER
 
 <oov>	B-PER
 <oov>	I-PER
@@ -48931,7 +48931,7 @@ T	O
 <oov>	O
 <oov>	B-PER
 
-<oov>	O
+DETROIT	B-ORG
 15	O
 9	O
 4	O
@@ -48964,7 +48964,7 @@ LOUIS	I-ORG
 70	O
 27	O
 
-<oov>	B-ORG
+TORONTO	B-ORG
 11	O
 16	O
 0	O
@@ -48980,8 +48980,8 @@ LOUIS	I-ORG
 74	O
 22	O
 
-<oov>	O
-DIVISION	I-MISC
+<oov>	B-PER
+<oov>	I-PER
 
 W	O
 L	O
@@ -48990,7 +48990,7 @@ T	O
 <oov>	O
 <oov>	B-PER
 
-<oov>	B-ORG
+COLORADO	B-ORG
 17	O
 7	O
 4	O
@@ -49015,7 +49015,7 @@ T	O
 29	O
 
 LOS	B-ORG
-ANGELES	I-ORG
+<oov>	I-ORG
 11	O
 13	O
 3	O
@@ -49076,14 +49076,14 @@ AT	O
 AT	O
 <oov>	B-PER
 
-<oov>	B-PER
+<oov>	O
 <oov>	I-PER
 AT	O
-TORONTO	B-LOC
+<oov>	B-PER
 
 <oov>	O
 AT	O
-PITTSBURGH	B-LOC
+<oov>	B-PER
 
 <oov>	O
 AT	O
@@ -49191,8 +49191,8 @@ NEW	B-LOC
 YORK	I-LOC
 <oov>	I-LOC
 
-<oov>	B-PER
-<oov>	I-PER
+Vancouver	B-LOC
+<oov>	O
 star	O
 right	O
 wing	O
@@ -49217,7 +49217,7 @@ for	O
 his	O
 hit	O
 on	O
-<oov>	O
+Buffalo	O
 <oov>	O
 <oov>	O
 Garry	I-PER
@@ -49227,14 +49227,14 @@ on	O
 .	O
 
 <oov>	O
-received	O
+<oov>	O
 a	O
 <oov>	O
 <oov>	O
 for	O
 <oov>	O
 with	O
-<oov>	B-PER
+<oov>	O
 left	O
 in	O
 the	O
@@ -49258,7 +49258,7 @@ zone	O
 .	O
 
 <oov>	O
-<oov>	O
+suffered	O
 a	O
 <oov>	O
 and	O
@@ -49294,7 +49294,7 @@ be	O
 <oov>	O
 by	O
 his	O
-opponent	O
+<oov>	O
 ,	O
 "	O
 said	O
@@ -49317,7 +49317,7 @@ is	O
 clear	O
 from	O
 the	O
-<oov>	O
+videotape	O
 that	O
 Mr	B-PER
 <oov>	I-PER
@@ -49360,7 +49360,7 @@ said	O
 ,	O
 who	O
 is	O
-struggling	O
+<oov>	O
 with	O
 only	O
 nine	O
@@ -49378,7 +49378,7 @@ miss	O
 's	O
 home	O
 game	O
-against	O
+<oov>	O
 Ottawa	B-LOC
 .	O
 
@@ -49423,10 +49423,10 @@ on	O
 
 SOCCER	O
 -	O
-<oov>	O
+SPANISH	O
 FIRST	O
+<oov>	B-PER
 <oov>	O
-SUMMARY	O
 .	O
 
 MADRID	B-LOC
@@ -49462,8 +49462,8 @@ Madrid	I-ORG
 1-0	O
 .	O
 
-<oov>	B-PER
-<oov>	I-PER
+Attendance	O
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -49544,10 +49544,10 @@ New	O
 Year	O
 break	O
 ,	O
-Real	O
+Real	B-PER
 are	O
 also	O
-<oov>	O
+assured	O
 of	O
 <oov>	O
 <oov>	O
@@ -49561,15 +49561,15 @@ A	O
 <oov>	O
 in	O
 the	O
-Barcelona	B-LOC
 <oov>	O
+defence	O
 let	O
 <oov>	O
+international	O
 <oov>	B-PER
-<oov>	I-PER
 in	O
 midway	O
-<oov>	O
+through	O
 the	O
 first	O
 half	O
@@ -49611,8 +49611,8 @@ quiet	O
 night	O
 for	O
 <oov>	O
-striker	O
 <oov>	B-PER
+<oov>	I-PER
 .	O
 
 <oov>	B-PER
@@ -49626,7 +49626,7 @@ FOR	O
 SIX	O
 .	O
 
-<oov>	B-PER
+AMSTERDAM	B-LOC
 <oov>	I-PER
 
 <oov>	O
@@ -49655,7 +49655,7 @@ win	O
 over	O
 <oov>	O
 on	O
-<oov>	O
+Saturday	O
 .	O
 
 Their	O
@@ -49666,7 +49666,7 @@ were	O
 <oov>	O
 <oov>	O
 and	O
-<oov>	O
+Belgian	B-MISC
 <oov>	O
 Luc	B-PER
 Nilis	I-PER
@@ -49691,7 +49691,7 @@ league	O
 title	O
 ,	O
 <oov>	B-PER
-<oov>	I-PER
+Volendam	I-PER
 in	O
 every	O
 <oov>	O
@@ -49729,7 +49729,7 @@ who	O
 have	O
 played	O
 18	O
-<oov>	O
+matches	O
 <oov>	O
 to	O
 PSV	B-ORG
@@ -49764,9 +49764,9 @@ on	O
 ,	O
 travel	O
 to	O
-De	B-PER
-<oov>	O
-Doetinchem	I-PER
+De	B-MISC
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 The	O
@@ -49799,7 +49799,7 @@ the	O
 table	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -49834,7 +49834,7 @@ Madrid	I-ORG
 
 <oov>	O
 (	O
-tabulate	O
+<oov>	O
 under	O
 games	O
 played	O
@@ -49894,7 +49894,7 @@ Real	B-ORG
 13	O
 29	O
 
-<oov>	B-ORG
+Atletico	B-ORG
 Madrid	I-ORG
 15	O
 8	O
@@ -50082,21 +50082,21 @@ DUBLIN	B-LOC
 Jack	B-PER
 <oov>	I-PER
 's	O
-<oov>	O
+relationship	O
 with	O
 the	O
 people	O
 of	O
 <oov>	O
 was	O
-<oov>	O
+cemented	O
 on	O
 <oov>	O
 when	O
 the	O
 <oov>	O
 was	O
-<oov>	O
+officially	O
 <oov>	O
 one	O
 of	O
@@ -50117,7 +50117,7 @@ wife	O
 became	O
 <oov>	O
 of	O
-<oov>	O
+Ireland	B-LOC
 when	O
 they	O
 <oov>	O
@@ -50161,7 +50161,7 @@ of	O
 the	O
 <oov>	O
 of	O
-<oov>	O
+Ireland	B-LOC
 were	O
 the	O
 best	O
@@ -50242,7 +50242,7 @@ he	O
 added	O
 .	O
 
-Charlton	B-PER
+<oov>	O
 <oov>	I-PER
 Ireland	B-LOC
 for	O
@@ -50263,7 +50263,7 @@ almost	O
 years	O
 until	O
 he	O
-resigned	O
+<oov>	O
 in	O
 <oov>	O
 1995	O
@@ -50283,11 +50283,11 @@ and	O
 to	O
 the	O
 1988	O
-European	B-MISC
-<oov>	I-MISC
+<oov>	O
+<oov>	O
 finals	O
 in	O
-<oov>	O
+<oov>	B-PER
 ,	O
 after	O
 the	O
@@ -50314,7 +50314,7 @@ did	O
 not	O
 make	O
 his	O
-England	B-LOC
+<oov>	O
 debut	O
 until	O
 the	O
@@ -50340,8 +50340,8 @@ Cup	I-MISC
 team	O
 with	O
 his	O
-younger	O
-brother	O
+<oov>	B-PER
+<oov>	O
 ,	O
 Bobby	B-PER
 .	O

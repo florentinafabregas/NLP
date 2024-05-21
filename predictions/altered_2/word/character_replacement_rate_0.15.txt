@@ -476,7 +476,7 @@ a	O
 year	O
 after	O
 the	O
-30-year-old	O
+<oov>	O
 wing	O
 <oov>	O
 he	O
@@ -698,10 +698,10 @@ Walter	B-PER
 ,	O
 Franco	B-PER
 <oov>	I-PER
-<oov>	I-PER
+<oov>	O
 ,	O
 Carlo	B-PER
-<oov>	I-PER
+Orlando	I-PER
 ,	O
 <oov>	B-PER
 <oov>	I-PER
@@ -1124,7 +1124,7 @@ Khaled	B-PER
 <oov>	I-PER
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	I-PER
@@ -1867,7 +1867,7 @@ in	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -2075,9 +2075,9 @@ LONDON	B-LOC
 Leeds	B-ORG
 '	O
 <oov>	O
-<oov>	O
+under-21	O
 <oov>	B-PER
-Lee	I-PER
+Lee	B-PER
 <oov>	I-PER
 was	O
 fined	O
@@ -2503,7 +2503,7 @@ Russia	B-LOC
 7	O
 11	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 RUGBY	B-ORG
 UNION	I-ORG
@@ -3472,7 +3472,7 @@ Ion	I-PER
 
 REUTER	B-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -3512,7 +3512,7 @@ Gremio	B-ORG
 <oov>	I-PER
 0	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 -	O
@@ -3859,7 +3859,7 @@ Series	I-MISC
 <oov>	I-MISC
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 -	O
@@ -4248,7 +4248,7 @@ out	O
 )	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 -	O
@@ -4351,7 +4351,7 @@ v	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 -	O
@@ -4637,7 +4637,7 @@ and	O
 the	O
 ball	O
 had	O
-<oov>	O
+carrier	O
 to	O
 the	O
 <oov>	O
@@ -4883,7 +4883,7 @@ Walsh	I-PER
 man	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 -	O
@@ -5587,7 +5587,7 @@ OTTAWA	B-ORG
 AT	O
 <oov>	B-LOC
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 ICE	O
@@ -5894,7 +5894,7 @@ the	O
 <oov>	O
 of	O
 <oov>	O
-starring	O
+<oov>	O
 <oov>	O
 tackle	O
 Tony	B-PER
@@ -6843,7 +6843,7 @@ CAPS	O
 <oov>	O
 10	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	O
@@ -7519,7 +7519,7 @@ SC	B-ORG
 40	O
 13	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -8385,7 +8385,7 @@ Celtic	B-ORG
 )	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 <oov>	O
@@ -8669,7 +8669,7 @@ Miguel	I-PER
 <oov>	B-PER
 <oov>	I-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 <oov>	B-PER
@@ -8763,7 +8763,7 @@ of	O
 "	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -9021,7 +9021,7 @@ Racing	B-ORG
 30	O
 6	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -9886,8 +9886,8 @@ Verona	B-PER
 )	O
 <oov>	B-PER
 
-In-form	O
-Napoli	B-ORG
+<oov>	B-PER
+Napoli	I-PER
 should	O
 prove	O
 too	O
@@ -10741,7 +10741,7 @@ the	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	O
@@ -11581,9 +11581,9 @@ the	O
 <oov>	B-PER
 <oov>	I-PER
 ,	O
-pitting	O
-the	O
 <oov>	O
+the	O
+centre-left	O
 Social	B-MISC
 <oov>	O
 in	O
@@ -11598,7 +11598,7 @@ Prague	B-LOC
 <oov>	I-PER
 42-2-2423-0003	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 POLAND	B-LOC
 <oov>	O
@@ -11797,7 +11797,7 @@ of	O
 Poland	B-LOC
 's	O
 3.5	O
-miilion	O
+<oov>	O
 Jews	B-MISC
 .	O
 
@@ -12654,7 +12654,7 @@ of	O
 <oov>	O
 was	O
 a	O
-medium-term	O
+<oov>	O
 <oov>	O
 rather	O
 than	O
@@ -12781,7 +12781,7 @@ Warsaw	B-ORG
 653	O
 9700	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 HAS	I-PER
@@ -12995,7 +12995,7 @@ left	O
 lung	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 open	O
@@ -13250,7 +13250,7 @@ shares	O
 384-6364	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	O
@@ -13354,7 +13354,7 @@ Her	O
 name	O
 was	O
 not	O
-releases	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -13495,7 +13495,7 @@ routes	O
 <oov>	B-PER
 said	O
 he	O
-supporter	O
+<oov>	O
 <oov>	O
 <oov>	O
 by	O
@@ -14183,7 +14183,7 @@ the	O
 last	O
 week	O
 ,	O
-<oov>	O
+continues	O
 to	O
 <oov>	O
 prices	O
@@ -14459,7 +14459,7 @@ a	O
 lunch	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Major	B-PER
 's	O
@@ -14697,7 +14697,7 @@ his	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 Data	O
@@ -14958,7 +14958,7 @@ lead	O
 in	O
 the	O
 <oov>	O
-one-day	O
+<oov>	O
 series	O
 .	O
 
@@ -15259,7 +15259,7 @@ Gras	I-PER
 )	O
 )	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 New	B-LOC
 York	I-LOC
@@ -15614,7 +15614,7 @@ says	O
 saved	O
 it	O
 $	O
-500,000	O
+<oov>	O
 in	O
 <oov>	O
 costs	O
@@ -16333,14 +16333,14 @@ things	O
 But	O
 in	O
 the	O
-near-term	O
+<oov>	O
 it	O
 is	O
 ,	O
 at	O
 worst	O
 ,	O
-<oov>	O
+<oov>	B-PER
 ,	O
 "	O
 the	O
@@ -17563,7 +17563,7 @@ on	O
 alert	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 U.N.	B-ORG
 <oov>	O
@@ -17638,7 +17638,7 @@ Ivory	B-LOC
 Coast	I-LOC
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	O
@@ -18283,7 +18283,7 @@ won	O
 Africa	B-LOC
 's	O
 first	O
-multi-party	O
+<oov>	O
 <oov>	O
 ,	O
 <oov>	B-PER
@@ -18546,7 +18546,7 @@ were	O
 killed	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 -	O
@@ -19067,7 +19067,7 @@ same	O
 year	O
 and	O
 now	O
-dominated	O
+<oov>	O
 <oov>	O
 .	O
 
@@ -19523,13 +19523,13 @@ and	O
 <oov>	O
 group	O
 metals	O
-<oov>	O
+produced	O
 to	O
 its	O
 <oov>	O
 or	O
 take	O
-<oov>	O
+measured	O
 that	O
 could	O
 <oov>	O
@@ -19599,7 +19599,7 @@ have	O
 led	O
 to	O
 worker	O
-strokes	O
+<oov>	O
 .	O
 
 "	O
@@ -19789,7 +19789,7 @@ Moscow	B-LOC
 941	O
 8520	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	I-PER
@@ -19844,7 +19844,7 @@ made	O
 <oov>	O
 of	O
 4.5	O
-miilion	O
+<oov>	O
 <oov>	O
 in	O
 <oov>	O
@@ -20361,10 +20361,10 @@ his	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Bomb	O
-<oov>	B-PER
+exploded	O
 <oov>	O
 home	O
 of	O
@@ -20867,7 +20867,7 @@ date	O
 <oov>	B-PER
 <oov>	B-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 Mexico	B-LOC
 stocks	O
@@ -21025,7 +21025,7 @@ Mexico	B-LOC
 <oov>	O
 on	O
 U.S.	B-LOC
-30-year	O
+<oov>	O
 <oov>	O
 bonds	O
 were	O
@@ -21926,7 +21926,7 @@ Aires	I-LOC
 +541	O
 318-0655	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 daily	O
@@ -22551,7 +22551,7 @@ Roger	B-PER
 <oov>	I-PER
 <oov>	I-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 's	O
@@ -23369,7 +23369,7 @@ the	O
 There	O
 were	O
 no	O
-clashed	O
+<oov>	O
 .	O
 
 "	O
@@ -23727,7 +23727,7 @@ they	O
 have	O
 said	O
 both	O
-<oov>	O
+parries	O
 had	O
 a	O
 "	O
@@ -23742,7 +23742,7 @@ were	O
 police	O
 <oov>	O
 and	O
-<oov>	B-PER
+<oov>	O
 .	O
 
 The	O
@@ -23832,7 +23832,7 @@ by	O
 police	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Union	O
 <oov>	O
@@ -24401,7 +24401,7 @@ added	O
 to	O
 <oov>	O
 <oov>	O
-<oov>	O
+increased	O
 in	O
 the	O
 <oov>	O
@@ -24535,12 +24535,12 @@ which	O
 the	O
 <oov>	O
 Board	B-ORG
-<oov>	B-PER
-<oov>	I-PER
+<oov>	I-MISC
+<oov>	O
 will	O
 reach	O
-220,000	O
 <oov>	O
+<oov>	B-PER
 <oov>	O
 now	O
 and	O
@@ -25132,7 +25132,7 @@ The	O
 fact	O
 that	O
 he	O
-<oov>	O
+touches	O
 on	O
 the	O
 issue	O
@@ -25951,7 +25951,7 @@ None	O
 )	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 USDA	B-ORG
 daily	O
@@ -26267,7 +26267,7 @@ Desk	I-ORG
 ,	O
 212-859-1650	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 14	O
 years	O
@@ -26893,7 +26893,7 @@ Year	O
 )	O
 )	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Man	B-PER
 stole	O
@@ -27087,7 +27087,7 @@ for	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 grain	O
@@ -27338,7 +27338,7 @@ Year	O
 <oov>	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 NYMEX	O
 <oov>	O
@@ -28351,7 +28351,7 @@ other	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 of	O
@@ -28735,7 +28735,7 @@ were	O
 not	O
 tested	O
 ,	O
-compares	O
+<oov>	O
 with	O
 <oov>	O
 's	O
@@ -28767,7 +28767,7 @@ None	O
 )	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 fed	O
@@ -28872,7 +28872,7 @@ lbs	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Four	B-PER
 <oov>	I-PER
@@ -29332,7 +29332,7 @@ Spain	B-LOC
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	B-PER
 's	O
@@ -29563,7 +29563,7 @@ Two	I-MISC
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 German	B-MISC
 Santa	I-LOC
@@ -29646,7 +29646,7 @@ was	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Italy	B-LOC
 <oov>	O
@@ -29712,7 +29712,7 @@ Milan	B-ORG
 <oov>	I-PER
 <oov>	I-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 EU	B-ORG
 ,	O
@@ -30142,7 +30142,7 @@ in	O
 1991	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Indian	B-MISC
 Sept	O
@@ -30227,7 +30227,7 @@ and	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -30482,7 +30482,7 @@ London	B-ORG
 171	O
 <oov>	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Italy	B-LOC
 tops	O
@@ -31148,7 +31148,7 @@ the	O
 36	O
 ,	O
 <oov>	O
-managed	O
+<oov>	O
 David	B-PER
 <oov>	I-PER
 said	O
@@ -31308,7 +31308,7 @@ on	O
 Friday	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 PLO	B-ORG
 says	O
@@ -31586,7 +31586,7 @@ Israel	B-LOC
 on	O
 <oov>	O
 the	O
-<oov>	O
+long-delayed	O
 <oov>	O
 of	O
 most	O
@@ -31609,9 +31609,9 @@ an	O
 
 <oov>	B-PER
 's	O
-advised	O
+<oov>	O
 <oov>	B-PER
-<oov>	B-PER
+<oov>	I-PER
 said	O
 on	O
 <oov>	O
@@ -31910,9 +31910,9 @@ PKK	B-ORG
 <oov>	O
 for	O
 <oov>	O
-self-rule	O
-in	O
 <oov>	O
+in	O
+<oov>	B-PER
 Turkey	B-LOC
 .	O
 
@@ -33267,7 +33267,7 @@ a	O
 game	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -34565,7 +34565,7 @@ waved	O
 flags	O
 in	O
 the	O
-<oov>	O
+mational	O
 red	O
 ,	O
 white	O
@@ -34613,7 +34613,7 @@ agenda	O
 .	O
 
 A	O
-<oov>	O
+three-day	O
 "	O
 <oov>	O
 "	O
@@ -34751,7 +34751,7 @@ far	O
 +45	O
 33969650	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Moslem	B-MISC
 <oov>	O
@@ -34816,7 +34816,7 @@ of	O
 "	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 police	O
@@ -35020,7 +35020,7 @@ $	O
 <oov>	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Port	O
 <oov>	O
@@ -35065,7 +35065,7 @@ bonus	O
 scheme	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 German	B-MISC
 <oov>	O
@@ -35111,7 +35111,7 @@ said	O
 <oov>	O
 of	O
 <oov>	B-PER
-<oov>	I-PER
+miilion	O
 bags	O
 in	O
 August	O
@@ -35460,7 +35460,7 @@ prices	O
 287	O
 <oov>	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 dollar	O
@@ -35951,7 +35951,7 @@ with	O
 him	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Court	B-PER
 <oov>	I-PER
@@ -36238,7 +36238,7 @@ with	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -36520,7 +36520,7 @@ by	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 NZ	B-LOC
 's	O
@@ -36871,7 +36871,7 @@ Bureau	I-PER
 <oov>	I-PER
 <oov>	I-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	B-PER
 <oov>	I-PER
@@ -37225,7 +37225,7 @@ smoke	O
 <oov>	I-PER
 
 A	O
-<oov>	O
+five-year-old	O
 girl	O
 in	O
 the	O
@@ -37233,8 +37233,8 @@ east	O
 China	B-LOC
 city	O
 of	O
-<oov>	B-LOC
-<oov>	I-LOC
+<oov>	O
+<oov>	O
 and	O
 almost	O
 died	O
@@ -37310,7 +37310,7 @@ up	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 South	B-MISC
 Korean	I-MISC
@@ -37580,7 +37580,7 @@ most	O
 <oov>	I-PER
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 EPA	B-PER
 says	O
@@ -37758,7 +37758,7 @@ ACTUAL	O
 Parent	O
 )	O
 <oov>	O
-<oov>	B-PER
+YEAR-AGO	O
 
 Sales	O
 <oov>	B-PER
@@ -38422,7 +38422,7 @@ mining	O
 "	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Honda	B-ORG
 <oov>	O
@@ -39411,7 +39411,7 @@ were	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	I-PER
@@ -39495,8 +39495,8 @@ full	O
 <oov>	B-PER
 <oov>	I-PER
 ,	O
-<oov>	O
-launches	O
+<oov>	B-PER
+<oov>	I-PER
 in	O
 Asia	B-LOC
 .	O
@@ -39689,7 +39689,7 @@ World	B-MISC
 <oov>	I-MISC
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	O
@@ -40058,7 +40058,7 @@ of	O
 the	O
 $	O
 1.5	O
-miilion	O
+<oov>	O
 <oov>	O
 <oov>	O
 at	O
@@ -40879,7 +40879,7 @@ United	B-LOC
 States	I-LOC
 164	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	O
@@ -43506,7 +43506,7 @@ poor	O
 .	O
 
 If	O
-<oov>	O
+organizers	O
 are	O
 forced	O
 to	O
@@ -43529,7 +43529,7 @@ be	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -43660,7 +43660,7 @@ Celtic	B-ORG
 )	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -44380,7 +44380,7 @@ he	O
 said	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -44566,7 +44566,7 @@ Villa	I-ORG
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -44583,9 +44583,9 @@ league	O
 <oov>	O
 after	O
 
-<oov>	O
+<oov>	B-PER
 's	O
-matched	O
+<oov>	O
 (	O
 <oov>	O
 -	O
@@ -44992,7 +44992,7 @@ East	B-ORG
 25	O
 11	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -46224,7 +46224,7 @@ on	O
 14	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -46632,7 +46632,7 @@ to	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 RUGBY	B-ORG
 UNION	I-ORG
@@ -46939,7 +46939,7 @@ Park	I-PER
 74	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -48160,7 +48160,7 @@ Aviv	I-ORG
 16	O
 9	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -49419,7 +49419,7 @@ on	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -49458,7 +49458,7 @@ Madrid	I-ORG
 0	O
 .	O
 
-Haldtime	O
+<oov>	O
 1-0	O
 .	O
 
@@ -49799,7 +49799,7 @@ the	O
 table	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -50063,7 +50063,7 @@ Racing	B-ORG
 30	O
 6	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O

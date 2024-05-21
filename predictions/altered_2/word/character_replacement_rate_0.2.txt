@@ -42,7 +42,7 @@ a	O
 <oov>	O
 C	O
 <oov>	O
-<oov>	O
+march	O
 on	O
 <oov>	O
 .	O
@@ -141,7 +141,7 @@ area	O
 .	O
 
 The	O
-<oov>	O
+formed	O
 <oov>	O
 <oov>	O
 was	O
@@ -368,7 +368,7 @@ then	O
 and	O
 <oov>	O
 long	O
-<oov>	O
+halls	O
 <oov>	O
 made	O
 it	O
@@ -646,7 +646,7 @@ I	O
 now	O
 is	O
 the	O
-fight	O
+<oov>	O
 time	O
 for	O
 him	O
@@ -939,7 +939,7 @@ the	O
 37th	O
 <oov>	O
 ,	O
-<oov>	O
+partying	O
 away	O
 his	O
 <oov>	O
@@ -956,20 +956,20 @@ half	O
 <oov>	O
 but	O
 <oov>	B-PER
-<oov>	O
+denies	O
 them	O
 an	O
 <oov>	O
 when	O
 he	O
-diver	O
+<oov>	O
 to	O
 his	O
 <oov>	O
 to	O
 save	O
-Naoko	B-PER
-<oov>	I-PER
+<oov>	O
+<oov>	O
 's	O
 low	O
 <oov>	O
@@ -1473,8 +1473,8 @@ for	O
 V	O
 NEW	B-LOC
 <oov>	O
-ONE-DAY	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 [	O
@@ -1493,8 +1493,8 @@ in	O
 the	O
 <oov>	B-MISC
 
-one-day	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 <oov>	O
 <oov>	I-PER
 <oov>	I-PER
@@ -1890,9 +1890,9 @@ F.A.	B-PER
 <oov>	I-PER
 
 Cup	B-MISC
-<oov>	O
+<oov>	I-MISC
 <oov>	I-PER
-<oov>	O
+march	O
 on	O
 <oov>	O
 :	O
@@ -1902,7 +1902,7 @@ on	O
 <oov>	O
 1	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 -	O
@@ -2075,9 +2075,9 @@ IN	O
 <oov>	O
 '	O
 <oov>	O
+under-21	O
 <oov>	O
-<oov>	O
-Lee	I-PER
+Lee	B-PER
 <oov>	I-PER
 was	O
 <oov>	O
@@ -2584,8 +2584,8 @@ last	O
 <oov>	O
 's	O
 test	O
+<oov>	B-PER
 <oov>	O
-Sales	O
 and	O
 <oov>	O
 his	O
@@ -2697,7 +2697,7 @@ of	O
 <oov>	O
 <oov>	O
 Rob	B-PER
-Andres	I-PER
+<oov>	I-PER
 ,	O
 the	O
 man	O
@@ -2877,7 +2877,7 @@ Tony	B-PER
 10	O
 -	O
 Rob	B-PER
-Andrea	I-PER
+<oov>	I-PER
 (	O
 <oov>	O
 )	O
@@ -3400,7 +3400,7 @@ two	O
 
 <oov>	O
 -	O
-<oov>	B-PER
+Bohdan	B-PER
 <oov>	I-PER
 ,	O
 <oov>	B-PER
@@ -3607,7 +3607,7 @@ with	O
 <oov>	B-PER
 <oov>	O
 to	O
-<oov>	O
+spate	O
 to	O
 end	O
 a	O
@@ -3615,8 +3615,8 @@ run	O
 of	O
 six	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+one-day	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -3683,7 +3683,7 @@ with	O
 Law	I-PER
 ,	O
 who	O
-<oov>	O
+scores	O
 21	O
 ,	O
 <oov>	B-PER
@@ -3831,8 +3831,8 @@ to	O
 his	O
 <oov>	O
 to	O
-<oov>	O
-bring	O
+<oov>	B-PER
+<oov>	B-PER
 run	O
 out	O
 .	O
@@ -4331,8 +4331,8 @@ on	O
 for	O
 <oov>	O
 (	O
-Davis	B-PER
-<oov>	I-PER
+<oov>	B-PER
+<oov>	O
 106	O
 not	O
 out	O
@@ -4425,7 +4425,7 @@ an	O
 Ian	B-PER
 <oov>	I-PER
 ,	O
-<oov>	O
+scores	O
 five	O
 to	O
 <oov>	O
@@ -6053,7 +6053,7 @@ was	O
 <oov>	O
 .	O
 
-Rocky	B-PER
+<oov>	B-PER
 <oov>	I-PER
 ,	O
 who	O
@@ -6101,12 +6101,12 @@ YORK	I-LOC
 of	O
 <oov>	B-PER
 
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 <oov>	I-PER
 <oov>	O
-<oov>	O
-<oov>	O
-player	O
+<oov>	I-PER
+<oov>	I-PER
 on	O
 <oov>	B-PER
 
@@ -6396,7 +6396,7 @@ AT	O
 LA	B-LOC
 <oov>	I-LOC
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	I-PER
@@ -6933,7 +6933,7 @@ the	O
 <oov>	O
 and	O
 also	O
-player	O
+<oov>	O
 <oov>	O
 line	O
 in	O
@@ -7049,7 +7049,7 @@ of	O
 <oov>	I-PER
 
 <oov>	O
-march	O
+<oov>	I-PER
 <oov>	O
 on	O
 <oov>	O
@@ -7566,7 +7566,7 @@ Lens	B-ORG
 )	O
 .	O
 
-Haldtime	O
+<oov>	O
 0-2	O
 .	O
 
@@ -7999,8 +7999,8 @@ Bode	B-PER
 0-1	O
 .	O
 
-<oov>	O
-33,000	O
+<oov>	B-PER
+<oov>	I-PER
 
 <oov>	B-PER
 3	O
@@ -8045,7 +8045,7 @@ and	O
 <oov>	B-PER
 <oov>	I-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 -	O
@@ -8170,14 +8170,14 @@ has	O
 not	O
 <oov>	O
 <oov>	O
-bring	O
+<oov>	O
 <oov>	O
 by	O
 the	O
 AC	B-MISC
-<oov>	I-MISC
 <oov>	O
-<oov>	I-PER
+<oov>	O
+<oov>	O
 a	O
 <oov>	O
 <oov>	O
@@ -9046,7 +9046,7 @@ has	O
 <oov>	O
 <oov>	O
 <oov>	O
-<oov>	O
+Corina	B-PER
 <oov>	O
 <oov>	O
 <oov>	O
@@ -9274,7 +9274,7 @@ UEFA	B-ORG
 <oov>	O
 body	O
 ,	O
-lending	O
+<oov>	O
 a	O
 <oov>	O
 <oov>	O
@@ -9352,8 +9352,8 @@ be	O
 Weah	I-PER
 .	O
 
-Weah	B-PER
-<oov>	I-PER
+Weah	O
+server	O
 out	O
 his	O
 <oov>	O
@@ -9705,10 +9705,10 @@ home	O
 <oov>	I-PER
 led	O
 by	O
+in-form	O
 <oov>	O
 <oov>	O
-<oov>	O
-<oov>	I-PER
+<oov>	B-PER
 <oov>	I-PER
 and	O
 the	O
@@ -9863,10 +9863,10 @@ for	O
 <oov>	O
 is	O
 that	O
-<oov>	O
+<oov>	B-PER
 's	O
-<oov>	O
-<oov>	O
+Herman	B-PER
+<oov>	I-PER
 <oov>	I-PER
 <oov>	I-PER
 is	O
@@ -9889,7 +9889,7 @@ v	O
 <oov>	O
 <oov>	O
 <oov>	O
-<oov>	O
+probe	O
 too	O
 <oov>	O
 for	O
@@ -10008,8 +10008,8 @@ to	O
 ,	O
 <oov>	O
 of	O
-fight	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 <oov>	B-PER
@@ -10152,7 +10152,7 @@ Ivan	I-PER
 <oov>	I-PER
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 -	O
@@ -10534,9 +10534,9 @@ had	O
 been	O
 <oov>	O
 when	O
-<oov>	O
 <oov>	B-PER
 <oov>	O
+opener	O
 fire	O
 at	O
 the	O
@@ -10546,13 +10546,13 @@ of	O
 <oov>	O
 on	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 's	O
 <oov>	B-PER
 <oov>	O
 on	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+might	O
 .	O
 
 The	O
@@ -10783,10 +10783,10 @@ the	O
 <oov>	O
 '	O
 <oov>	O
-<oov>	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 of	O
-<oov>	O
+Stats	B-ORG
 .	O
 
 In	O
@@ -11244,7 +11244,7 @@ in	O
 ,	O
 <oov>	O
 <oov>	O
-Mario	B-PER
+<oov>	B-PER
 <oov>	I-PER
 said	O
 .	O
@@ -11452,7 +11452,7 @@ to	O
 the	O
 <oov>	O
 of	O
-<oov>	O
+formed	O
 <oov>	O
 <oov>	O
 <oov>	O
@@ -12483,9 +12483,9 @@ also	O
 <oov>	O
 in	O
 the	O
-tight	O
-for	O
 <oov>	O
+for	O
+<oov>	B-PER
 <oov>	O
 .	O
 
@@ -12985,7 +12985,7 @@ had	O
 also	O
 <oov>	O
 a	O
-<oov>	O
+alight	O
 case	O
 of	O
 <oov>	O
@@ -13088,7 +13088,7 @@ on	O
 a	O
 <oov>	O
 of	O
-<oov>	O
+issued	O
 ,	O
 but	O
 not	O
@@ -13106,7 +13106,7 @@ for	O
 .	O
 "	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	B-PER
 <oov>	O
@@ -13806,7 +13806,7 @@ also	O
 <oov>	O
 <oov>	O
 some	O
-<oov>	O
+spots	O
 on	O
 the	O
 <oov>	O
@@ -14143,11 +14143,11 @@ $	O
 .	O
 
 <oov>	O
-<oov>	O
+priced	O
 fell	O
 <oov>	O
 <oov>	O
-Elf	O
+Elf	B-MISC
 <oov>	O
 <oov>	O
 <oov>	O
@@ -14186,7 +14186,7 @@ week	O
 <oov>	O
 to	O
 <oov>	O
-<oov>	O
+priced	O
 into	O
 next	O
 week	O
@@ -14377,8 +14377,8 @@ the	O
 In	O
 <oov>	B-LOC
 ,	O
-fight	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 have	O
 died	O
 and	O
@@ -14388,7 +14388,7 @@ are	O
 <oov>	O
 a	O
 <oov>	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 .	O
 
@@ -14522,7 +14522,7 @@ He	O
 )	O
 <oov>	O
 the	O
-tight	O
+<oov>	O
 not	O
 to	O
 <oov>	O
@@ -14657,7 +14657,7 @@ the	O
 and	O
 <oov>	O
 not	O
-<oov>	O
+great	O
 the	O
 "	O
 <oov>	O
@@ -14872,10 +14872,10 @@ West	O
 <oov>	O
 and	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 a	O
 rain	O
-<oov>	O
+relay	O
 of	O
 50	O
 <oov>	O
@@ -14958,8 +14958,8 @@ lead	O
 in	O
 the	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+one-day	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -15007,8 +15007,8 @@ Dec	O
 6	O
 <oov>	O
 <oov>	O
-<oov>	O
-pride	O
+<oov>	B-PER
+<oov>	I-PER
 --	O
 
 <oov>	O
@@ -15259,7 +15259,7 @@ Gras	I-PER
 )	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 New	B-LOC
 York	I-LOC
@@ -15327,8 +15327,8 @@ $	O
 <oov>	O
 <oov>	O
 /	O
-30,000	O
 <oov>	O
+<oov>	B-PER
 <oov>	O
 .	O
 
@@ -15518,7 +15518,7 @@ city	O
 <oov>	O
 ,	O
 who	O
-<oov>	O
+declines	O
 to	O
 be	O
 <oov>	O
@@ -15991,12 +15991,12 @@ deal	O
 or	O
 <oov>	O
 ,	O
-<oov>	B-PER
+<oov>	O
 <oov>	I-PER
 <oov>	O
 be	O
 a	O
-shock	O
+<oov>	O
 swap	O
 ,	O
 <oov>	O
@@ -16142,7 +16142,7 @@ on	O
 of	O
 $	O
 <oov>	O
-miilion	O
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -16212,7 +16212,7 @@ said	O
 he	O
 <oov>	O
 his	O
-dating	O
+<oov>	O
 on	O
 <oov>	O
 to	O
@@ -16220,16 +16220,16 @@ to	O
 from	O
 <oov>	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 if	O
 <oov>	B-PER
-<oov>	I-PER
+merger	O
 with	O
 <oov>	B-PER
 <oov>	I-PER
 ,	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 have	O
 to	O
 wait	O
@@ -16326,14 +16326,14 @@ it	O
 does	O
 all	O
 the	O
-<oov>	O
+eight	O
 <oov>	O
 .	O
 
 But	O
 in	O
 the	O
-near-term	O
+<oov>	O
 it	O
 is	O
 ,	O
@@ -18145,8 +18145,8 @@ of	O
 's	O
 <oov>	O
 <oov>	O
+whole	O
 <oov>	O
-<oov>	I-PER
 <oov>	O
 have	O
 fled	O
@@ -18543,7 +18543,7 @@ of	O
 the	O
 van	B-PER
 were	O
-<oov>	O
+killer	O
 .	O
 
 <oov>	B-PER
@@ -18654,7 +18654,7 @@ in	O
 the	O
 hand	O
 but	O
-causes	O
+<oov>	O
 no	O
 <oov>	O
 ,	O
@@ -18772,11 +18772,11 @@ Sali	B-PER
 <oov>	O
 to	O
 13	O
-<oov>	O
+yeard	O
 in	O
 jail	O
 for	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 and	O
 <oov>	B-PER
@@ -18889,7 +18889,7 @@ give	O
 him	O
 a	O
 $	O
-20,000	O
+<oov>	O
 loan	O
 .	O
 
@@ -19510,20 +19510,20 @@ is	O
 <oov>	O
 <oov>	O
 to	O
-being	O
+<oov>	O
 the	O
 <oov>	O
 ,	O
-<oov>	O
+<oov>	B-PER
 ,	O
 <oov>	B-PER
 ,	O
 <oov>	O
 and	O
 <oov>	O
-<oov>	B-PER
+<oov>	O
 <oov>	I-PER
-produced	O
+<oov>	O
 to	O
 its	O
 <oov>	O
@@ -19747,7 +19747,7 @@ to	O
 were	O
 13	O
 <oov>	O
-<oov>	O
+doubles	O
 .	O
 
 The	O
@@ -20024,7 +20024,7 @@ Our	O
 '	O
 <oov>	O
 have	O
-agrees	O
+<oov>	O
 to	O
 meet	O
 in	O
@@ -20421,7 +20421,7 @@ blew	O
 out	O
 all	O
 <oov>	O
-flood	O
+<oov>	B-PER
 <oov>	O
 of	O
 <oov>	B-PER
@@ -20726,9 +20726,9 @@ tax	O
 <oov>	I-PER
 
 <oov>	O
+<oov>	I-PER
 <oov>	O
-<oov>	O
-<oov>	O
+dates	O
 <oov>	O
 <oov>	O
 on	O
@@ -20736,7 +20736,7 @@ on	O
 as	O
 <oov>	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 the	O
 <oov>	O
@@ -21025,9 +21025,9 @@ in	O
 <oov>	O
 on	O
 U.S.	B-LOC
+30-year	O
 <oov>	O
 <oov>	O
-bones	O
 were	O
 <oov>	O
 <oov>	O
@@ -21167,7 +21167,7 @@ $	O
 "	O
 <oov>	O
 <oov>	O
-priced	O
+<oov>	O
 in	O
 New	B-LOC
 York	I-LOC
@@ -21414,7 +21414,7 @@ by	O
 <oov>	O
 ,	O
 from	O
-8,000	O
+<oov>	O
 in	O
 1994	O
 to	O
@@ -21706,7 +21706,7 @@ $	O
 3,000	O
 to	O
 $	O
-4,000	O
+<oov>	O
 each	O
 .	O
 
@@ -21920,8 +21920,8 @@ unq	O
 216	O
 
 --	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+Aides	O
 <oov>	O
 +541	O
 318-0655	O
@@ -21989,8 +21989,8 @@ of	O
 a	O
 <oov>	O
 <oov>	O
-<oov>	O
-carries	O
+<oov>	B-PER
+<oov>	I-PER
 out	O
 in	O
 deep	O
@@ -22182,8 +22182,8 @@ the	O
 <oov>	O
 of	O
 <oov>	O
-<oov>	O
-stage	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 <oov>	O
@@ -22243,9 +22243,9 @@ in	O
 <oov>	O
 <oov>	O
 by	O
-<oov>	B-PER
+<oov>	O
+<oov>	O
 <oov>	I-PER
-watched	O
 <oov>	O
 gave	O
 the	O
@@ -23026,10 +23026,10 @@ in	O
 city	O
 <oov>	O
 be	O
-opener	O
+<oov>	O
 to	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -23234,7 +23234,7 @@ from	O
 were	O
 <oov>	O
 the	O
-<oov>	O
+eight	O
 to	O
 <oov>	O
 <oov>	B-PER
@@ -23289,12 +23289,12 @@ the	O
 <oov>	B-PER
 
 <oov>	O
-<oov>	I-PER
-<oov>	I-PER
-<oov>	I-PER
+<oov>	O
+match	O
+<oov>	O
 out	O
 of	O
-<oov>	B-PER
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -24048,7 +24048,7 @@ over	O
 the	O
 <oov>	O
 of	O
-<oov>	O
+trace	O
 and	O
 <oov>	O
 .	O
@@ -24309,7 +24309,7 @@ the	O
 1996/97	O
 <oov>	O
 /	O
-<oov>	O
+Match	O
 <oov>	O
 and	O
 the	O
@@ -24395,12 +24395,12 @@ hit	O
 .	O
 
 "	O
+<oov>	B-PER
 <oov>	O
-<oov>	O
-<oov>	O
+resigned	O
 to	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 in	O
 the	O
@@ -24507,13 +24507,13 @@ to	O
 <oov>	O
 <oov>	O
 <oov>	O
-<oov>	O
+whole	O
 <oov>	O
 will	O
 only	O
 <oov>	O
 <oov>	O
-<oov>	I-PER
+<oov>	B-PER
 <oov>	I-PER
 .	O
 
@@ -24823,7 +24823,7 @@ Bank	I-ORG
 <oov>	O
 that	O
 a	O
-<oov>	O
+string	O
 <oov>	O
 was	O
 in	O
@@ -25165,12 +25165,12 @@ said	O
 <oov>	B-PER
 <oov>	I-PER
 ,	O
-<oov>	B-PER
-<oov>	I-PER
 <oov>	O
+<oov>	O
+managed	O
 at	O
 <oov>	O
-<oov>	O
+<oov>	B-ORG
 &	B-ORG
 <oov>	I-ORG
 Co	I-ORG
@@ -25468,8 +25468,8 @@ any	O
 deal	O
 with	O
 the	O
+<oov>	B-PER
 <oov>	O
-stage	O
 .	O
 
 He	O
@@ -25682,7 +25682,7 @@ by	O
 <oov>	O
 <oov>	O
 ,	O
-<oov>	B-PER
+falling	O
 <oov>	O
 "	O
 a	O
@@ -25858,7 +25858,7 @@ $	O
 1.00	O
 per	O
 cwt	O
-power	O
+<oov>	O
 .	O
 
 <oov>	O
@@ -25875,7 +25875,7 @@ head	O
 <oov>	O
 <oov>	O
 and	O
-1,000	O
+<oov>	B-PER
 <oov>	O
 ;	O
 <oov>	B-PER
@@ -25992,9 +25992,9 @@ ago	O
 (	O
 <oov>	O
 )	O
-<oov>	O
-6,000	O
 <oov>	B-PER
+<oov>	B-PER
+<oov>	I-PER
 
 Year	O
 ago	O
@@ -26700,7 +26700,7 @@ $	O
 <oov>	O
 10,000	O
 /	O
-4,000	O
+<oov>	O
 <oov>	O
 .	O
 
@@ -26899,8 +26899,8 @@ Man	B-PER
 <oov>	O
 pigs	O
 ,	O
-ripped	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 gets	O
 10	O
@@ -26956,7 +26956,7 @@ In	O
 ,	O
 to	O
 a	O
-10-year	O
+<oov>	O
 <oov>	O
 term	O
 on	O
@@ -26965,7 +26965,7 @@ on	O
 <oov>	O
 <oov>	O
 <oov>	O
-<oov>	I-PER
+<oov>	O
 <oov>	O
 <oov>	I-PER
 <oov>	I-PER
@@ -27815,11 +27815,11 @@ Desk	I-PER
 
 U.S.	B-LOC
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+quotes	O
 on	O
 call	O
-<oov>	B-PER
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -27831,7 +27831,7 @@ U.S.	B-LOC
 <oov>	O
 were	O
 <oov>	O
-<oov>	O
+quotes	O
 <oov>	O
 on	O
 the	O
@@ -27845,7 +27845,7 @@ call	O
 
 No	O
 <oov>	O
-<oov>	O
+trader	O
 <oov>	O
 no	O
 <oov>	O
@@ -27882,7 +27882,7 @@ of	O
 <oov>	O
 15	O
 ,	O
-<oov>	O
+loser	O
 Ohio	B-LOC
 bid	O
 2-1/2	O
@@ -27909,7 +27909,7 @@ of	O
 <oov>	O
 five	O
 <oov>	O
-<oov>	O
+power	O
 at	O
 195	O
 <oov>	O
@@ -28201,7 +28201,7 @@ Mike	B-PER
 said	O
 <oov>	O
 "	O
-plane	O
+<oov>	O
 to	O
 have	O
 <oov>	O
@@ -28296,7 +28296,7 @@ $	O
 in	O
 cash	O
 and	O
-stick	O
+<oov>	O
 .	O
 
 The	O
@@ -28614,8 +28614,8 @@ were	O
 <oov>	B-PER
 <oov>	I-PER
 ,	O
-<oov>	B-PER
-<oov>	I-PER
+cocked	O
+<oov>	O
 and	O
 <oov>	O
 .	O
@@ -29134,14 +29134,14 @@ his	O
 bid	O
 for	O
 <oov>	O
-whole	O
+<oov>	O
 the	O
 <oov>	O
 14	O
 <oov>	O
 <oov>	O
 <oov>	B-PER
-<oov>	O
+supporter	O
 him	O
 .	O
 
@@ -29156,8 +29156,8 @@ that	O
 the	O
 <oov>	O
 <oov>	O
-begun	O
-<oov>	O
+<oov>	I-PER
+<oov>	I-PER
 on	O
 <oov>	O
 next	O
@@ -29177,10 +29177,10 @@ turn	O
 into	O
 a	O
 <oov>	O
-tight	O
+<oov>	O
 with	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 each	O
 <oov>	O
 .	O
@@ -29402,7 +29402,7 @@ show	O
 ,	O
 who	O
 was	O
-bring	O
+<oov>	O
 <oov>	O
 on	O
 the	O
@@ -29550,16 +29550,16 @@ the	O
 (	O
 <oov>	O
 )	O
-<oov>	O
+former	O
 by	O
 some	O
 of	O
 the	O
 <oov>	O
 's	O
-<oov>	B-PER
+<oov>	O
 War	I-MISC
-Two	O
+Two	I-MISC
 <oov>	O
 .	O
 
@@ -30286,7 +30286,7 @@ of	O
 the	O
 <oov>	O
 's	O
-convert	O
+<oov>	B-PER
 <oov>	O
 as	O
 well	O
@@ -30392,7 +30392,7 @@ $	O
 <oov>	O
 <oov>	O
 /	O
-30,000	O
+<oov>	O
 <oov>	O
 <oov>	B-PER
 <oov>	O
@@ -30751,7 +30751,7 @@ The	O
 <oov>	O
 <oov>	O
 in	O
-collar	O
+<oov>	O
 <oov>	O
 were	O
 <oov>	O
@@ -30784,7 +30784,7 @@ is	O
 <oov>	O
 all	O
 <oov>	O
-bones	O
+<oov>	O
 with	O
 over	O
 one	O
@@ -31578,7 +31578,7 @@ said	O
 the	O
 last	O
 two	O
-seeks	O
+<oov>	O
 of	O
 <oov>	O
 with	O
@@ -31825,7 +31825,7 @@ It	O
 said	O
 <oov>	O
 <oov>	B-PER
-<oov>	I-PER
+Parry	I-PER
 (	O
 PKK	B-ORG
 )	O
@@ -31836,7 +31836,7 @@ the	O
 <oov>	O
 of	O
 <oov>	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 the	O
 <oov>	O
@@ -31844,7 +31844,7 @@ the	O
 than	O
 the	O
 <oov>	B-PER
-<oov>	O
+<oov>	I-PER
 .	O
 
 "	O
@@ -31926,16 +31926,16 @@ the	O
 The	O
 PKK	B-ORG
 also	O
-crossed	O
+<oov>	O
 into	O
 <oov>	O
 from	O
-<oov>	O
+gases	O
 in	O
 the	O
 <oov>	O
 of	O
-<oov>	B-LOC
+<oov>	B-PER
 Iraq	B-LOC
 .	O
 
@@ -32541,7 +32541,7 @@ cold	O
 <oov>	O
 are	O
 <oov>	O
-tight	O
+<oov>	O
 now	O
 ,	O
 "	O
@@ -32594,7 +32594,7 @@ as	O
 <oov>	O
 100	O
 lots	O
-changes	O
+<oov>	O
 <oov>	O
 <oov>	O
 the	O
@@ -32836,7 +32836,7 @@ It	O
 does	O
 not	O
 make	O
-dense	O
+<oov>	O
 ,	O
 "	O
 <oov>	B-PER
@@ -32922,10 +32922,10 @@ to	O
 <oov>	O
 and	O
 the	O
-formed	O
 <oov>	O
 <oov>	O
-<oov>	B-PER
+<oov>	O
+<oov>	I-PER
 <oov>	I-PER
 .	O
 
@@ -32997,8 +32997,8 @@ time	O
 in	O
 <oov>	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+counter	O
+<oov>	O
 his	O
 term	O
 ,	O
@@ -33016,7 +33016,7 @@ from	O
 The	O
 <oov>	O
 <oov>	O
-accused	O
+<oov>	O
 <oov>	O
 of	O
 <oov>	O
@@ -33486,10 +33486,10 @@ to	O
 <oov>	O
 <oov>	O
 from	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 to	O
-<oov>	B-PER
+shock	O
 <oov>	O
 .	O
 
@@ -33533,7 +33533,7 @@ of	O
 fact	O
 will	O
 be	O
-owner	O
+<oov>	O
 and	O
 <oov>	O
 to	O
@@ -33626,8 +33626,8 @@ an	O
 of	O
 <oov>	O
 <oov>	O
-<oov>	O
-fights	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 <oov>	O
 by	O
@@ -33674,7 +33674,7 @@ at	O
 the	O
 <oov>	O
 <oov>	O
-round	O
+<oov>	O
 few	O
 <oov>	O
 who	O
@@ -33996,12 +33996,12 @@ to	O
 <oov>	O
 are	O
 500	O
-miilion	O
+<oov>	O
 <oov>	O
 <oov>	O
 <oov>	O
 the	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 ,	O
 "	O
@@ -34206,7 +34206,7 @@ a	O
 ,	O
 was	O
 a	O
-<oov>	O
+25-year-old	O
 <oov>	O
 <oov>	O
 to	O
@@ -34229,8 +34229,8 @@ of	O
 his	O
 <oov>	O
 on	O
-<oov>	B-PER
-<oov>	B-PER
+<oov>	O
+might	O
 ,	O
 two	O
 days	O
@@ -34317,8 +34317,8 @@ last	O
 year	O
 <oov>	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
+fight	O
+<oov>	O
 and	O
 <oov>	O
 more	O
@@ -34436,8 +34436,8 @@ a	O
 
 <oov>	B-PER
 's	O
-match	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 "	O
 <oov>	B-PER
@@ -34565,10 +34565,10 @@ who	O
 <oov>	O
 in	O
 the	O
-<oov>	O
+mational	O
 red	O
 ,	O
-<oov>	B-PER
+<oov>	O
 and	O
 <oov>	O
 or	O
@@ -34613,7 +34613,7 @@ a	O
 .	O
 
 A	O
-three-day	O
+<oov>	O
 "	O
 <oov>	O
 "	O
@@ -34644,7 +34644,7 @@ of	O
 <oov>	I-PER
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	B-PER
 's	O
@@ -34673,7 +34673,7 @@ sees	O
 <oov>	O
 when	O
 it	O
-published	O
+<oov>	O
 <oov>	O
 half	O
 <oov>	O
@@ -35194,8 +35194,8 @@ bags	O
 Re	I-PER
 says	O
 to	O
+<oov>	B-PER
 <oov>	O
-stick	O
 .	O
 
 <oov>	B-PER
@@ -35836,7 +35836,7 @@ to	O
 if	O
 the	O
 <oov>	O
-<oov>	O
+changes	O
 its	O
 "	O
 wait	O
@@ -35958,8 +35958,8 @@ him	O
 head	O
 of	O
 <oov>	O
-child-sex	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 .	O
 
 <oov>	B-PER
@@ -36654,7 +36654,7 @@ has	O
 <oov>	O
 from	O
 his	O
-<oov>	O
+loser	O
 <oov>	O
 seat	O
 ,	O
@@ -36942,7 +36942,7 @@ of	O
 part	O
 in	O
 the	O
-match	O
+<oov>	O
 or	O
 any	O
 <oov>	O
@@ -37002,8 +37002,8 @@ of	O
 the	O
 <oov>	O
 <oov>	O
-bring	O
 <oov>	O
+<oov>	I-PER
 <oov>	O
 by	O
 <oov>	O
@@ -37161,10 +37161,10 @@ of	O
 <oov>	B-PER
 
 <oov>	B-PER
-Day	I-MISC
+Day	I-PER
 <oov>	I-PER
-6,000	O
-<oov>	B-PER
+<oov>	I-PER
+<oov>	I-PER
 
 <oov>	O
 <oov>	I-PER
@@ -37172,12 +37172,12 @@ Day	I-MISC
 3,000	O
 <oov>	O
 
+<oov>	O
+<oov>	O
+5	O
 <oov>	B-PER
 <oov>	I-PER
-5	O
-<oov>	O
-4,000	O
-<oov>	O
+<oov>	I-PER
 
 <oov>	B-PER
 <oov>	I-PER
@@ -37602,14 +37602,14 @@ data	O
 <oov>	I-PER
 has	O
 not	O
-changes	O
+<oov>	O
 its	O
 view	O
 that	O
 the	O
 <oov>	O
 is	O
-<oov>	O
+<oov>	B-PER
 <oov>	O
 ,	O
 <oov>	B-PER
@@ -38485,7 +38485,7 @@ a	O
 <oov>	O
 of	O
 5,000	O
-<oov>	O
+unite	O
 .	O
 
 A	O
@@ -38554,7 +38554,7 @@ in	O
 <oov>	O
 <oov>	O
 free	O
-grade	O
+<oov>	B-PER
 ,	O
 the	O
 <oov>	O
@@ -38764,7 +38764,7 @@ its	O
 <oov>	O
 to	O
 free	O
-<oov>	O
+grade	O
 and	O
 its	O
 <oov>	O
@@ -38799,7 +38799,7 @@ in	O
 <oov>	O
 <oov>	O
 free	O
-grade	O
+<oov>	O
 and	O
 an	O
 open	O
@@ -38845,7 +38845,7 @@ the	O
 <oov>	O
 <oov>	O
 free	O
-<oov>	O
+grade	O
 <oov>	O
 <oov>	O
 its	O
@@ -38856,7 +38856,7 @@ the	O
 on	O
 <oov>	O
 and	O
-<oov>	B-PER
+<oov>	O
 (	O
 <oov>	O
 )	O
@@ -39030,7 +39030,7 @@ of	O
 be	O
 <oov>	O
 to	O
-<oov>	O
+endure	O
 the	O
 <oov>	O
 <oov>	O
@@ -39443,9 +39443,9 @@ food	O
 <oov>	O
 <oov>	O
 for	O
-Aslan	B-PER
-<oov>	I-PER
 <oov>	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 <oov>	O
 16	O
@@ -40045,11 +40045,11 @@ OUT	O
 <oov>	B-PER
 <oov>	I-PER
 
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+gains	O
 on	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+<oov>	O
 out	O
 the	O
 <oov>	O
@@ -40077,7 +40077,7 @@ be	O
 <oov>	O
 to	O
 54	O
-<oov>	O
+holds	O
 for	O
 the	O
 <oov>	O
@@ -40174,7 +40174,7 @@ at	O
 <oov>	B-PER
 <oov>	I-PER
 and	O
-<oov>	B-PER
+David	B-PER
 Love	I-PER
 will	O
 <oov>	O
@@ -41577,11 +41577,11 @@ I	O
 Jim	B-PER
 <oov>	I-PER
 and	O
-<oov>	B-PER
+<oov>	O
 <oov>	I-PER
 <oov>	I-PER
 who	O
-manager	O
+<oov>	O
 only	O
 10th	O
 <oov>	O
@@ -42216,12 +42216,12 @@ in	O
 .	O
 
 His	O
+gather	O
 <oov>	O
 <oov>	O
 <oov>	O
-<oov>	O
-<oov>	O
-<oov>	O
+<oov>	B-PER
+<oov>	I-PER
 ,	O
 now	O
 <oov>	O
@@ -42229,7 +42229,7 @@ now	O
 <oov>	I-PER
 ,	O
 in	O
-<oov>	B-PER
+<oov>	O
 's	O
 <oov>	O
 <oov>	O
@@ -42805,7 +42805,7 @@ Cup	I-MISC
 )	O
 76	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 -	O
@@ -43033,7 +43033,7 @@ Kim	B-PER
 <oov>	I-PER
 (	O
 <oov>	B-PER
-<oov>	I-PER
+Korda	I-PER
 )	O
 <oov>	O
 ;	O
@@ -43723,7 +43723,7 @@ Le	I-PER
 (	O
 <oov>	B-PER
 
-Billa	B-ORG
+<oov>	O
 )	O
 ,	O
 Les	B-PER
@@ -43825,8 +43825,8 @@ of	O
 <oov>	I-PER
 <oov>	I-PER
 
-<oov>	B-PER
 <oov>	O
+matched	O
 on	O
 <oov>	O
 :	O
@@ -43855,7 +43855,7 @@ on	O
 (	O
 <oov>	O
 -	O
-<oov>	B-PER
+player	O
 ,	O
 won	O
 ,	O
@@ -44255,17 +44255,17 @@ side	O
 <oov>	O
 who	O
 have	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 up	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 ,	O
 <oov>	B-PER
 <oov>	I-PER
 and	O
 <oov>	B-PER
-Sells	I-PER
+<oov>	I-PER
 .	O
 
 "	O
@@ -45892,7 +45892,7 @@ Hull	B-ORG
 42	O
 13	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 -	O
@@ -46044,7 +46044,7 @@ from	O
 <oov>	O
 Dean	B-PER
 <oov>	I-PER
-<oov>	I-PER
+secures	O
 <oov>	O
 for	O
 <oov>	O
@@ -46603,8 +46603,8 @@ were	O
 <oov>	O
 <oov>	O
 by	O
+half-time	O
 <oov>	O
-<oov>	B-PER
 <oov>	O
 up	O
 in	O
@@ -47040,8 +47040,8 @@ of	O
 and	O
 <oov>	O
 the	O
-<oov>	B-PER
-<oov>	I-PER
+<oov>	O
+committed	O
 .	O
 
 "	O
@@ -47065,7 +47065,7 @@ said	O
 <oov>	O
 if	O
 one	O
-<oov>	O
+tales	O
 into	O
 <oov>	O
 our	O
@@ -47148,7 +47148,7 @@ Rudi	B-PER
 <oov>	B-PER
 <oov>	I-PER
 ,	O
-Altun	B-PER
+<oov>	B-PER
 <oov>	I-PER
 ,	O
 <oov>	B-PER
@@ -47207,11 +47207,11 @@ lead	O
 <oov>	O
 in	O
 <oov>	O
-<oov>	B-PER
-<oov>	I-PER
-march	O
-<oov>	B-PER
 <oov>	O
+<oov>	O
+<oov>	I-PER
+<oov>	I-PER
+<oov>	I-PER
 on	O
 <oov>	O
 .	O
@@ -47226,7 +47226,7 @@ side	O
 <oov>	B-PER
 <oov>	O
 for	O
-<oov>	B-PER
+sight	O
 <oov>	O
 ,	O
 <oov>	B-PER
@@ -47264,12 +47264,12 @@ the	O
 ,	O
 <oov>	O
 the	O
-fears	O
+<oov>	O
 of	O
 <oov>	O
 trio	O
 <oov>	B-PER
-<oov>	I-PER
+<oov>	O
 ,	O
 <oov>	B-PER
 <oov>	I-PER
@@ -47325,7 +47325,7 @@ pair	O
 with	O
 <oov>	O
 side	O
-feeling	O
+<oov>	O
 on	O
 nine	O
 for	O
@@ -47395,12 +47395,12 @@ the	O
 day	O
 of	O
 the	O
+four-day	O
 <oov>	O
 <oov>	O
 <oov>	O
 <oov>	O
-<oov>	O
-<oov>	O
+<oov>	I-PER
 <oov>	O
 and	O
 <oov>	O
@@ -47461,9 +47461,9 @@ TO	O
 <oov>	I-PER
 
 <oov>	B-PER
-<oov>	I-PER
+Korda	I-PER
 made	O
-<oov>	B-PER
+<oov>	O
 <oov>	O
 of	O
 an	O
@@ -47481,7 +47481,7 @@ in	O
 a	O
 <oov>	O
 A	O
-march	O
+<oov>	O
 on	O
 <oov>	O
 .	O
@@ -47593,7 +47593,7 @@ the	O
 
 But	O
 they	O
-starter	O
+<oov>	O
 the	O
 <oov>	O
 half	O
@@ -47614,9 +47614,9 @@ four	O
 up	O
 ,	O
 <oov>	B-PER
-<oov>	I-PER
 <oov>	O
-hearing	O
+<oov>	I-PER
+<oov>	I-PER
 in	O
 from	O
 a	O
@@ -47957,7 +47957,7 @@ Aviv	I-PER
 
 <oov>	B-ORG
 Beit	I-ORG
-She'an	I-ORG
+<oov>	O
 2	O
 <oov>	B-PER
 <oov>	I-PER
@@ -48175,7 +48175,7 @@ CUP	I-MISC
 
 <oov>	O
 of	O
-<oov>	B-PER
+Aslan	B-MISC
 Cup	I-MISC
 <oov>	O
 A	O
@@ -48279,7 +48279,7 @@ A	O
 <oov>	O
 <oov>	O
 :	O
-<oov>	B-PER
+player	O
 ,	O
 won	O
 ,	O
@@ -48728,8 +48728,8 @@ SAN	B-ORG
 
 <oov>	O
 86	O
+<oov>	B-PER
 <oov>	O
-STAGE	O
 71	O
 
 LA	B-ORG
@@ -49115,10 +49115,10 @@ NEW	B-LOC
 YORK	I-LOC
 <oov>	I-LOC
 
-<oov>	B-PER
+<oov>	O
 of	O
 <oov>	B-PER
-Hickey	I-PER
+<oov>	I-PER
 
 <oov>	B-PER
 <oov>	I-PER
@@ -49194,7 +49194,7 @@ YORK	I-LOC
 <oov>	B-PER
 <oov>	I-PER
 star	O
-<oov>	B-PER
+fight	O
 wing	O
 <oov>	B-PER
 <oov>	I-PER
@@ -49600,7 +49600,7 @@ back	O
 but	O
 were	O
 <oov>	O
-denies	O
+<oov>	O
 by	O
 the	O
 <oov>	O
@@ -50097,7 +50097,7 @@ the	O
 <oov>	O
 was	O
 <oov>	O
-declares	O
+<oov>	O
 one	O
 of	O
 <oov>	O
@@ -50243,7 +50243,7 @@ he	O
 .	O
 
 <oov>	O
-manages	O
+<oov>	I-PER
 <oov>	O
 for	O
 93	O

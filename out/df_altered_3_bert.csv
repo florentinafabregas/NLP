@@ -1,0 +1,21 @@
+Type,Rate,F1 Score
+capitalization_swap,0.1,0.8360042735042735
+capitalization_swap,0.15,0.8037265967929768
+capitalization_swap,0.2,0.766483268693064
+capitalization_swap,0.25,0.7361816000738212
+capitalization_swap,0.3,0.7016393442622951
+character_swap,0.1,0.8990422634214921
+character_swap,0.15,0.788370874803562
+character_swap,0.2,0.6407064017660044
+character_swap,0.25,0.5739506395244101
+character_swap,0.3,0.5483342435827417
+character_removal,0.1,0.9000088253463949
+character_removal,0.15,0.7861717995963851
+character_removal,0.2,0.6119349651599071
+character_removal,0.25,0.5473098330241188
+character_removal,0.3,0.5235671191553545
+character_replacement,0.1,0.9035157282579963
+character_replacement,0.15,0.7916054927023058
+character_replacement,0.2,0.6337021276595745
+character_replacement,0.25,0.5813333333333335
+character_replacement,0.3,0.5612429866206301

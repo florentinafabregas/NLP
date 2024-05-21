@@ -439,7 +439,7 @@ one	O
 game	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 RUGBY	B-ORG
 UNION	I-ORG
@@ -476,7 +476,7 @@ a	O
 year	O
 after	O
 the	O
-30-year-old	O
+<oov>	O
 wing	O
 announced	O
 he	O
@@ -722,7 +722,7 @@ Andrea	B-PER
 <oov>	I-PER
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -1317,7 +1317,7 @@ France	B-LOC
 )	O
 <oov>	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -1465,7 +1465,7 @@ China	B-LOC
 2	O
 0	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 CRICKET	O
 -	O
@@ -1902,7 +1902,7 @@ Plymouth	B-ORG
 Exeter	B-ORG
 1	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -2224,7 +2224,7 @@ on	O
 Saturday	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 -	O
@@ -3859,7 +3859,7 @@ Series	I-MISC
 <oov>	I-MISC
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 CRICKET	O
 -	O
@@ -4248,7 +4248,7 @@ out	O
 )	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 CRICKET	O
 -	O
@@ -4351,7 +4351,7 @@ v	O
 Victoria	B-LOC
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 CRICKET	O
 -	O
@@ -5166,7 +5166,7 @@ China	B-LOC
 )	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -5679,7 +5679,7 @@ LOS	B-ORG
 ANGELES	I-ORG
 1	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 AMERICAN	B-MISC
@@ -6808,7 +6808,7 @@ CITY	I-ORG
 AT	O
 OAKLAND	B-LOC
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 AMERICAN	O
@@ -6843,7 +6843,7 @@ CAPS	O
 <oov>	O
 10	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 AMERICAN	O
@@ -7605,7 +7605,7 @@ Gray	I-PER
 30,000	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -7888,7 +7888,7 @@ Nice	B-ORG
 38	O
 13	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -7923,7 +7923,7 @@ Germain	I-ORG
 Nancy	B-ORG
 2	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -8045,7 +8045,7 @@ Halftime	O
 <oov>	B-PER
 <oov>	I-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 TENNIS	O
 -	O
@@ -8669,7 +8669,7 @@ Miguel	I-PER
 Laurent	B-PER
 <oov>	I-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 <oov>	B-PER
@@ -8763,7 +8763,7 @@ of	O
 "	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -9383,7 +9383,7 @@ the	O
 Cup	I-MISC
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -10343,8 +10343,8 @@ Cairns	I-PER
 15-8	O
 .	O
 
-<oov>	B-PER
-Eyles	I-PER
+Top-seeded	O
+Eyles	B-PER
 now	O
 meets	O
 <oov>	O
@@ -10396,7 +10396,7 @@ said	O
 Nicol	B-PER
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SQUASH	O
 -	O
@@ -10464,7 +10464,7 @@ on	O
 Saturday	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -11140,7 +11140,7 @@ the	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	B-PER
 ROMANIA	I-PER
@@ -11598,7 +11598,7 @@ Prague	B-ORG
 Newsroom	I-ORG
 42-2-2423-0003	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 POLAND	B-LOC
 <oov>	O
@@ -12062,7 +12062,7 @@ would	O
 work	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 SEES	O
@@ -13106,7 +13106,7 @@ talks	O
 .	O
 "	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -13179,7 +13179,7 @@ newsroom	O
 +6221	O
 384-6364	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 at	O
@@ -13250,7 +13250,7 @@ newsroom	O
 384-6364	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 charged	O
@@ -14266,7 +14266,7 @@ ill	O
 .	O
 
 The	O
-15-year-old	O
+<oov>	O
 girl	O
 is	O
 also	O
@@ -14459,7 +14459,7 @@ a	O
 lunch	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Major	B-ORG
 's	O
@@ -14840,7 +14840,7 @@ Newsroom	I-ORG
 <oov>	I-ORG
 7717	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 RTRS	B-ORG
 -	O
@@ -14971,7 +14971,7 @@ New	B-LOC
 Zealand	I-LOC
 231	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Manitoba	B-ORG
 Pork	I-ORG
@@ -15293,7 +15293,7 @@ Desk	I-ORG
 859	O
 <oov>	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 New	B-LOC
 York	I-LOC
@@ -15342,7 +15342,7 @@ Desk	I-ORG
 859	O
 <oov>	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Clean	O
 <oov>	O
@@ -16625,7 +16625,7 @@ death	O
 sentence	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 commander	O
@@ -18471,7 +18471,7 @@ city	O
 centre	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Five	O
 die	O
@@ -18592,7 +18592,7 @@ Newsroom	I-ORG
 941	O
 8520	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 attack	O
@@ -18736,7 +18736,7 @@ for	O
 comment	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Albanian	B-MISC
 jailed	O
@@ -19135,7 +19135,7 @@ last	O
 month	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Russia	B-LOC
 warns	O
@@ -19916,7 +19916,7 @@ Newsroom	I-ORG
 <oov>	I-PER
 <oov>	I-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 Russia	B-LOC
 ready	O
@@ -20132,7 +20132,7 @@ its	O
 security	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Yeltsin	B-PER
 plans	O
@@ -20361,7 +20361,7 @@ his	O
 residence	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Bomb	O
 <oov>	O
@@ -20706,7 +20706,7 @@ the	O
 mosque	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Hungary	B-LOC
 o	O
@@ -20867,7 +20867,7 @@ newsroom	O
 <oov>	B-PER
 <oov>	B-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 Mexico	B-LOC
 stocks	O
@@ -21296,7 +21296,7 @@ do	O
 .	O
 '	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 surgery	O
@@ -21926,7 +21926,7 @@ Newsroom	I-ORG
 +541	O
 318-0655	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Mexican	B-MISC
 daily	O
@@ -22314,7 +22314,7 @@ Globo	I-ORG
 said	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Chile	B-LOC
 ,	O
@@ -23079,7 +23079,7 @@ $	O
 yuan	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	O
@@ -25334,7 +25334,7 @@ five	O
 percent	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Lebanon	B-LOC
 sentences	O
@@ -27087,7 +27087,7 @@ for	O
 surgery	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Canadian	B-MISC
 grain	O
@@ -27338,7 +27338,7 @@ newsdesk	O
 <oov>	O
 )	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 NYMEX	O
 <oov>	O
@@ -28252,7 +28252,7 @@ spokesman	O
 added	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Action	B-ORG
 <oov>	O
@@ -28351,7 +28351,7 @@ closing	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 of	O
@@ -28767,7 +28767,7 @@ newsdesk	O
 )	O
 )	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Nebraska	B-LOC
 fed	O
@@ -28905,13 +28905,13 @@ the	O
 post	O
 of	O
 U.N.	B-ORG
-secretary-general	O
+<oov>	O
 on	O
 Friday	O
 now	O
 that	O
 Boutros	B-PER
-Boutros-Ghali	I-PER
+<oov>	I-PER
 has	O
 <oov>	O
 put	O
@@ -28982,7 +28982,7 @@ of	O
 <oov>	B-PER
 ,	O
 the	O
-<oov>	O
+secretary-general	O
 of	O
 the	O
 <oov>	O
@@ -29133,7 +29133,7 @@ Nov.	O
 his	O
 bid	O
 for	O
-<oov>	O
+re-election	O
 while	O
 the	O
 other	O
@@ -29712,7 +29712,7 @@ newsroom	O
 <oov>	O
 <oov>	B-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 EU	B-ORG
 ,	O
@@ -30310,7 +30310,7 @@ Fax	O
 230	O
 <oov>	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 London	B-LOC
 coal	O
@@ -30482,7 +30482,7 @@ Newsroom	I-ORG
 171	O
 <oov>	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Italy	B-LOC
 tops	O
@@ -31078,7 +31078,7 @@ on	O
 Friday	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Two	O
 dead	O
@@ -31308,7 +31308,7 @@ on	O
 Friday	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 PLO	B-ORG
 says	O
@@ -32124,7 +32124,7 @@ been	O
 killed	O
 in	O
 the	O
-<oov>	O
+12-year-old	O
 conflict	O
 between	O
 Turkish	B-MISC
@@ -32262,7 +32262,7 @@ lbs	O
 <oov>	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Kansas	B-LOC
 feedlot	O
@@ -32489,7 +32489,7 @@ Desk	I-ORG
 ,	O
 212-859-1650	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 energy	O
@@ -33096,7 +33096,7 @@ U.S.	B-LOC
 citizens	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 School	B-ORG
 football	O
@@ -33845,7 +33845,7 @@ said	O
 Marc	B-PER
 <oov>	I-PER
 ,	O
-vice-president	O
+<oov>	O
 of	O
 the	O
 <oov>	O
@@ -34010,9 +34010,9 @@ Tim	B-PER
 Casey	I-PER
 of	O
 the	O
-U.S.-based	B-MISC
-<oov>	I-MISC
-<oov>	I-MISC
+<oov>	O
+<oov>	O
+<oov>	I-PER
 <oov>	I-PER
 .	O
 "	O
@@ -35065,7 +35065,7 @@ bonus	O
 scheme	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 German	B-MISC
 <oov>	O
@@ -35188,7 +35188,7 @@ Hamburg	B-LOC
 newsroom	O
 <oov>	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 Munich	B-PER
 Re	I-PER
@@ -35337,7 +35337,7 @@ Newsroom	I-ORG
 69	O
 756525	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 EU	B-ORG
 experts	O
@@ -35498,7 +35498,7 @@ no	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 John	B-PER
 Lewis	I-PER
@@ -35673,7 +35673,7 @@ newsroom	O
 +6221	O
 384-6364	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 British	B-MISC
 "	O
@@ -36630,7 +36630,7 @@ good	O
 "	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 RTRS	B-ORG
 -	O
@@ -36795,11 +36795,11 @@ officer	O
 <oov>	I-PER
 .	O
 
-<oov>	O
+<oov>	B-PER
 ,	O
 a	O
 <oov>	O
-<oov>	O
+campaigned	O
 for	O
 <oov>	O
 economic	O
@@ -36871,7 +36871,7 @@ Bureau	I-PER
 <oov>	I-PER
 <oov>	I-PER
 
-<oov>	B-PER
+-DOCSTART-	O
 
 Burmese	B-MISC
 students	O
@@ -37580,7 +37580,7 @@ tourist	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 EPA	O
 says	O
@@ -39605,7 +39605,7 @@ Fax	O
 504	O
 504	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	O
@@ -40188,7 +40188,7 @@ the	O
 pace	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	I-PER
@@ -41162,7 +41162,7 @@ declared	O
 official	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 <oov>	I-MISC
@@ -41589,7 +41589,7 @@ on	O
 Saturday	O
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 <oov>	O
 <oov>	I-PER
@@ -42073,7 +42073,7 @@ Hannes	B-PER
 
 <oov>	B-PER
 
--DOCSTART-	O
+<oov>	B-PER
 
 CRICKET	O
 -	O
@@ -42805,7 +42805,7 @@ Slovakia	B-LOC
 )	O
 76	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 BADMINTON	O
 -	O
@@ -43660,7 +43660,7 @@ Celtic	B-ORG
 )	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -43803,7 +43803,7 @@ Newcastle	B-ORG
 )	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -43946,7 +43946,7 @@ Glentoran	B-ORG
 12	O
 7	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 RUGBY	B-ORG
 UNION	I-ORG
@@ -44992,7 +44992,7 @@ Stirling	I-ORG
 25	O
 11	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -46224,7 +46224,7 @@ December	O
 14	O
 )	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O
@@ -46476,7 +46476,7 @@ Cardiff	B-ORG
 <oov>	B-ORG
 2	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 RUGBY	B-ORG
 UNION	I-ORG
@@ -46632,7 +46632,7 @@ to	O
 <oov>	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 RUGBY	B-ORG
 UNION	I-ORG
@@ -47306,7 +47306,7 @@ the	O
 third	O
 wicket	O
 with	O
-left-hander	O
+<oov>	O
 <oov>	B-PER
 Harper	I-PER
 .	O
@@ -47371,7 +47371,7 @@ for	O
 Victoria	B-LOC
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 CRICKET	O
 -	O
@@ -47443,7 +47443,7 @@ out	O
 )	O
 .	O
 
--DOCSTART-	O
+<oov>	B-PER
 
 SOCCER	O
 -	O
@@ -48654,7 +48654,7 @@ DENVER	O
 AT	O
 SEATTLE	B-LOC
 
--DOCSTART-	O
+<oov>	B-PER
 
 NBA	B-ORG
 <oov>	O
@@ -49100,7 +49100,7 @@ OTTAWA	B-ORG
 AT	O
 VANCOUVER	B-LOC
 
--DOCSTART-	O
+<oov>	B-PER
 
 <oov>	O
 ICE	O
@@ -49615,7 +49615,7 @@ striker	O
 Ronaldo	B-PER
 .	O
 
-<oov>	B-PER
+-DOCSTART-	O
 
 SOCCER	O
 -	O

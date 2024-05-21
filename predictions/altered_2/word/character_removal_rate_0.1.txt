@@ -3560,7 +3560,7 @@ Friday	O
 
 Lara	B-PER
 ,	O
-<oov>	O
+discipline	O
 for	O
 <oov>	O
 on	O
@@ -8747,7 +8747,7 @@ the	O
 game	O
 <oov>	O
 that	O
-<oov>	O
+supporter	O
 will	O
 be	O
 barred	O
@@ -10413,7 +10413,7 @@ India	B-LOC
 
 Results	O
 of	O
-semifinal	O
+<oov>	O
 in	O
 the	O
 <oov>	O
@@ -11091,7 +11091,7 @@ of	O
 <oov>	O
 of	O
 security	O
-<oov>	O
+structure	O
 .	O
 "	O
 
@@ -11579,7 +11579,7 @@ after	O
 the	O
 left-wing	O
 <oov>	O
-consolidate	O
+<oov>	O
 ,	O
 putting	O
 the	O
@@ -12785,9 +12785,9 @@ Newsroom	I-ORG
 
 <oov>	O
 HAS	I-PER
-<oov>	O
+<oov>	I-PER
 AFTER	O
-CONDITION	O
+<oov>	B-PER
 <oov>	O
 .	O
 
@@ -12871,7 +12871,7 @@ place	O
 yesterday	O
 ,	O
 "	O
-<oov>	O
+residential	O
 spokesman	O
 <oov>	B-PER
 <oov>	I-PER
@@ -13524,7 +13524,7 @@ agree	O
 that	O
 without	O
 suitable	O
-undertaking	O
+<oov>	O
 the	O
 alliance	O
 would	O
@@ -13675,7 +13675,7 @@ However	O
 it	O
 called	O
 the	O
-condition	O
+<oov>	O
 "	O
 more	O
 severe	O
@@ -16180,8 +16180,8 @@ Santa	B-PER
 has	O
 mining	O
 and	O
-<oov>	O
-operation	O
+<oov>	B-PER
+<oov>	I-PER
 in	O
 <oov>	B-LOC
 ,	O
@@ -16892,7 +16892,7 @@ rebels	O
 and	O
 their	O
 local	O
-<oov>	O
+supporter	O
 .	O
 
 Canadian	B-MISC
@@ -17101,7 +17101,7 @@ the	O
 of	O
 the	O
 Zairean	B-MISC
-<oov>	I-MISC
+goverment	O
 ,	O
 he	O
 said	O
@@ -19209,7 +19209,7 @@ regional	O
 ,	O
 "	O
 said	O
-<oov>	B-PER
+Kostantin	B-PER
 <oov>	I-PER
 ,	O
 equities	O
@@ -19445,11 +19445,11 @@ that	O
 
 <oov>	O
 social	O
-<oov>	O
+infrastructure	O
 in	O
 the	O
 <oov>	O
-Far	B-ORG
+Far	B-LOC
 North	I-LOC
 where	O
 <oov>	O
@@ -21818,7 +21818,7 @@ a	O
 
 <oov>	B-PER
 said	O
-<oov>	B-PER
+operation	O
 fell	O
 30	O
 percent	O
@@ -22398,7 +22398,7 @@ friction	O
 in	O
 free	O
 trade	O
-negotiation	O
+<oov>	O
 than	O
 <oov>	O
 reduction	O
@@ -23951,7 +23951,7 @@ trade	O
 talks	O
 and	O
 labour	O
-<oov>	O
+condition	O
 had	O
 pressured	O
 World	O
@@ -24127,7 +24127,7 @@ Some	O
 <oov>	O
 are	O
 very	O
-determine	O
+<oov>	O
 to	O
 stop	O
 the	O
@@ -24768,7 +24768,7 @@ comments	O
 about	O
 the	O
 U.S.	B-LOC
-goverment	O
+<oov>	I-MISC
 's	O
 stance	O
 on	O
@@ -27448,7 +27448,7 @@ is	O
 calling	O
 for	O
 <oov>	O
-<oov>	O
+temperature	O
 in	O
 more	O
 than	O
@@ -28206,7 +28206,7 @@ to	O
 have	O
 regular	O
 news	O
-conference	O
+<oov>	O
 "	O
 during	O
 his	O
@@ -28348,7 +28348,7 @@ and	O
 other	O
 customary	O
 closing	O
-condition	O
+<oov>	O
 .	O
 
 <oov>	B-PER
@@ -28638,7 +28638,7 @@ fad	O
 <oov>	O
 owned	O
 by	O
-<oov>	O
+individual	O
 who	O
 need	O
 to	O
@@ -29023,7 +29023,7 @@ to	O
 hand	O
 in	O
 the	O
-<oov>	O
+nomination	O
 in	O
 writing	O
 ,	O
@@ -29106,7 +29106,7 @@ race	O
 .	O
 
 His	O
-<oov>	B-PER
+supporter	O
 said	O
 this	O
 meant	O
@@ -29319,7 +29319,7 @@ which	O
 attracted	O
 several	O
 thousand	O
-<oov>	O
+supporter	O
 ,	O
 coincided	O
 with	O
@@ -30783,7 +30783,7 @@ is	O
 <oov>	O
 using	O
 all	O
-<oov>	O
+goverment	O
 bonds	O
 with	O
 over	O
@@ -32883,7 +32883,7 @@ been	O
 to	O
 the	O
 Greek	B-MISC
-goverment	O
+<oov>	I-MISC
 ,	O
 <oov>	B-PER
 said	O
@@ -33353,7 +33353,7 @@ of	O
 <oov>	O
 <oov>	O
 over	O
-procedure	O
+<oov>	O
 ,	O
 some	O
 600	O
@@ -33427,7 +33427,7 @@ to	O
 finish	O
 all	O
 the	O
-discussion	O
+<oov>	O
 ,	O
 "	O
 a	O
@@ -34503,7 +34503,7 @@ a	O
 ceremony	O
 <oov>	O
 the	O
-<oov>	O
+execution	O
 there	O
 by	O
 Austrian	B-MISC
@@ -34536,8 +34536,8 @@ a	O
 small	O
 group	O
 of	O
-League	B-LOC
-supporter	O
+League	B-MISC
+<oov>	O
 when	O
 he	O
 arrived	O
@@ -35252,7 +35252,7 @@ the	O
 move	O
 at	O
 its	O
-shareholers	O
+<oov>	O
 '	O
 meeting	O
 today	O
@@ -35778,8 +35778,8 @@ endure	O
 "	O
 <oov>	B-PER
 told	O
-BBC	B-ORG
-televison	I-PER
+BBC	B-PER
+<oov>	I-PER
 's	O
 <oov>	O
 programme	O
@@ -35835,7 +35835,7 @@ to	O
 resign	O
 if	O
 the	O
-goverment	O
+<oov>	O
 changed	O
 its	O
 "	O
@@ -36224,7 +36224,7 @@ that	O
 diplomats	O
 had	O
 directed	O
-<oov>	O
+Australia	B-LOC
 <oov>	O
 aid	O
 to	O
@@ -36240,7 +36240,7 @@ children	O
 
 <oov>	B-PER
 
-Australia	B-LOC
+<oov>	O
 <oov>	O
 killed	O
 wrong	O
@@ -36645,7 +36645,7 @@ resigns	O
 CANBERRA	B-PER
 <oov>	I-PER
 
-Australia	B-LOC
+<oov>	O
 <oov>	O
 John	B-PER
 <oov>	I-PER
@@ -36980,7 +36980,7 @@ between	O
 some	O
 of	O
 their	O
-<oov>	O
+colleague	O
 and	O
 <oov>	O
 owners	O
@@ -37912,7 +37912,7 @@ any	O
 progress	O
 in	O
 their	O
-<oov>	O
+negotiation	O
 .	O
 
 Both	O
@@ -38289,7 +38289,7 @@ property	O
 Umar	B-PER
 said	O
 the	O
-goverment	O
+<oov>	O
 had	O
 yet	O
 to	O
@@ -38846,7 +38846,7 @@ Uruguay	B-LOC
 <oov>	I-MISC
 free	O
 trade	O
-commitment	O
+<oov>	O
 under	O
 its	O
 <oov>	O
@@ -39113,7 +39113,7 @@ would	O
 depend	O
 on	O
 how	O
-sucessful	O
+<oov>	O
 it	O
 was	O
 in	O
@@ -39306,7 +39306,7 @@ a	O
 news	O
 <oov>	O
 the	O
-<oov>	O
+goverment	O
 plans	O
 to	O
 split	O
@@ -39686,7 +39686,7 @@ at	O
 the	O
 1991	O
 World	B-MISC
-<oov>	I-MISC
+Championship	I-MISC
 .	O
 
 <oov>	B-PER
@@ -46587,7 +46587,7 @@ for	O
 a	O
 <oov>	O
 side	O
-determine	O
+<oov>	O
 to	O
 finish	O
 their	O
@@ -46999,7 +46999,7 @@ soccer	O
 governing	O
 body	O
 <oov>	B-PER
-Albania	I-PER
+Albania	B-LOC
 last	O
 Tuesday	O
 after	O
@@ -47007,7 +47007,7 @@ the	O
 Balkan	B-LOC
 country	O
 's	O
-<oov>	O
+goverment	O
 lifted	O
 <oov>	O
 on	O
@@ -49544,7 +49544,7 @@ New	O
 Year	O
 break	O
 ,	O
-Real	B-PER
+Real	O
 are	O
 also	O
 assured	O
@@ -49554,7 +49554,7 @@ spending	O
 ahead	O
 of	O
 their	O
-<oov>	O
+arch-rival	O
 .	O
 
 A	O
@@ -50142,7 +50142,7 @@ in	O
 of	O
 Charlton	B-PER
 's	O
-achievement	O
+<oov>	O
 as	O
 the	O
 national	O
@@ -50278,7 +50278,7 @@ two	O
 World	B-MISC
 Cup	I-MISC
 finals	O
-tournament	O
+<oov>	O
 and	O
 to	O
 the	O
