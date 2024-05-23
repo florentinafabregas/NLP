@@ -6,7 +6,7 @@ This repository contains the source code for our final exam in the course Natura
 ##### Training
 The training of the three different models can be found in the three main jupyter notebooks bilstm_word.ipynb bilstm_char.ipynb and bert.ipynb respectively. For reproducibility you can use the train-dev-test dataset in the folder data from the repository. You also need to download the glove embeddings glove.gB.100d.txt to the same folder. 
 
-###### Testing
+##### Testing
 For testing performance in noisy test datasets you need an input file with the format <word><TAB><nertag>. You can use 'data/gold.txt'. Choose a type of noise (capitalization_swap, character_swap, character_removal, character_replacement) and a rate. 
 Example input file = 'data/gold.txt' , type = 'character_swap', rate = 0.175
 
