@@ -159,7 +159,7 @@ if __name__ == '__main__':
         noise_type = sys.argv[1]
         rate = sys.argv[2]
 
-        testdatapath = f'data/altered/{noise_type}_rate_{rate}.txt'
+        testdatapath = f'out/noisy_file/{noise_type}_rate_{rate}.txt'
 
         Xtest, Ytest, x_testlengths = load_data(testdatapath)
 

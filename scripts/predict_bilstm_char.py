@@ -349,7 +349,7 @@ if __name__ == '__main__':
         noise_type = sys.argv[1]
         rate = sys.argv[2]
 
-        testdatapath = f'data/altered/{noise_type}_rate_{rate}.txt'
+        testdatapath = f'out/noisy_file/{noise_type}_rate_{rate}.txt'
         prediction_path = f'predictions/bilstm_char/{noise_type}_rate_{rate}.txt'
 
         my_loader = loader(testdatapath)
