@@ -7,8 +7,9 @@ This repository contains the source code for our final exam in the course Natura
 The training of the three different models can be found in the three main jupyter notebooks bilstm_word.ipynb bilstm_char.ipynb and bert.ipynb respectively. For reproducibility you can use the train-dev-test dataset in the folder data from the repository. You also need to download the glove embeddings glove.gB.100d.txt to the same folder. 
 
 ##### Testing
-For testing performance in noisy test datasets you need an input file with the format <word><TAB><nertag>. You can use 'data/gold.txt'. Choose a type of noise (capitalization_swap, character_swap, character_removal, character_replacement) and a rate. 
-Example input file = 'data/gold.txt' , type = 'character_swap', rate = 0.175
+For testing performance in noisy test datasets you need an input file with the format <word><TAB><nertag>. Choose a type of noise (capitalization_swap, character_swap, character_removal, character_replacement) and a rate.
+
+Example: input file = 'data/gold.txt' , type = 'character_swap', rate = 0.175
 
 ##### Noise injection
  Run the noisee.py script with input file, type and rate. It will output a modified text file in folder out/noisy_file
@@ -20,4 +21,4 @@ Run any of the model scripts for prediction of previously generated noisy data. 
 
 python3 scripts/predict_bilstm_word.py character_swap 0.175
 
------- return <Span-F1 score:  0.4649981181783967>
+---> return <Span-F1 score:  0.4649981181783967>
